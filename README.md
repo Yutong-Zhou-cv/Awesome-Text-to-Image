@@ -14,9 +14,11 @@
   * [Caltech-UCSD Bird (CUB)](#head-CUB)
   * [Oxford-102 Flower](#head-Flower)
   * [MS-COCO](#head-COCO)
+  
 * - [ ] [4. Paper With Code](#head4)
+  * - [ ] [2021](#head-2021)
   * - [ ] [2020](#head-2020)
-  * - [ ] [2019](#head-2019)
+  * - [x] [2019](#head-2019)
   * - [x] [2018](#head-2018)
   * - [x] [2017](#head-2017)
   * - [x] [2016](#head-2016)
@@ -69,6 +71,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head4"> *4.Paper With Code* </span>
 
+* <span id="head-2021"> **2021**  </span>
+    * (WACV 2021) **Text-to-Image Generation Grounded by Fine-Grained User Attention**, Jing Yu Koh et al. [[Paper](https://arxiv.org/pdf/2011.03775.pdf)] 
+    
 * <span id="head-2020"> **2020**  </span>
     * (WIREs Data Mining and Knowledge Discovery 2020) **A survey and taxonomy of adversarial neural networks for text-to-image synthesis**, Jorge Agnese et al. [[Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1345)] 
     * (TPAMI 2020) **Semantic Object Accuracy for Generative Text-to-Image Synthesis**, Tobias Hinz et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184960)] [[Code](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis)]
