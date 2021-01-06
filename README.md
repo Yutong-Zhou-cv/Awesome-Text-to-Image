@@ -16,6 +16,7 @@
   * [MS-COCO](#head-COCO)
   
 * - [ ] [4. Paper With Code](#head4)
+  * - [ ] [Survey](#head-Survey)
   * - [ ] [2021](#head-2021)
   * - [ ] [2020](#head-2020)
   * - [x] [2019](#head-2019)
@@ -71,6 +72,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head4"> *4.Paper With Code* </span>
 
+* <span id="head-Survey"> **Survey**  </span>
+    * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
+    
 * <span id="head-2021"> **2021**  </span>
     * (WACV 2021) **Text-to-Image Generation Grounded by Fine-Grained User Attention**, Jing Yu Koh et al. [[Paper](https://arxiv.org/pdf/2011.03775.pdf)] 
     
@@ -90,7 +94,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (CVPR 2020 - Workshop) **SegAttnGAN: Text to Image Generation with Segmentation Attention**, Yuchuan Gou et al. [[Paper](https://arxiv.org/pdf/2005.12444.pdf)]
     * (IVPR 2020) **PerceptionGAN: Real-world Image Construction from Provided Text through Perceptual Understanding**, Kanish Garg et al. [[Paper](https://arxiv.org/pdf/2007.00977.pdf)]
     * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
+    * (ACMMM 2020) **Text-Guided Neural Image Inpainting**, Lisai Zhang et al. [[Paper](https://arxiv.org/pdf/2004.03212.pdf)] [[Code](https://github.com/idealwhite/TDANet)]
     * (COLING 2020) **Leveraging Visual Question Answering to Improve Text-to-Image Synthesis**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2010.14953.pdf)] 
+    * (IRCDL 2020) **Text-to-Image Synthesis Based on Machine Generated Captions**, Marco Menardi et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-39905-4_7)] 
     * (arXiv preprint 2020) **TIME: Text and Image Mutual-Translation Adversarial Networks**, Bingchen Liu et al. [[Paper](https://arxiv.org/pdf/2005.13192.pdf)] 
     * (arXiv preprint 2020) **DF-GAN: Deep fusion generative adversarial networks for Text-to-Image synthesis**, Ming Tao et al. [[Paper](https://arxiv.org/pdf/2008.05865.pdf)] [[Code](https://github.com/tobran/DF-GAN)] 
     
