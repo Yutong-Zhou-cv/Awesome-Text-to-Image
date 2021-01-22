@@ -23,7 +23,11 @@
   * - [x] [2018](#head-2018)
   * - [x] [2017](#head-2017)
   * - [x] [2016](#head-2016)
-* [*Contact Me*](#head5)
+  
+* - [ ] [5. Other Related Works](#head5)
+
+
+* [*Contact Me*](#head6)
 
  ## <span id="head1"> *1.Description* </span>
 
@@ -145,6 +149,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (NIPS 2016) **Learning What and Where to Draw**, Scott Reed et al. [[Paper](https://arxiv.org/pdf/1610.02454.pdf)] [[Code](https://github.com/reedscot/nips2016)]
 
 
-## <span id="head5"> *Contact Me* </span>
+## <span id="head5"> *5. Other Related Works* </span>
+   * **Label-set → Semantic maps**
+       * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
+
+## <span id="head6"> *Contact Me* </span>
 
 * If you have any question, please feel free to contact Yutong ZHOU (E-mail: <zhou@i.ci.ritsumei.ac.jp>).
