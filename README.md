@@ -1,5 +1,9 @@
- # A-Text_to_Image-zoo </span>
-[Yutong ZHOU](https://github.com/Yutong-Zhou-cv) in [Interaction Laboratory, Ritsumeikan University.](https://github.com/Rits-Interaction-Laboratory) ლ(╹◡╹ლ) 
+# <p align=center>`awesome Text_to_Image papers`</p>
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](http://makeapullrequest.com) 
+
+A collection of resources on text-to-image synthesis task.
 
 ## <span id="head-content"> *Content* </span>
 * - [x] [1. Description](#head1)
@@ -14,7 +18,7 @@
   * [Caltech-UCSD Bird (CUB)](#head-CUB)
   * [Oxford-102 Flower](#head-Flower)
   * [MS-COCO](#head-COCO)
-  
+  * [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
 * - [ ] [4. Paper With Code](#head4)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [2021](#head-2021)
@@ -59,6 +63,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Annotations per image: 15 Part Locations, 312 Binary Attributes, 1 Bounding Box, Ground-truth Segmentation
   * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Website](https://drive.google.com/file/d/0B0ywwgffWnLLZW9uVHNjb2JmNlE/view)]
     * Descriptions per image: 10 Captions
+    
 * <span id="head-Flower"> **Oxford-102 Flower** </span>
 
   Oxford-102 Flower is a 102 category dataset, consisting of 102 flower categories. The flowers are chosen to be flower commonly occurring in the United Kingdom. The images have large scale, pose and light variations. 
@@ -67,12 +72,26 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Number of flower images: 8,189
   * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Website](https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view)]
     * Descriptions per image: 10 Captions
+    
 * <span id="head-COCO"> **MS-COCO** </span>
 
   COCO is a large-scale object detection, segmentation, and captioning dataset.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/1405.0312.pdf)] [[Website](https://cocodataset.org/#overview)]
     * Number of images: 120k (**Training**: 80k. **Testing**: 40k.)
     * Descriptions per image: 5 Captions
+    
+* <span id="head-Multi-Modal-CelebA-HQ"> **Multi-Modal-CelebA-HQ** </span>
+
+  Multi-Modal-CelebA-HQ is a large-scale face image dataset for text-to-image-generation, text-guided image manipulation, sketch-to-image generation, GANs for face generation and editing, image caption, and VQA.
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2012.03308.pdf)] [[Website](https://github.com/weihaox/Multi-Modal-CelebA-HQ-Dataset)] [[Download](https://drive.google.com/drive/folders/1eVrGKfkbw7bh9xPcX8HJa-qWQTD9aWvf)]
+    * Number of images (from Celeba-HQ): 30,000 (**Training**: 24,000. **Testing**: 6,000.)
+    * Descriptions per image: 10 Captions
+  * **Detailed information (Masks):** 
+    * Number of masks (from Celeba-Mask-HQ): 30,000 (512 x 512)
+  * **Detailed information (Sketches):** 
+    * Number of Sketches: 30,000 (512 x 512)
+  * **Detailed information (Image with transparent background):** 
+    * Not fully uploaded
 
 ## <span id="head4"> *4.Paper With Code* </span>
 
@@ -81,6 +100,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
     
 * <span id="head-2021"> **2021**  </span>
+    * (CVPR 2021) **TediGAN: Text-Guided Diverse Image Generation and Manipulation**, Weihao Xia et al. [[Paper](https://arxiv.org/pdf/2012.03308.pdf)]  [[Code](https://github.com/openai/DALL-E)] [[Blog](https://openai.com/blog/dall-e/)] [[Project](https://xiaweihao.com/projects/tedigan/)] [[Colab](https://colab.research.google.com/github/weihaox/TediGAN/blob/main/playground.ipynb)] [[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)] 
     * ⭐(arXiv preprint 2021) **Zero-Shot Text-to-Image Generation**, Aditya Ramesh et al. [[Paper](https://arxiv.org/pdf/2102.12092.pdf)] [[Code](https://github.com/openai/DALL-E)] [[Blog](https://openai.com/blog/dall-e/)] [[Model Card](https://github.com/openai/DALL-E/blob/master/model_card.md)] [[Colab](https://colab.research.google.com/drive/1KA2w8bA9Q1HDiZf5Ow_VNOrTaWW4lXXG?usp=sharing)] 
     * (Pattern Recognition 2021) **Unsupervised text-to-image synthesis**, Yanlong Dong et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320320303769)] 
     * (WACV 2021) **Faces a la Carte: Text-to-Face Generation via Attribute Disentanglement**, Tianren Wang et al. [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Faces_a_la_Carte_Text-to-Face_Generation_via_Attribute_Disentanglement_WACV_2021_paper.pdf)] 
@@ -160,5 +180,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
        
 ## <span id="head6"> *Contact Me* </span>
+
+* [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) in [Interaction Laboratory, Ritsumeikan University.](https://github.com/Rits-Interaction-Laboratory) ლ(╹◡╹ლ) 
 
 * If you have any question, please feel free to contact Yutong ZHOU (E-mail: <zhou@i.ci.ritsumei.ac.jp>).
