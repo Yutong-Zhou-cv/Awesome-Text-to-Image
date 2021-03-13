@@ -38,8 +38,6 @@ A collection of resources on text-to-image synthesis task.
 * In the last few decades, the fields of Computer Vision (CV) and Natural Language Processing (NLP) have been made several major technological breakthroughs in deep learning research. Recently, researchers appear interested in combining semantic information and visual information in these traditionally independent fields. 
 A number of studies have been conducted on the text-to-image synthesis techniques that transfer input textual description (keywords or sentences) into realistic images.
 
-* **A-Text_to_Image-zoo**: This is a survey on Text-to-Image Generation/Synthesis. 
-
 * Papers, codes and datasets for the text-to-image task are available here.
 
  ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span>
