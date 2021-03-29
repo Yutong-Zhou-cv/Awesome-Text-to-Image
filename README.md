@@ -176,7 +176,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ACMMM 2020) **Text-Guided Neural Image Inpainting**, Lisai Zhang et al. [[Paper](https://arxiv.org/pdf/2004.03212.pdf)] [[Code](https://github.com/idealwhite/TDANet)]
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
 
-       
+   * **Layout → Image**
+       * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)]
+
 ## <span id="head6"> *Contact Me* </span>
 
 * [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) in [Interaction Laboratory, Ritsumeikan University.](https://github.com/Rits-Interaction-Laboratory) ლ(╹◡╹ლ) 
