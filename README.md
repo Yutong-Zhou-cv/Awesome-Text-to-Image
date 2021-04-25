@@ -181,6 +181,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
    * **Layout → Image**
        * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)]
 
+   * **Text → Visual Retrieval**
+       * (CVPR 2021) **T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval**, Xiaohan Wang et al. [[Paper](https://arxiv.org/pdf/2104.10054.pdf)] 
+       * (CVPR 2021) **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**, Antoine Miech et al. [[Paper](https://arxiv.org/pdf/2103.16553.pdf)] 
+
 ## <span id="head6"> *Contact Me* </span>
 
 * [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) in [Interaction Laboratory, Ritsumeikan University.](https://github.com/Rits-Interaction-Laboratory) ლ(╹◡╹ლ) 
