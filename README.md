@@ -1,4 +1,4 @@
-# <p align=center>`awesome Text_to_Image papers`</p>
+# <p align=center>`Awesome Text_to_Image papers`</p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -31,6 +31,7 @@ A collection of resources on text-to-image synthesis task.
   * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Text+Image → Image](#head-TI2I)
   * - [ ] [Layout → Image](#head-L2I)
+  * - [ ] [Speech → Image](#head-S2I)
   * - [ ] [Text → Visual Retrieval](#head-T2VR)
   * - [ ] [Text → Video](#head-T2V)
 
@@ -183,8 +184,11 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
 
    * <span id="head-L2I"> **Layout → Image** </span>
-       * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)]
-
+       * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)] 
+       
+   * <span id="head-S2I"> **Speech → Image** </span>
+       * (IEEE Journal of Selected Topics in Signal Processing 2020) **Direct Speech-to-Image Translation**, Jiguo Li et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067083)] [[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)] [[Project](https://smallflyingpig.github.io/speech-to-image/main)]
+       
    * <span id="head-T2VR"> **Text → Visual Retrieval** </span>
        * (CVPR 2021) **T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval**, Xiaohan Wang et al. [[Paper](https://arxiv.org/pdf/2104.10054.pdf)] 
        * (CVPR 2021) **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**, Antoine Miech et al. [[Paper](https://arxiv.org/pdf/2103.16553.pdf)] 
