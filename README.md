@@ -79,6 +79,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
   COCO is a large-scale object detection, segmentation, and captioning dataset.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/1405.0312.pdf)] [[Website](https://cocodataset.org/#overview)]
+    * Number of different categories: 91
     * Number of images: 120k (**Training**: 80k. **Testing**: 40k.)
     * Descriptions per image: 5 Captions
     
