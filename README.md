@@ -189,6 +189,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
 
    * <span id="head-L2I"> **Layout → Image** </span> **[`       «🎯Back To Top»       `](#)**
+       * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) **High-Resolution Complex Scene Synthesis with Transformers**, Manuel Jahn et al. [[Paper](https://arxiv.org/pdf/2105.06458.pdf)] 
        * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)] 
        
    * <span id="head-S2I"> **Speech → Image** </span> **[`       «🎯Back To Top»       `](#)**
