@@ -44,6 +44,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * Papers, codes and datasets for the text-to-image task are available here.
 
+>🐌 Markdown Format:
+> * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
+
  ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span> **[`       «🎯Back To Top»       `](#)**
 
 * <span id="head-IS"> Inception Score (IS) </span> [[Paper](https://arxiv.org/pdf/1606.03498.pdf)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)]
