@@ -106,6 +106,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
     
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (AAAI 2021) **TIME: Text and Image Mutual-Translation Adversarial Networks**, Bingchen Liu et al. [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-1426.LiuB.pdf)] [[arXiv Paper](https://arxiv.org/pdf/2005.13192.pdf)] 
     * (arXiv preprint 2021) **Improving Text-to-Image Synthesis Using Contrastive Learning**, Hui Ye et al. [[Paper](https://arxiv.org/pdf/2107.02423v1.pdf)] [[Code](https://github.com/huiyegit/T2I_CL)]
     * (ACMMM 2021) **Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**, Hao Wang et al. [[Paper](https://arxiv.org/pdf/2108.01361.pdf)]
     * (arXiv preprint 2021) **CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders**, Kevin Frans et al. [[Paper](https://arxiv.org/pdf/2106.14843.pdf)] [[Code](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
@@ -136,7 +137,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (IVPR 2020) **PerceptionGAN: Real-world Image Construction from Provided Text through Perceptual Understanding**, Kanish Garg et al. [[Paper](https://arxiv.org/pdf/2007.00977.pdf)]
     * (COLING 2020) **Leveraging Visual Question Answering to Improve Text-to-Image Synthesis**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2010.14953.pdf)] 
     * (IRCDL 2020) **Text-to-Image Synthesis Based on Machine Generated Captions**, Marco Menardi et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-39905-4_7)] 
-    * (arXiv preprint 2020) **TIME: Text and Image Mutual-Translation Adversarial Networks**, Bingchen Liu et al. [[Paper](https://arxiv.org/pdf/2005.13192.pdf)] 
     * (arXiv preprint 2020) **DF-GAN: Deep fusion generative adversarial networks for Text-to-Image synthesis**, Ming Tao et al. [[Paper](https://arxiv.org/pdf/2008.05865.pdf)] [[Code](https://github.com/tobran/DF-GAN)] 
     * (arXiv preprint 2020) **MPG: A Multi-ingredient Pizza Image Generator with Conditional StyleGANs**, Fangda Han et al. [[Paper](https://arxiv.org/pdf/2012.02821.pdf)] 
     
@@ -165,7 +165,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (CVPR 2018) **Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network**, Zizhao Zhang et al. [[Paper](https://arxiv.org/pdf/1802.09178.pdf)] [[Code](https://github.com/ypxie/HDGan)]
     * (CVPR 2018) **Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis**, Seunghoon Hong et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Inferring_Semantic_Layout_CVPR_2018_paper.pdf)] 
     * (CVPR 2018) **Image Generation from Scene Graphs**, Justin Johnson et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0764.pdf)] [[Code](https://github.com/google/sg2im)]
-    * (NIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
     * (ICLR 2018 - Workshop) **ChatPainter: Improving Text to Image Generation using Dialogue**, Shikhar Sharma et al. [[Paper](https://arxiv.org/pdf/1802.08216.pdf)] 
     * (ACMMM 2018) **Text-to-image Synthesis via Symmetrical Distillation Networks**, Mingkuan Yuan et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3240508.3240559)]
     * (WACV 2018) **C4Synth: Cross-Caption Cycle-Consistent Text-to-Image Synthesis**, K. J. Joseph et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658689)]
@@ -194,6 +193,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (CVPR 2020) **ManiGAN: Text-Guided Image Manipulation**, Bowen Li et al. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_ManiGAN_Text-Guided_Image_Manipulation_CVPR_2020_paper.pdf)] [[Code](https://github.com/mrlibw/ManiGAN)]
        * (ACMMM 2020) **Text-Guided Neural Image Inpainting**, Lisai Zhang et al. [[Paper](https://arxiv.org/pdf/2004.03212.pdf)] [[Code](https://github.com/idealwhite/TDANet)]
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
+       * (NIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
 
    * <span id="head-L2I"> **Layout → Image** </span> **[`       «🎯Back To Top»       `](#)**
        * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) **High-Resolution Complex Scene Synthesis with Transformers**, Manuel Jahn et al. [[Paper](https://arxiv.org/pdf/2105.06458.pdf)] 
