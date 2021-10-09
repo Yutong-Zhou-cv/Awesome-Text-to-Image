@@ -106,6 +106,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
     
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (arXiv preprint 2021) **Text to Image Generation with Semantic-Spatial Aware GAN**, Kai Hu et al. [[Paper](https://arxiv.org/pdf/2104.00567.pdf)] [[Code](https://github.com/wtliao/text2image)]
     * (AAAI 2021) **TIME: Text and Image Mutual-Translation Adversarial Networks**, Bingchen Liu et al. [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-1426.LiuB.pdf)] [[arXiv Paper](https://arxiv.org/pdf/2005.13192.pdf)] 
     * (arXiv preprint 2021) **Improving Text-to-Image Synthesis Using Contrastive Learning**, Hui Ye et al. [[Paper](https://arxiv.org/pdf/2107.02423v1.pdf)] [[Code](https://github.com/huiyegit/T2I_CL)]
     * (ACMMM 2021) **Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**, Hao Wang et al. [[Paper](https://arxiv.org/pdf/2108.01361.pdf)]
