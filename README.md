@@ -1,6 +1,6 @@
-# <p align=center>`Awesome Text-to-Image`</p>
+# <p align=center>`Awesome Text📝-to-Image🌇`</p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yutong-Zhou-cv/Awesome-Text-to-Image) ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?color=red) 
 
 A collection of resources on text-to-image synthesis task.
 
@@ -20,6 +20,7 @@ A collection of resources on text-to-image synthesis task.
   * [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
 * - [ ] [4. Paper With Code](#head4)
   * - [ ] [Survey](#head-Survey)
+  * - [ ] [Project](#head-Project)
   * - [ ] [2021](#head-2021)
   * - [x] [2020](#head-2020)
   * - [x] [2019](#head-2019)
@@ -104,7 +105,11 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-Survey"> **Survey**  </span> **[`       «🎯Back To Top»       `](#)**
     * (2021) **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2101.09983.pdf)] 
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
-    
+
+* <span id="head-Project"> **Project**  </span> **[`       «🎯Back To Top»       `](#)**
+    * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
+        * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
+
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
     * (arXiv preprint 2021) **Text to Image Generation with Semantic-Spatial Aware GAN**, Kai Hu et al. [[Paper](https://arxiv.org/pdf/2104.00567.pdf)] [[Code](https://github.com/wtliao/text2image)]
     * (AAAI 2021) **TIME: Text and Image Mutual-Translation Adversarial Networks**, Bingchen Liu et al. [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-1426.LiuB.pdf)] [[arXiv Paper](https://arxiv.org/pdf/2005.13192.pdf)] 
