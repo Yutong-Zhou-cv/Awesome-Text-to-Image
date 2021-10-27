@@ -111,6 +111,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
         * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
 
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (PRCV 2021) **MAGAN: Multi-attention Generative Adversarial Networks for Text-to-Image Generation**, Xibin Jia et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-88013-2_26)]
     * (arXiv preprint 2021) **Text to Image Generation with Semantic-Spatial Aware GAN**, Kai Hu et al. [[Paper](https://arxiv.org/pdf/2104.00567.pdf)] [[Code](https://github.com/wtliao/text2image)]
     * (AAAI 2021) **TIME: Text and Image Mutual-Translation Adversarial Networks**, Bingchen Liu et al. [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-1426.LiuB.pdf)] [[arXiv Paper](https://arxiv.org/pdf/2005.13192.pdf)] 
     * (arXiv preprint 2021) **Improving Text-to-Image Synthesis Using Contrastive Learning**, Hui Ye et al. [[Paper](https://arxiv.org/pdf/2107.02423v1.pdf)] [[Code](https://github.com/huiyegit/T2I_CL)]
