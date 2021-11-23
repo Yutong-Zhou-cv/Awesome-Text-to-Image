@@ -112,6 +112,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
         * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
 
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (arXiv preprint 2021) **DiverGAN: An Efficient and Effective Single-Stage Framework for Diverse Text-to-Image Generation**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/pdf/2111.09267.pdf)] 
     * (Image and Vision Computing) **Transformer models for enhancing AttnGAN based text to image generation**, S. Naveen et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S026288562100189X)]
     * (ACMMM 2021) **R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks**, Yanyuan Qiao et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475363)]
     * (ACMMM 2021) **Multi-caption Text-to-Face Synthesis: Dataset and Algorithm**, Jianxin Sun et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475391)]
