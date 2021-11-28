@@ -104,6 +104,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 ## <span id="head4"> *4.Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[`       «🎯Back To Top»       `](#)**
+    * (2021) **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#)]
     * (2021) **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2101.09983.pdf)] 
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
 
