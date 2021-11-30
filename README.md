@@ -115,6 +115,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
     * ⭐⭐(arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
         * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video(T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
+          ![Figure from paper](pic/NUWA.gif)
+          > *(From: https://github.com/microsoft/NUWA [2021/11/30])*
     * (arXiv preprint 2021) **DiverGAN: An Efficient and Effective Single-Stage Framework for Diverse Text-to-Image Generation**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/pdf/2111.09267.pdf)] 
     * (Image and Vision Computing) **Transformer models for enhancing AttnGAN based text to image generation**, S. Naveen et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S026288562100189X)]
     * (ACMMM 2021) **R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks**, Yanyuan Qiao et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475363)]
