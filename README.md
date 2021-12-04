@@ -49,7 +49,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 >🐌 Markdown Format:
 > * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
 
- ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span> [`       «🎯Back To Top»       `](#)
+ ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span> [       «🎯Back To Top»       ](#)
 
 * <span id="head-IS"> Inception Score (IS) </span> [[Paper](https://arxiv.org/pdf/1606.03498.pdf)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)]
 
@@ -104,7 +104,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head4"> *4.Paper With Code* </span>
 
-* <span id="head-Survey"> **Survey**  </span> [`       «🎯Back To Top»       `](#)
+* <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
     * (2021) **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#)]
     * (2021) **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2101.09983.pdf)] 
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
@@ -113,7 +113,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
         * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
 
-* <span id="head-2021"> **2021**  </span> [       «🎯Back To Top»       ](#)
+* <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
     * (arXiv preprint 2021) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] 
     * (arXiv preprint 2021) **Vector Quantized Diffusion Model for Text-to-Image Synthesis**, Shuyang Gu et al. [[Paper](https://arxiv.org/abs/2111.14822)] 
     * ⭐⭐(arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
@@ -144,7 +144,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (WACV 2021) **Text-to-Image Generation Grounded by Fine-Grained User Attention**, Jing Yu Koh et al. [[Paper](https://arxiv.org/pdf/2011.03775.pdf)] 
     * (arXiv preprint 2021) **Cross-Modal Contrastive Learning for Text-to-Image Generation**, Han Zhang et al. [[Paper](https://arxiv.org/pdf/2101.04702.pdf)] 
     
-* <span id="head-2020"> **2020**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-2020"> **2020**  </span> **[       «🎯Back To Top»       ](#)**
     * (WIREs Data Mining and Knowledge Discovery 2020) **A survey and taxonomy of adversarial neural networks for text-to-image synthesis**, Jorge Agnese et al. [[Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1345)] 
     * (TPAMI 2020) **Semantic Object Accuracy for Generative Text-to-Image Synthesis**, Tobias Hinz et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184960)] [[Code](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis)]
     * (TIP 2020) **KT-GAN: Knowledge-Transfer Generative Adversarial Network for Text-to-Image Synthesis**, Hongchen Tan et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9210842)]
@@ -163,7 +163,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2020) **DF-GAN: Deep fusion generative adversarial networks for Text-to-Image synthesis**, Ming Tao et al. [[Paper](https://arxiv.org/pdf/2008.05865.pdf)] [[Code](https://github.com/tobran/DF-GAN)] 
     * (arXiv preprint 2020) **MPG: A Multi-ingredient Pizza Image Generator with Conditional StyleGANs**, Fangda Han et al. [[Paper](https://arxiv.org/pdf/2012.02821.pdf)] 
     
-* <span id="head-2019"> **2019**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-2019"> **2019**  </span> **[       «🎯Back To Top»       ](#)**
     * (IEEE TCSVT 2019) **Bridge-GAN: Interpretable Representation Learning for Text-to-image Synthesis**, Mingkuan Yuan et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902154)] [[Code](https://github.com/PKU-ICST-MIPL/Bridge-GAN_TCSVT2019)]
     * (AAAI 2019) **Perceptual Pyramid Adversarial Networks for Text-to-Image Synthesis**, Minfeng Zhu et al. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4844)]
     * (AAAI 2019) **Adversarial Learning of Semantic Relevance in Text to Image Synthesis**, Miriam Cha et al. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4553)]
@@ -181,7 +181,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (BMVC 2019) **MS-GAN: Text to Image Synthesis with Attention-Modulated Generators and Similarity-aware Discriminators**, Fengling Mao et al. [[Paper](http://www.jdl.link/doc/2011/20191223_19-BMVC-MS-GAN-Mao-small.pdf)] 
     * (arXiv preprint 2019) **GILT: Generating Images from Long Text**, Ori Bar El et al. [[Paper](https://arxiv.org/pdf/1901.02404.pdf)] [[Code](https://github.com/netanelyo/Recipe2ImageGAN)]
     
-* <span id="head-2018"> **2018**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-2018"> **2018**  </span> **[       «🎯Back To Top»       ](#)**
     * (TPAMI 2018) **StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks**, Han Zhang et al. [[Paper](https://arxiv.org/pdf/1710.10916.pdf)] [[Code](https://github.com/hanzhanggit/StackGAN-v2)]
     * (BMVC 2018) **MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis**, Hyojin Park et al. [[Paper](https://arxiv.org/pdf/1805.01123.pdf)] [[Code](https://github.com/HYOJINPARK/MC_GAN)]
     * (CVPR 2018) **AttnGAN: Fine-grained text to image generation with attentional generative adversarial networks**, Tao Xu et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)] [[Code](https://github.com/taoxugit/AttnGAN)]
@@ -194,21 +194,21 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2018) **Text to Image Synthesis Using Generative Adversarial Networks**, Cristian Bodnar. [[Paper](https://arxiv.org/pdf/1805.00676.pdf)] 
     * (arXiv preprint 2018) **Text-to-image-to-text translation using cycle consistent adversarial networks**, Satya Krishna Gorti et al. [[Paper](https://arxiv.org/pdf/1808.04538.pdf)] [[Code](https://github.com/CSC2548/text2image2textGAN)]
     
-* <span id="head-2017"> **2017**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-2017"> **2017**  </span> **[       «🎯Back To Top»       ](#)**
     * (ICCV 2017) **StackGAN: Text to photo-realistic image synthesis with stacked generative adversarial networks**, Han Zhang et al. [[Paper](https://arxiv.org/pdf/1612.03242.pdf)] [[Code](https://github.com/hanzhanggit/StackGAN)]
     * (ICIP 2017) **I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation**, Hao Dong et al. [[Paper](https://arxiv.org/pdf/1703.06676.pdf)] [[Code](https://github.com/zsdonghao/im2txt2im)]
     * (MLSP 2017) **Adversarial nets with perceptual losses for text-to-image synthesis**, Miriam Cha et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8168140)]
 
-* <span id="head-2016"> **2016**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-2016"> **2016**  </span> **[       «🎯Back To Top»       ](#)**
     * (ICML 2016) **Generative Adversarial Text to Image Synthesis**, Scott Reed et al. [[Paper](http://proceedings.mlr.press/v48/reed16.pdf)] [[Code](https://github.com/reedscot/icml2016)]
     * (NIPS 2016) **Learning What and Where to Draw**, Scott Reed et al. [[Paper](https://arxiv.org/pdf/1610.02454.pdf)] [[Code](https://github.com/reedscot/nips2016)]
 
 
 ## <span id="head5"> *5. Other Related Works* </span>
-   * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[`       «🎯Back To Top»       `](#)**
+   * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[       «🎯Back To Top»       ](#)**
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
 
-   * <span id="head-TI2I"> **Text+Image → Image** </span> **[`       «🎯Back To Top»       `](#)**
+   * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2021) **Blended Diffusion for Text-driven Editing of Natural Images**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2111.14818)] [[Code](https://github.com/omriav/blended-diffusion)]
        * (arXiv preprint 2021) **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. [[Paper](https://arxiv.org/pdf/2103.17249.pdf)] [[Code](https://github.com/openai/DALL-E)]
        * (arXiv preprint 2021) **Paint by Word**, David Bau et al. [[Paper](https://arxiv.org/pdf/2103.10951.pdf)] 
@@ -219,19 +219,19 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
        * (NIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
 
-   * <span id="head-L2I"> **Layout → Image** </span> **[`       «🎯Back To Top»       `](#)**
+   * <span id="head-L2I"> **Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) **High-Resolution Complex Scene Synthesis with Transformers**, Manuel Jahn et al. [[Paper](https://arxiv.org/pdf/2105.06458.pdf)] 
        * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)] 
        
-   * <span id="head-S2I"> **Speech → Image** </span> **[`       «🎯Back To Top»       `](#)**
+   * <span id="head-S2I"> **Speech → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (IEEE Journal of Selected Topics in Signal Processing 2020) **Direct Speech-to-Image Translation**, Jiguo Li et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067083)] [[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)] [[Project](https://smallflyingpig.github.io/speech-to-image/main)]
        
-   * <span id="head-T2VR"> **Text → Visual Retrieval** </span> **[`       «🎯Back To Top»       `](#)**
+   * <span id="head-T2VR"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
        * (CVPR 2021) **T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval**, Xiaohan Wang et al. [[Paper](https://arxiv.org/pdf/2104.10054.pdf)] 
        * (CVPR 2021) **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**, Antoine Miech et al. [[Paper](https://arxiv.org/pdf/2103.16553.pdf)] 
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
-   * <span id="head-T2V"> **Text → Video** </span> **[`       «🎯Back To Top»       `](#)**
+   * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2021) [❌Genertation Task] **Transcript to Video: Efficient Clip Sequencing from Texts**, Yu Xiong et al. [[Paper](https://arxiv.org/pdf/2107.11851.pdf)] [[Project](http://www.xiongyu.me/projects/transcript2video/)]
        * (arXiv preprint 2021) **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2104.14806.pdf)] 
        * (arXiv preprint 2021) **Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary**, Sibo Zhang et al. [[Paper](https://arxiv.org/pdf/2104.14631.pdf)] 
