@@ -1,4 +1,5 @@
-# <p align=center>`Awesome Text📝-to-Image🌇`</p>
+# <p align=center>Awesome Text📝-to-Image🌇</p>
+<!--# <p align=center>`Awesome Text📝-to-Image🌇`</p>-->
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yutong-Zhou-cv/Awesome-Text-to-Image) ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?color=red) 
 
@@ -48,7 +49,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 >🐌 Markdown Format:
 > * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
 
- ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span> **[`       «🎯Back To Top»       `](#)**
+ ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span> [`       «🎯Back To Top»       `](#)
 
 * <span id="head-IS"> Inception Score (IS) </span> [[Paper](https://arxiv.org/pdf/1606.03498.pdf)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)]
 
@@ -58,7 +59,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-L2"> L<sub>2</sub> error </span> [[Paper](https://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)]
 
-## <span id="head3"> *3.Datasets* </span> **[`       «🎯Back To Top»       `](#)**
+## <span id="head3"> *3.Datasets* </span> [       «🎯Back To Top»       ](#)
 
 * <span id="head-CUB"> **Caltech-UCSD Bird(CUB)** </span>
 
@@ -103,16 +104,18 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head4"> *4.Paper With Code* </span>
 
-* <span id="head-Survey"> **Survey**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-Survey"> **Survey**  </span> [`       «🎯Back To Top»       `](#)
     * (2021) **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#)]
     * (2021) **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2101.09983.pdf)] 
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
 
-* <span id="head-Project"> **Project**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-Project"> **Project**  </span> **[       «🎯Back To Top»       ](#)**
     * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
         * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
 
-* <span id="head-2021"> **2021**  </span> **[`       «🎯Back To Top»       `](#)**
+* <span id="head-2021"> **2021**  </span> [       «🎯Back To Top»       ](#)
+    * (arXiv preprint 2021) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] 
+    * (arXiv preprint 2021) **Vector Quantized Diffusion Model for Text-to-Image Synthesis**, Shuyang Gu et al. [[Paper](https://arxiv.org/abs/2111.14822)] 
     * ⭐⭐(arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
         * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video(T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
           ![Figure from paper](pic/NUWA.gif)
@@ -203,9 +206,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head5"> *5. Other Related Works* </span>
    * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[`       «🎯Back To Top»       `](#)**
-       * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/orpatashnik/StyleCLIP)]
+       * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[`       «🎯Back To Top»       `](#)**
+       * (arXiv preprint 2021) **Blended Diffusion for Text-driven Editing of Natural Images**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2111.14818)] [[Code](https://github.com/omriav/blended-diffusion)]
        * (arXiv preprint 2021) **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. [[Paper](https://arxiv.org/pdf/2103.17249.pdf)] [[Code](https://github.com/openai/DALL-E)]
        * (arXiv preprint 2021) **Paint by Word**, David Bau et al. [[Paper](https://arxiv.org/pdf/2103.10951.pdf)] 
        * ⭐(arXiv preprint 2021) **Zero-Shot Text-to-Image Generation**, Aditya Ramesh et al. [[Paper](https://arxiv.org/pdf/2102.12092.pdf)] [[Code](https://github.com/openai/DALL-E)] [[Blog](https://openai.com/blog/dall-e/)] [[Model Card](https://github.com/openai/DALL-E/blob/master/model_card.md)] [[Colab](https://colab.research.google.com/drive/1KA2w8bA9Q1HDiZf5Ow_VNOrTaWW4lXXG?usp=sharing)] 
