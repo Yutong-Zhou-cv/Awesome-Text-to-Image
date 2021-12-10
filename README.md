@@ -30,6 +30,7 @@ A collection of resources on text-to-image synthesis task.
   * - [x] [2016](#head-2016)
   
 * - [ ] [5. Other Related Works](#head5)
+  * - [ ] [⭐Multimodality⭐](#head-MM)
   * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Text+Image → Image](#head-TI2I)
   * - [ ] [Layout → Image](#head-L2I)
@@ -207,6 +208,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
 ## <span id="head5"> *5. Other Related Works* </span>
+   * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2021) **Multimodal Conditional Image Synthesis with Product-of-Experts GANs**, Xun Huang et al. [[Paper](https://arxiv.org/abs/2112.05130)]  [[Project](https://deepimagination.cc/PoE-GAN/)]
+       * (arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
+
    * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[       «🎯Back To Top»       ](#)**
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
 
