@@ -22,6 +22,7 @@ A collection of resources on text-to-image synthesis task.
 * - [ ] [4. Paper With Code](#head4)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [Project](#head-Project)
+  * - [ ] [2022](#head-2022)
   * - [ ] [2021](#head-2021)
   * - [x] [2020](#head-2020)
   * - [x] [2019](#head-2019)
@@ -113,6 +114,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-Project"> **Project**  </span> **[       «🎯Back To Top»       ](#)**
     * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
         * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
+
+* <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (WACV 2022) **StyleMC: Multi-Channel Based Fast Text-Guided Image Generationand Manipulation**, Umut Kocasarı et al. [[Paper](https://arxiv.org/abs/2112.08493)] [[Project](https://catlab-team.github.io/stylemc/)]
 
 * <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
     * (IEEE TCSVT) **RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**, Jun Cheng et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9656731)] 
