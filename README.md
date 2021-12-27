@@ -115,9 +115,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
         * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
 
 * <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
+    * ⭐⭐(arXiv preprint 2021) **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**, Alex Nichol et al. [[Paper](https://arxiv.org/abs/2112.10741)] [[Code](https://github.com/openai/glide-text2im)]
     * (NeurIPS 2021) **Benchmark for Compositional Text-to-Image Synthesis**, Dong Huk Park et al. [[Paper](https://openreview.net/forum?id=bKBhQhPeKaF)]
     * ⭐(arXiv preprint 2021) **FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization**, Xingchao Liu et al. [[Paper](https://arxiv.org/abs/2112.01573)] [[Code](https://github.com/gnobitab/FuseDream)]
-    * ⭐(arXiv preprint 2021) [💬Evaluation] **TISE: A Toolbox for Text-to-Image Synthesis Evaluation**, Tan M. Dinh et al. [[Paper](https://arxiv.org/abs/2112.01398)] [[Project](https://di-mi-ta.github.io/tise/)]
+    * (arXiv preprint 2021) [💬Evaluation] **TISE: A Toolbox for Text-to-Image Synthesis Evaluation**, Tan M. Dinh et al. [[Paper](https://arxiv.org/abs/2112.01398)] [[Project](https://di-mi-ta.github.io/tise/)]
     * (ICONIP 2021) **Self-Supervised Image-to-Text and Text-to-Image Synthesis**, Anindya Sundar Das et al. [[Paper](https://arxiv.org/abs/2112.04928)]
     * (arXiv preprint 2021) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] 
     * (arXiv preprint 2021) **Vector Quantized Diffusion Model for Text-to-Image Synthesis**, Shuyang Gu et al. [[Paper](https://arxiv.org/abs/2111.14822)] [[Code](https://github.com/microsoft/vq-diffusion)]
