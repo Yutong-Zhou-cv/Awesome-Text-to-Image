@@ -19,9 +19,11 @@ A collection of resources on text-to-image synthesis task.
   * [Oxford-102 Flower](#head-Flower)
   * [MS-COCO](#head-COCO)
   * [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
-* - [ ] [4. Paper With Code](#head4)
+
+* - [ ] [4. Project](#head4)
+
+* - [ ] [5. Paper With Code](#head5)
   * - [ ] [Survey](#head-Survey)
-  * - [ ] [Project](#head-Project)
   * - [ ] [2022](#head-2022)
   * - [ ] [2021](#head-2021)
   * - [x] [2020](#head-2020)
@@ -41,7 +43,7 @@ A collection of resources on text-to-image synthesis task.
 
 * [*Contact Me*](#head6)
 
- ## <span id="head1"> *1.Description* </span>
+ ## <span id="head1"> *1. Description* </span>
 
 * In the last few decades, the fields of Computer Vision (CV) and Natural Language Processing (NLP) have been made several major technological breakthroughs in deep learning research. Recently, researchers appear interested in combining semantic information and visual information in these traditionally independent fields. 
 A number of studies have been conducted on the text-to-image synthesis techniques that transfer input textual description (keywords or sentences) into realistic images.
@@ -51,7 +53,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 >🐌 Markdown Format:
 > * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
 
- ## <span id="head2"> *2.Quantitative Evaluation Metrics* </span> [       «🎯Back To Top»       ](#)
+ ## <span id="head2"> *2. Quantitative Evaluation Metrics* </span> [       «🎯Back To Top»       ](#)
 
 * <span id="head-IS"> Inception Score (IS) </span> [[Paper](https://arxiv.org/pdf/1606.03498.pdf)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)] [[Ref.Code(AttnGAN)](https://github.com/taoxugit/AttnGAN)]
 
@@ -61,7 +63,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-L2"> L<sub>2</sub> error </span> [[Paper](https://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)]
 
-## <span id="head3"> *3.Datasets* </span> [       «🎯Back To Top»       ](#)
+## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
 
 * <span id="head-CUB"> **Caltech-UCSD Bird(CUB)** </span>
 
@@ -104,16 +106,18 @@ A number of studies have been conducted on the text-to-image synthesis technique
   * **Detailed information (Image with transparent background):** 
     * Not fully uploaded
 
-## <span id="head4"> *4.Paper With Code* </span>
+## <span id="head4"> *4. Project* </span>
+* **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
+    * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
+* **Text2Art**. [[Try it now!](https://text2art.com/)] [[Github](https://github.com/mfrashad/text2art)] [[Blog](https://towardsdatascience.com/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f)] 
+    * >Text2Art is an AI-powered art generator based on VQGAN+CLIP that can generate all kinds of art such as pixel art, drawing, and painting from just text input. 
+
+## <span id="head5"> *5. Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
     * (2021) **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#)]
     * (2021) **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[Paper](https://arxiv.org/pdf/2101.09983.pdf)] 
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
-
-* <span id="head-Project"> **Project**  </span> **[       «🎯Back To Top»       ](#)**
-    * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
-        * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
     * (WACV 2022) **StyleMC: Multi-Channel Based Fast Text-Guided Image Generationand Manipulation**, Umut Kocasarı et al. [[Paper](https://arxiv.org/abs/2112.08493)] [[Project](https://catlab-team.github.io/stylemc/)]
