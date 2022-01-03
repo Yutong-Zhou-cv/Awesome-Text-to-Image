@@ -111,9 +111,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
   FFHQ-Text is a small-scale face image dataset with large-scale facial attributes, designed for text-to-face generation & manipulation, text-guided facial image manipulation, and other vision-related tasks.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481026)] [[Website](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)] [[Download](https://forms.gle/f7oMXD3g9BgdgEUd7)]
-    * Number of images (from FFHQ): 760 (**Training**: 500. **Testing**: 240.)
+    * Number of images (from FFHQ): 760 (**Training**: 500. **Testing**: 260.)
     * Descriptions per image: 9 Captions
     * 13 multi-valued facial element groups from coarse to fine.
+  * **Detailed information (BBox):** ⇒ [[Website](https://www.robots.ox.ac.uk/~vgg/software/via/)]
 
 ## <span id="head4"> *4. Project* </span>
 * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
