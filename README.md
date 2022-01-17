@@ -134,6 +134,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (WACV 2022) **StyleMC: Multi-Channel Based Fast Text-Guided Image Generationand Manipulation**, Umut Kocasarı et al. [[Paper](https://arxiv.org/abs/2112.08493)] [[Project](https://catlab-team.github.io/stylemc/)]
 
 * <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
+    * (FG 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model**, Yutong Zhou et al. [[Paper](https://ieeexplore.ieee.org/document/9666791)] 
     * (arXiv preprint 2021) **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
     * (IEEE TCSVT) **RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**, Jun Cheng et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9656731)] 
     * (ICONIP 2021) **TRGAN: Text to Image Generation Through Optimizing Initial Image**, Liang Zhao et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_76)] 
