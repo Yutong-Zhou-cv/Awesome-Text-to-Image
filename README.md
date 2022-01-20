@@ -131,6 +131,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf) (2019.10)] 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (Knowledge-Based Systems) **CJE-TIG: Zero-shot cross-lingual text-to-image generation by Corpora-based Joint Encoding**, Han Zhang et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705121011138)] 
     * (WACV 2022) **StyleMC: Multi-Channel Based Fast Text-Guided Image Generationand Manipulation**, Umut Kocasarı et al. [[Paper](https://arxiv.org/abs/2112.08493)] [[Project](https://catlab-team.github.io/stylemc/)]
 
 * <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
