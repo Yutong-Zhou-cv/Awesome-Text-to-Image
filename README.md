@@ -255,6 +255,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Image Inpainting] **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**, Minheng Ni et al. [[Paper](https://arxiv.org/abs/2202.05009)]
        * (arXiv preprint 2021) [💬Semantic Diffusion Guidance] **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
          * Text → Image / Image → Image / Text+Image → Image 
        * ⭐(arXiv preprint 2021) [💬Text+Image → Video] **Make It Move: Controllable Image-to-Video Generation with Text Descriptions**, Yaosi Hu et al. [[Paper](https://arxiv.org/abs/2112.02815)]
