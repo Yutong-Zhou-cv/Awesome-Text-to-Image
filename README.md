@@ -126,10 +126,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
 ## <span id="head5"> *5. Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
-    * **Text-to-Image Synthesis: A Comparative Study**, Razan Bayoumi et al. [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-2275-5_14) (2021.08)] 
-    * **A survey on generative adversarial network-based text-to-image synthesis**, RuiZhou et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231221006111) (2021.04)] 
-    * **Adversarial Text-to-Image Synthesis: A Review**, Stanislav Frolov et al. [[v1](https://arxiv.org/abs/2101.09983v1) (2021.01)] [[v2](https://www.sciencedirect.com/science/article/pii/S0893608021002823) (2021.08)] 
-    * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf) (2019.10)] 
+    * **Text-to-Image Synthesis: A Comparative Study** [[v1](https://link.springer.com/chapter/10.1007/978-981-16-2275-5_14)(Digital Transformation Technology)] (2021.08) 
+    * **A survey on generative adversarial network-based text-to-image synthesis** [[v1](https://www.sciencedirect.com/science/article/pii/S0925231221006111)(Neurocomputing)] (2021.04) 
+    * **Adversarial Text-to-Image Synthesis: A Review** [[v1](https://arxiv.org/abs/2101.09983v1)(arXiv)] (2021.01) [[v2](https://www.sciencedirect.com/science/article/pii/S0893608021002823)(Neural Networks)] (2021.08)
+    * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
     * ⭐⭐(arXiv preprint 2022) **DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**, Jaemin Cho et al. [[Paper](https://arxiv.org/abs/2202.04053)] [[Code](https://github.com/j-min/DallEval)] 
