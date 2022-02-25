@@ -140,6 +140,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
     * (FG 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model**, Yutong Zhou et al. [[Paper](https://ieeexplore.ieee.org/document/9666791)] 
+    * (arXiv preprint 2021) **Multimodal Conditional Image Synthesis with Product-of-Experts GANs**, Xun Huang et al. [[Paper](https://arxiv.org/abs/2112.05130)]  [[Project](https://deepimagination.cc/PoE-GAN/)]
+         * Text-to-Image, Segmentation-to-Image, *Text+Segmentation/Sketch/Image→Image*, *Sketch+Segmentation/Image→Image*, *Segmentation+Image→Image*
     * (arXiv preprint 2021) **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
     * (IEEE TCSVT) **RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**, Jun Cheng et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9656731)] 
     * (ICONIP 2021) **TRGAN: Text to Image Generation Through Optimizing Initial Image**, Liang Zhao et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_76)] 
@@ -151,7 +153,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2021) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] 
     * (arXiv preprint 2021) **Vector Quantized Diffusion Model for Text-to-Image Synthesis**, Shuyang Gu et al. [[Paper](https://arxiv.org/abs/2111.14822)] [[Code](https://github.com/microsoft/vq-diffusion)]
     * ⭐⭐(arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
-        * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video(T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
+        * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video (T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
           ![Figure from paper](pic/NUWA.gif)
           > *(From: https://github.com/microsoft/NUWA [2021/11/30])*
     * (arXiv preprint 2021) **DiverGAN: An Efficient and Effective Single-Stage Framework for Diverse Text-to-Image Generation**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/pdf/2111.09267.pdf)] 
@@ -165,7 +167,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (ICCV 2021) **DAE-GAN: Dynamic Aspect-Aware GAN for Text-to-Image Synthesis**, Shulan Ruan et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Ruan_DAE-GAN_Dynamic_Aspect-Aware_ICCV_2021_supplemental.pdf)] [[Code](https://github.com/hiarsal/DAE-GAN)]
     * (ICIP 2021) **Text To Image Synthesis With Erudite Generative Adversarial Networks**, Zhiqiang Zhang et al. [[Paper](https://ieeexplore.ieee.org/document/9506487)] 
     * (PRCV 2021) **MAGAN: Multi-attention Generative Adversarial Networks for Text-to-Image Generation**, Xibin Jia et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-88013-2_26)]
-    * (arXiv preprint 2021) **Text to Image Generation with Semantic-Spatial Aware GAN**, Kai Hu et al. [[Paper](https://arxiv.org/pdf/2104.00567.pdf)] [[Code](https://github.com/wtliao/text2image)]
     * (AAAI 2021) **TIME: Text and Image Mutual-Translation Adversarial Networks**, Bingchen Liu et al. [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-1426.LiuB.pdf)] [[arXiv Paper](https://arxiv.org/pdf/2005.13192.pdf)] 
     * (IJCNN 2021) **Text to Image Synthesis based on Multi-Perspective Fusion**, Zhiqiang Zhang et al. [[Paper](https://ieeexplore.ieee.org/document/9533925)] 
     * (arXiv preprint 2021) **CRD-CGAN: Category-Consistent and Relativistic Constraints for Diverse Text-to-Image Generation**, Tao Hu et al. [[Paper](https://arxiv.org/abs/2107.13516)]
@@ -221,6 +222,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (ICCV 2019) **Dual Adversarial Inference for Text-to-Image Synthesis**, Qicheng Lao et al. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lao_Dual_Adversarial_Inference_for_Text-to-Image_Synthesis_ICCV_2019_paper.pdf)] 
     * (ICCV 2019) **Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction**, Alaaeldin El-Nouby et al. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/El-Nouby_Tell_Draw_and_Repeat_Generating_and_Modifying_Images_Based_on_ICCV_2019_paper.pdf)] [[Code](https://github.com/Maluuba/GeNeVA)]
     * (BMVC 2019) **MS-GAN: Text to Image Synthesis with Attention-Modulated Generators and Similarity-aware Discriminators**, Fengling Mao et al. [[Paper](http://www.jdl.link/doc/2011/20191223_19-BMVC-MS-GAN-Mao-small.pdf)] 
+    * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
     * (arXiv preprint 2019) **GILT: Generating Images from Long Text**, Ori Bar El et al. [[Paper](https://arxiv.org/pdf/1901.02404.pdf)] [[Code](https://github.com/netanelyo/Recipe2ImageGAN)]
     
 * <span id="head-2018"> **2018**  </span> **[       «🎯Back To Top»       ](#)**
@@ -249,7 +251,11 @@ A number of studies have been conducted on the text-to-image synthesis technique
 ## <span id="head5"> *5. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2021) **Multimodal Conditional Image Synthesis with Product-of-Experts GANs**, Xun Huang et al. [[Paper](https://arxiv.org/abs/2112.05130)]  [[Project](https://deepimagination.cc/PoE-GAN/)]
+         * Text-to-Image, Segmentation-to-Image, *Text+Segmentation/Sketch/Image → Image*, *Sketch+Segmentation/Image → Image*, *Segmentation+Image → Image*
+       * (arXiv preprint 2021) **L-Verse: Bidirectional Generation Between Image and Text**, Taehoon Kim et al. [[Paper](https://arxiv.org/abs/2111.11133)] [[Code](https://github.com/tgisaturday/L-Verse)] 
+         * Text-To-Image, Image-To-Text, Image Reconstruction 
        * (arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
+         * Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[       «🎯Back To Top»       ](#)**
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
@@ -257,13 +263,14 @@ A number of studies have been conducted on the text-to-image synthesis technique
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2022) [💬Image Inpainting] **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**, Minheng Ni et al. [[Paper](https://arxiv.org/abs/2202.05009)]
        * (arXiv preprint 2021) [💬Semantic Diffusion Guidance] **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
-         * Text → Image / Image → Image / Text+Image → Image 
+         * Text-To-Image, Image-To-Image, Text+Image → Image 
        * ⭐(arXiv preprint 2021) [💬Text+Image → Video] **Make It Move: Controllable Image-to-Video Generation with Text Descriptions**, Yaosi Hu et al. [[Paper](https://arxiv.org/abs/2112.02815)]
        * (arXiv preprint 2021) [💬Hairstyle Transfer] **HairCLIP: Design Your Hair by Text and Reference Image**, Tianyi Wei et al. [[Paper](https://arxiv.org/abs/2112.05142)] [[Code](https://github.com/wty-ustc/HairCLIP)] 
        * (arXiv preprint 2021) [💬NeRF] **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**, Can Wang et al. [[Paper](https://arxiv.org/abs/2112.05139)] [[Code](https://github.com/cassiePython/CLIPNeRF)] [[Project](https://cassiepython.github.io/clipnerf/)]
        * (arXiv preprint 2021) [💬NeRF] **Zero-Shot Text-Guided Object Generation with Dream Fields**, Ajay Jain et al. [[Paper](https://arxiv.org/abs/2112.01455)]  [[Project](https://ajayj.com/dreamfields)]
        * (arXiv preprint 2021) [💬Style Transfer] **CLIPstyler: Image Style Transfer with a Single Text Condition**, Gihyun Kwon et al. [[Paper](https://arxiv.org/abs/2112.00374)] [[Code](https://github.com/paper11667/CLIPstyler)] 
        * (NeurIPS 2021) **Instance-Conditioned GAN**, Arantxa Casanova et al. [[Paper](https://arxiv.org/abs/2109.05070)] [[Code](https://github.com/facebookresearch/ic_gan)]
+       * (ICCVW 2021) **CIGLI: Conditional Image Generation from Language & Image**, Xiaopeng Lu et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/CLVL/papers/Lu_CIGLI_Conditional_Image_Generation_From_Language__Image_ICCVW_2021_paper.pdf)] [[Code](https://github.com/vincentlux/CIGLI?utm_source=catalyzex.com)]
        * (arXiv preprint 2021) **Blended Diffusion for Text-driven Editing of Natural Images**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2111.14818)] [[Code](https://github.com/omriav/blended-diffusion)]
        * (arXiv preprint 2021) **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. [[Paper](https://arxiv.org/pdf/2103.17249.pdf)] [[Code](https://github.com/openai/DALL-E)]
        * (arXiv preprint 2021) **Paint by Word**, David Bau et al. [[Paper](https://arxiv.org/pdf/2103.10951.pdf)] 
