@@ -262,6 +262,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Image Style Transfer] **StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation**, Peter Schaldenbrand et al. [[Paper](https://arxiv.org/abs/2202.12362)] [[Dataset](https://www.kaggle.com/pittsburghskeet/drawings-with-style-evaluation-styleclipdraw)] [[Code](https://github.com/pschaldenbrand/StyleCLIPDraw)] [[Demo](https://replicate.com/pschaldenbrand/style-clip-draw)]
+       * (arXiv preprint 2022) [💬Image Style Transfer] **Name Your Style: An Arbitrary Artist-aware Image Style Transfer**, Zhi-Song Liu et al. [[Paper](https://arxiv.org/abs/2202.13562)]
+       * (arXiv preprint 2022) [💬3D Avatar Generation] **Text and Image Guided 3D Avatar Generation and Manipulation**, Zehranaz Canfes et al. [[Paper](https://arxiv.org/abs/2202.06079)] [[Project](https://catlab-team.github.io/latent3D/)]
        * (arXiv preprint 2022) [💬Image Inpainting] **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**, Minheng Ni et al. [[Paper](https://arxiv.org/abs/2202.05009)]
        * (arXiv preprint 2021) [💬Semantic Diffusion Guidance] **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
          * Text-To-Image, Image-To-Image, Text+Image → Image 
