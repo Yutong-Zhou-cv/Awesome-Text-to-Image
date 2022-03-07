@@ -289,6 +289,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (NeurIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
 
    * <span id="head-L2I"> **Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2022) **Interactive Image Synthesis with Panoptic Layout Generation**, Bo Wang et al. [[Paper](https://arxiv.org/abs/2203.02104)] 
        * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) **High-Resolution Complex Scene Synthesis with Transformers**, Manuel Jahn et al. [[Paper](https://arxiv.org/pdf/2105.06458.pdf)] 
        * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)] 
        
