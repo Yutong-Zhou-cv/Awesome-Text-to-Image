@@ -19,6 +19,7 @@ A collection of resources on text-to-image synthesis task.
   * [Oxford-102 Flower](#head-Flower)
   * [MS-COCO](#head-COCO)
   * [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
+  * [CelebA-Dialog](#head-CelebA-Dialog)
   * [FFHQ-Text](#head-FFHQ-Text)
 
 * - [ ] [4. Project](#head4)
@@ -107,6 +108,17 @@ A number of studies have been conducted on the text-to-image synthesis technique
   * **Detailed information (Image with transparent background):** 
     * Not fully uploaded
 
+* <span id="head-CelebA-Dialog"> **CelebA-Dialog** </span>
+
+  CelebA-Dialog is a large-scale visual-language face dataset. It has two properties:
+(1) Facial images are annotated with **rich fine-grained labels**, which classify one attribute into multiple degrees according to its semantic meaning.
+(2) Accompanied with each image, there are **captions describing** the attributes and a **user request sample**.
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)] [[Website](http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html)] [[Download](https://github.com/yumingj/Talk-to-Edit)]
+    * Number of identities: 10,177
+    * Number of images: 202,599 
+    * 5 fine-grained attributes annotations per image: Bangs, Eyeglasses, Beard, Smiling, and Age
+
+
 * <span id="head-FFHQ-Text"> **FFHQ-Text** </span>
 
   FFHQ-Text is a small-scale face image dataset with large-scale facial attributes, designed for text-to-face generation & manipulation, text-guided facial image manipulation, and other vision-related tasks.
@@ -166,6 +178,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (ACMMM 2021) **Unifying Multimodal Transformer for Bi-directional Image and Text Generation**, Yupan Huang et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3481540)] [[Code](https://github.com/researchmm/generate-it)]
     * (ACMMM 2021) **A Picture is Worth a Thousand Words: A Unified System for Diverse Captions and Rich Images Generation**, Yupan Huang et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3478561)] [[Code](https://github.com/researchmm/generate-it)]
     * (ACMMM 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation**, Yutong Zhou. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481026)]
+    * (ICCV 2021) **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)] [[Project](https://www.mmlab-ntu.com/project/talkedit/)] [[Code](https://github.com/yumingj/Talk-to-Edit)]
     * (ICCV 2021) **DAE-GAN: Dynamic Aspect-Aware GAN for Text-to-Image Synthesis**, Shulan Ruan et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Ruan_DAE-GAN_Dynamic_Aspect-Aware_ICCV_2021_supplemental.pdf)] [[Code](https://github.com/hiarsal/DAE-GAN)]
     * (ICIP 2021) **Text To Image Synthesis With Erudite Generative Adversarial Networks**, Zhiqiang Zhang et al. [[Paper](https://ieeexplore.ieee.org/document/9506487)] 
     * (PRCV 2021) **MAGAN: Multi-attention Generative Adversarial Networks for Text-to-Image Generation**, Xibin Jia et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-88013-2_26)]
@@ -277,6 +290,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (arXiv preprint 2021) [💬NeRF] **Zero-Shot Text-Guided Object Generation with Dream Fields**, Ajay Jain et al. [[Paper](https://arxiv.org/abs/2112.01455)]  [[Project](https://ajayj.com/dreamfields)]
        * (arXiv preprint 2021) [💬Style Transfer] **CLIPstyler: Image Style Transfer with a Single Text Condition**, Gihyun Kwon et al. [[Paper](https://arxiv.org/abs/2112.00374)] [[Code](https://github.com/paper11667/CLIPstyler)] 
        * (NeurIPS 2021) **Instance-Conditioned GAN**, Arantxa Casanova et al. [[Paper](https://arxiv.org/abs/2109.05070)] [[Code](https://github.com/facebookresearch/ic_gan)]
+       * (ICCV 2021) **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)] [[Project](https://www.mmlab-ntu.com/project/talkedit/)] [[Code](https://github.com/yumingj/Talk-to-Edit)]
        * (ICCVW 2021) **CIGLI: Conditional Image Generation from Language & Image**, Xiaopeng Lu et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/CLVL/papers/Lu_CIGLI_Conditional_Image_Generation_From_Language__Image_ICCVW_2021_paper.pdf)] [[Code](https://github.com/vincentlux/CIGLI?utm_source=catalyzex.com)]
        * (arXiv preprint 2021) **Blended Diffusion for Text-driven Editing of Natural Images**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2111.14818)] [[Code](https://github.com/omriav/blended-diffusion)]
        * (arXiv preprint 2021) **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. [[Paper](https://arxiv.org/pdf/2103.17249.pdf)] [[Code](https://github.com/openai/DALL-E)]
