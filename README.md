@@ -144,6 +144,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (IEEE Transactions on Network Science and Engineering) **TextFace: Text-to-Style Mapping based Face Generation and Manipulation**, Xianxu Hou et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9737433)]
     * (CVPR 2022) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] [[Code](https://github.com/drboog/Lafite)] 
     * ⭐⭐(arXiv preprint 2022) **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)]
     * (arXiv preprint 2022) **OptGAN: Optimizing and Interpreting the Latent Space of the Conditional Text-to-Image GANs**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/abs/2202.12929)]
