@@ -36,9 +36,9 @@ A collection of resources on text-to-image synthesis task.
   
 * - [ ] [5. Other Related Works](#head5)
   * - [ ] [⭐Multimodality⭐](#head-MM)
-  * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Text+Image → Image](#head-TI2I)
   * - [ ] [Layout → Image](#head-L2I)
+  * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Speech → Image](#head-S2I)
   * - [ ] [Text → Visual Retrieval](#head-T2VR)
   * - [ ] [Text → Video](#head-T2V)
@@ -275,10 +275,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
          * Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
-   * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[       «🎯Back To Top»       ](#)**
-       * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
-
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2022) **Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**, Zipeng Xu et al. [[Paper](https://arxiv.org/abs/2111.13333)] [[Code](https://github.com/zipengxuc/PPE)] 
        * (arXiv preprint 2022) [💬Multi-person Image Generation] **Pose Guided Multi-person Image Generation From Text**, Soon Yau Cheong et al. [[Paper](https://arxiv.org/abs/2203.04907)]
        * (arXiv preprint 2022) [💬Image Style Transfer] **StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation**, Peter Schaldenbrand et al. [[Paper](https://arxiv.org/abs/2202.12362)] [[Dataset](https://www.kaggle.com/pittsburghskeet/drawings-with-style-evaluation-styleclipdraw)] [[Code](https://github.com/pschaldenbrand/StyleCLIPDraw)] [[Demo](https://replicate.com/pschaldenbrand/style-clip-draw)]
        * (arXiv preprint 2022) [💬Image Style Transfer] **Name Your Style: An Arbitrary Artist-aware Image Style Transfer**, Zhi-Song Liu et al. [[Paper](https://arxiv.org/abs/2202.13562)]
@@ -308,6 +306,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (CVPR 2022) **Interactive Image Synthesis with Panoptic Layout Generation**, Bo Wang et al. [[Paper](https://arxiv.org/abs/2203.02104)] 
        * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) **High-Resolution Complex Scene Synthesis with Transformers**, Manuel Jahn et al. [[Paper](https://arxiv.org/pdf/2105.06458.pdf)] 
        * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)] 
+
+   * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[       «🎯Back To Top»       ](#)**
+       * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
        
    * <span id="head-S2I"> **Speech → Image** </span> **[       «🎯Back To Top»       ](#)**
        *  (IEEE/ACM Transactions on Audio, Speech and Language Processing 2021) **Generating Images From Spoken Descriptions**, Xinsheng Wang et al. [[Paper](https://dl.acm.org/doi/10.1109/TASLP.2021.3053391)] [[Code](https://github.com/xinshengwang/S2IGAN)]  [[Project](https://xinshengwang.github.io/project/s2igan/)]
