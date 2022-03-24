@@ -267,13 +267,17 @@ A number of studies have been conducted on the text-to-image synthesis technique
 ## <span id="head5"> *5. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
        * ⭐⭐(arXiv preprint 2022) **Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**, Peng Wang et al. [[Paper](https://arxiv.org/abs/2202.03052v1)]  [[Code](https://github.com/ofa-sys/ofa)] [[Hugging Face](https://huggingface.co/OFA-Sys)]
-         * Text-to-Image Generation, Image Captioning, Text Summarization, Self-Supervised Image Classification, **[SOTA]** Referring Expression Comprehension, Visual Entailment, Visual Question Answering
+         * 📚Text-to-Image Generation, Image Captioning, Text Summarization, Self-Supervised Image Classification, **[SOTA]** Referring Expression Comprehension, Visual Entailment, Visual Question Answering
+       * (arXiv preprint 2021) **ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation**, Han Zhang et al. [[Paper](https://arxiv.org/abs/2112.15283)] 
+         * A pre-trained **10-billion** parameter model: ERNIE-ViLG.
+         * A large-scale dataset of **145 million** high-quality Chinese image-text pairs.
+         * 📚Text-to-Image, Image Captioning,  Generative Visual Question Answering
        * (arXiv preprint 2021) **Multimodal Conditional Image Synthesis with Product-of-Experts GANs**, Xun Huang et al. [[Paper](https://arxiv.org/abs/2112.05130)]  [[Project](https://deepimagination.cc/PoE-GAN/)]
-         * Text-to-Image, Segmentation-to-Image, Text+Segmentation/Sketch/Image → Image, Sketch+Segmentation/Image → Image, Segmentation+Image → Image
+         * 📚Text-to-Image, Segmentation-to-Image, Text+Segmentation/Sketch/Image → Image, Sketch+Segmentation/Image → Image, Segmentation+Image → Image
        * (arXiv preprint 2021) **L-Verse: Bidirectional Generation Between Image and Text**, Taehoon Kim et al. [[Paper](https://arxiv.org/abs/2111.11133)] [[Code](https://github.com/tgisaturday/L-Verse)] 
-         * Text-To-Image, Image-To-Text, Image Reconstruction 
+         * 📚Text-To-Image, Image-To-Text, Image Reconstruction 
        * (arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
-         * Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
+         * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (CVPR 2022) **Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**, Zipeng Xu et al. [[Paper](https://arxiv.org/abs/2111.13333)] [[Code](https://github.com/zipengxuc/PPE)] 
