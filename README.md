@@ -26,6 +26,7 @@ A collection of resources on text-to-image synthesis task.
 
 * - [ ] [5. Paper With Code](#head5)
   * - [ ] [Survey](#head-Survey)
+  * - [ ] [Text to Face👨🏻🧒👧🏼🧓🏽](#head-T2F)
   * - [ ] [2022](#head-2022)
   * - [ ] [2021](#head-2021)
   * - [x] [2020](#head-2020)
@@ -143,6 +144,16 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * **Adversarial Text-to-Image Synthesis: A Review** [[v1](https://arxiv.org/abs/2101.09983v1)(arXiv)] (2021.01) [[v2](https://www.sciencedirect.com/science/article/pii/S0893608021002823)(Neural Networks)] (2021.08)
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
+* <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
+    * (CVPR 2022) **StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**, Zhiheng Li et al. [[Paper](https://arxiv.org/abs/2203.15799)] [[Code](https://github.com/zhihengli-UR/StyleT2I)]
+    * (arXiv preprint 2022) **AnyFace: Free-style Text-to-Face Synthesis and Manipulation**, Jianxin Sun et al. [[Paper](https://arxiv.org/abs/2203.15334)] 
+    * (IEEE Transactions on Network Science and Engineering) **TextFace: Text-to-Style Mapping based Face Generation and Manipulation**, Xianxu Hou et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9737433)]
+    * (FG 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model**, Yutong Zhou et al. [[Paper](https://ieeexplore.ieee.org/document/9666791)] 
+    * (ACMMM 2021) **Multi-caption Text-to-Face Synthesis: Dataset and Algorithm**, Jianxin Sun et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475391)] [[Code](https://github.com/cripac-sjx/SEA-T2F)]
+    * (ACMMM 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation**, Yutong Zhou. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481026)]
+    * (WACV 2021) **Faces a la Carte: Text-to-Face Generation via Attribute Disentanglement**, Tianren Wang et al. [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Faces_a_la_Carte_Text-to-Face_Generation_via_Attribute_Disentanglement_WACV_2021_paper.pdf)] 
+    * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
+
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
     * (arXiv preprint 2022) **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors**, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)]
     * (IEEE Transactions on Network Science and Engineering) **TextFace: Text-to-Style Mapping based Face Generation and Manipulation**, Xianxu Hou et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9737433)]
@@ -156,7 +167,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (WACV 2022) **StyleMC: Multi-Channel Based Fast Text-Guided Image Generationand Manipulation**, Umut Kocasarı et al. [[Paper](https://arxiv.org/abs/2112.08493)] [[Project](https://catlab-team.github.io/stylemc/)]
 
 * <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
-    * (FG 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model**, Yutong Zhou et al. [[Paper](https://ieeexplore.ieee.org/document/9666791)] 
     * (arXiv preprint 2021) **Multimodal Conditional Image Synthesis with Product-of-Experts GANs**, Xun Huang et al. [[Paper](https://arxiv.org/abs/2112.05130)]  [[Project](https://deepimagination.cc/PoE-GAN/)]
          * Text-to-Image, Segmentation-to-Image, *Text+Segmentation/Sketch/Image→Image*, *Sketch+Segmentation/Image→Image*, *Segmentation+Image→Image*
     * (arXiv preprint 2021) **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
@@ -175,11 +185,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2021) **DiverGAN: An Efficient and Effective Single-Stage Framework for Diverse Text-to-Image Generation**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/pdf/2111.09267.pdf)] 
     * (Image and Vision Computing) **Transformer models for enhancing AttnGAN based text to image generation**, S. Naveen et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S026288562100189X)]
     * (ACMMM 2021) **R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks**, Yanyuan Qiao et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475363)]
-    * (ACMMM 2021) **Multi-caption Text-to-Face Synthesis: Dataset and Algorithm**, Jianxin Sun et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475391)] [[Code](https://github.com/cripac-sjx/SEA-T2F)]
     * (ACMMM 2021) **Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**, Hao Wang et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475226)]
     * (ACMMM 2021) **Unifying Multimodal Transformer for Bi-directional Image and Text Generation**, Yupan Huang et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3481540)] [[Code](https://github.com/researchmm/generate-it)]
     * (ACMMM 2021) **A Picture is Worth a Thousand Words: A Unified System for Diverse Captions and Rich Images Generation**, Yupan Huang et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3478561)] [[Code](https://github.com/researchmm/generate-it)]
-    * (ACMMM 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation**, Yutong Zhou. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481026)]
     * (ICCV 2021) **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)] [[Project](https://www.mmlab-ntu.com/project/talkedit/)] [[Code](https://github.com/yumingj/Talk-to-Edit)]
     * (ICCV 2021) **DAE-GAN: Dynamic Aspect-Aware GAN for Text-to-Image Synthesis**, Shulan Ruan et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Ruan_DAE-GAN_Dynamic_Aspect-Aware_ICCV_2021_supplemental.pdf)] [[Code](https://github.com/hiarsal/DAE-GAN)]
     * (ICIP 2021) **Text To Image Synthesis With Erudite Generative Adversarial Networks**, Zhiqiang Zhang et al. [[Paper](https://ieeexplore.ieee.org/document/9506487)] 
@@ -199,7 +207,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * ⭐(arXiv preprint 2021) **Zero-Shot Text-to-Image Generation**, Aditya Ramesh et al. [[Paper](https://arxiv.org/pdf/2102.12092.pdf)] [[Code](https://github.com/openai/DALL-E)] [[Blog](https://openai.com/blog/dall-e/)] [[Model Card](https://github.com/openai/DALL-E/blob/master/model_card.md)] [[Colab](https://colab.research.google.com/github/openai/DALL-E/blob/master/notebooks/usage.ipynb)] [[Code(Pytorch)](https://github.com/lucidrains/DALLE-pytorch)]
     <!--https://colab.research.google.com/drive/1KA2w8bA9Q1HDiZf5Ow_VNOrTaWW4lXXG?usp=sharing -->
     * (Pattern Recognition 2021) **Unsupervised text-to-image synthesis**, Yanlong Dong et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320320303769)] 
-    * (WACV 2021) **Faces a la Carte: Text-to-Face Generation via Attribute Disentanglement**, Tianren Wang et al. [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Faces_a_la_Carte_Text-to-Face_Generation_via_Attribute_Disentanglement_WACV_2021_paper.pdf)] 
     * (WACV 2021) **Text-to-Image Generation Grounded by Fine-Grained User Attention**, Jing Yu Koh et al. [[Paper](https://arxiv.org/pdf/2011.03775.pdf)] 
     * (IEEE TIP 2021) **Multi-Sentence Auxiliary Adversarial Networks for Fine-Grained Text-to-Image Synthesis**, Yanhua Yang et al. [[Paper](https://ieeexplore.ieee.org/document/9345477)]
     * (IEEE Access 2021) **DGattGAN: Cooperative Up-Sampling Based Dual Generator Attentional GAN on Text-to-Image Synthesis**, Han Zhang et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9352788)]
@@ -239,7 +246,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (ICCV 2019) **Dual Adversarial Inference for Text-to-Image Synthesis**, Qicheng Lao et al. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lao_Dual_Adversarial_Inference_for_Text-to-Image_Synthesis_ICCV_2019_paper.pdf)] 
     * (ICCV 2019) **Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction**, Alaaeldin El-Nouby et al. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/El-Nouby_Tell_Draw_and_Repeat_Generating_and_Modifying_Images_Based_on_ICCV_2019_paper.pdf)] [[Code](https://github.com/Maluuba/GeNeVA)]
     * (BMVC 2019) **MS-GAN: Text to Image Synthesis with Attention-Modulated Generators and Similarity-aware Discriminators**, Fengling Mao et al. [[Paper](http://www.jdl.link/doc/2011/20191223_19-BMVC-MS-GAN-Mao-small.pdf)] 
-    * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
     * (arXiv preprint 2019) **GILT: Generating Images from Long Text**, Ori Bar El et al. [[Paper](https://arxiv.org/pdf/1901.02404.pdf)] [[Code](https://github.com/netanelyo/Recipe2ImageGAN)]
     
 * <span id="head-2018"> **2018**  </span> **[       «🎯Back To Top»       ](#)**
