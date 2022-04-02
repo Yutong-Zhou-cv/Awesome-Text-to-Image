@@ -281,7 +281,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
-       * (CVPR 2022) **Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**, Zipeng Xu et al. [[Paper](https://arxiv.org/abs/2111.13333)] [[Code](https://github.com/zipengxuc/PPE)] 
+       * (CVPR 2022) **Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**, Zipeng Xu et al. [[Paper](https://arxiv.org/abs/2111.13333)] [[Code](https://github.com/zipengxuc/PPE-Pytorch)] 
        * (arXiv preprint 2022) [💬Multi-person Image Generation] **Pose Guided Multi-person Image Generation From Text**, Soon Yau Cheong et al. [[Paper](https://arxiv.org/abs/2203.04907)]
        * (arXiv preprint 2022) [💬Image Style Transfer] **StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation**, Peter Schaldenbrand et al. [[Paper](https://arxiv.org/abs/2202.12362)] [[Dataset](https://www.kaggle.com/pittsburghskeet/drawings-with-style-evaluation-styleclipdraw)] [[Code](https://github.com/pschaldenbrand/StyleCLIPDraw)] [[Demo](https://replicate.com/pschaldenbrand/style-clip-draw)]
        * (arXiv preprint 2022) [💬Image Style Transfer] **Name Your Style: An Arbitrary Artist-aware Image Style Transfer**, Zhi-Song Liu et al. [[Paper](https://arxiv.org/abs/2202.13562)]
