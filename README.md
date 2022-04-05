@@ -130,11 +130,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * 13 multi-valued facial element groups from coarse to fine.
   * **Detailed information (BBox):** ⇒ [[Website](https://www.robots.ox.ac.uk/~vgg/software/via/)]
 
-
 * <span id="head-CelebAText-HQ "> **CelebAText-HQ** </span>
 
- CelebAText-HQ is a large-scale face image dataset with large-scale facial attributes, designed for text-to-face generation.
-
+  CelebAText-HQ is a large-scale face image dataset with large-scale facial attributes, designed for text-to-face generation.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475391)] [[Website](https://github.com/cripac-sjx/SEA-T2F)] [[Download](https://drive.google.com/drive/folders/1IAb_iy6-soEGQWhbgu6cQODsIUJZpahC)]
     * Number of images (from Celeba-HQ): 15010 (**Training**: 13,710. **Testing**: 1300.)
     * Descriptions per image: 10 Captions
