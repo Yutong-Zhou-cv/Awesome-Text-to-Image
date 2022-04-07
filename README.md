@@ -286,6 +286,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
        * ⭐⭐(arXiv preprint 2022) **Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**, Peng Wang et al. [[Paper](https://arxiv.org/abs/2202.03052v1)]  [[Code](https://github.com/ofa-sys/ofa)] [[Hugging Face](https://huggingface.co/OFA-Sys)]
          * 📚Text-to-Image Generation, Image Captioning, Text Summarization, Self-Supervised Image Classification, **[SOTA]** Referring Expression Comprehension, Visual Entailment, Visual Question Answering
+       * (NeurIPS 2021) **M6-UFC: Unifying Multi-Modal Controls for Conditional Image Synthesis via Non-Autoregressive Generative Transformers**, Zhu Zhang et al. [[Paper](https://arxiv.org/abs/2105.14211)] 
+         * 📚Text-to-Image, Sketch-to-Image, Style Transfer, Image Inpainting, Multi-Modal Control to Image
        * (arXiv preprint 2021) **ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation**, Han Zhang et al. [[Paper](https://arxiv.org/abs/2112.15283)] 
          * A pre-trained **10-billion** parameter model: ERNIE-ViLG.
          * A large-scale dataset of **145 million** high-quality Chinese image-text pairs.
