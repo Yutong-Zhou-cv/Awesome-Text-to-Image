@@ -164,11 +164,12 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
     * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)]
+    * (CVPR 2022) **Autoregressive Image Generation using Residual Quantization**, Doyup Lee et al. [[Paper](https://arxiv.org/abs/2203.01941)] [[Code](https://github.com/kakaobrain/rq-vae-transformer)] 
     * (CVPR 2022) **Text-to-Image Synthesis based on Object-Guided Joint-Decoding Transformer**, Fuxiang Wu et al. [[Paper](https://fengxianghe.github.io/paper/wu2022text.pdf)]
+    * (CVPR 2022) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] [[Code](https://github.com/drboog/Lafite)] 
     * (arXiv preprint 2022) **DT2I: Dense Text-to-Image Generation from Region Descriptions**, Stanislav Frolov et al. [[Paper](https://arxiv.org/abs/2204.02035)] 
     * (arXiv preprint 2022) **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors**, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)]
     * (IEEE Transactions on Network Science and Engineering) **TextFace: Text-to-Style Mapping based Face Generation and Manipulation**, Xianxu Hou et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9737433)]
-    * (CVPR 2022) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] [[Code](https://github.com/drboog/Lafite)] 
     * ⭐⭐(arXiv preprint 2022) **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)]
     * (arXiv preprint 2022) **OptGAN: Optimizing and Interpreting the Latent Space of the Conditional Text-to-Image GANs**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/abs/2202.12929)]
     * ⭐⭐(arXiv preprint 2022) **DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**, Jaemin Cho et al. [[Paper](https://arxiv.org/abs/2202.04053)] [[Code](https://github.com/j-min/DallEval)] 
