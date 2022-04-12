@@ -297,21 +297,25 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-to-Image, Segmentation-to-Image, Text+Segmentation/Sketch/Image → Image, Sketch+Segmentation/Image → Image, Segmentation+Image → Image
        * (arXiv preprint 2021) **L-Verse: Bidirectional Generation Between Image and Text**, Taehoon Kim et al. [[Paper](https://arxiv.org/abs/2111.11133)] [[Code](https://github.com/tgisaturday/L-Verse)] 
          * 📚Text-To-Image, Image-To-Text, Image Reconstruction 
+       * (arXiv preprint 2021) [💬Semantic Diffusion Guidance] **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
+         * 📚Text-To-Image, Image-To-Image, Text+Image → Image 
        * (arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * ⭐⭐(arXiv preprint 2022) [💬Image & Video Editing] **Text2LIVE: Text-Driven Layered Image and Video Editing**, Omer Bar-Tal et al. [[Paper](https://arxiv.org/abs/2204.02491)] [[Project](https://text2live.github.io/)] 
+       * (Machine Vision and Applications 2022) **Paired-D++ GAN for image manipulation with text**, Duc Minh Vo et al. [[Paper](https://link.springer.com/article/10.1007/s00138-022-01298-7)]
+       * (CVPR 2022) [💬Hairstyle Transfer] **HairCLIP: Design Your Hair by Text and Reference Image**, Tianyi Wei et al. [[Paper](https://arxiv.org/abs/2112.05142)] [[Code](https://github.com/wty-ustc/HairCLIP)] 
+       * (CVPR 2022) **ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**, Jianan Wang et al. [[Paper](https://arxiv.org/abs/2204.04428)] [[Project](https://jawang19.github.io/manitrans/)] 
        * (CVPR 2022) **Blended Diffusion for Text-driven Editing of Natural Images**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2111.14818)] [[Code](https://github.com/omriav/blended-diffusion)] [[Project](https://omriavrahami.com/blended-diffusion-page/)] 
        * (CVPR 2022) **Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**, Zipeng Xu et al. [[Paper](https://arxiv.org/abs/2111.13333)] [[Code](https://github.com/zipengxuc/PPE-Pytorch)] 
+       * (CVPR 2022) **Towards Implicit Text-Guided 3D Shape Generation**, Zhengzhe Liu et al. [[Paper](https://arxiv.org/abs/2203.14622)] [[Code](https://github.com/liuzhengzhe/Towards-Implicit-Text-Guided-Shape-Generation)]
        * (arXiv preprint 2022) [💬Multi-person Image Generation] **Pose Guided Multi-person Image Generation From Text**, Soon Yau Cheong et al. [[Paper](https://arxiv.org/abs/2203.04907)]
        * (arXiv preprint 2022) [💬Image Style Transfer] **StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation**, Peter Schaldenbrand et al. [[Paper](https://arxiv.org/abs/2202.12362)] [[Dataset](https://www.kaggle.com/pittsburghskeet/drawings-with-style-evaluation-styleclipdraw)] [[Code](https://github.com/pschaldenbrand/StyleCLIPDraw)] [[Demo](https://replicate.com/pschaldenbrand/style-clip-draw)]
        * (arXiv preprint 2022) [💬Image Style Transfer] **Name Your Style: An Arbitrary Artist-aware Image Style Transfer**, Zhi-Song Liu et al. [[Paper](https://arxiv.org/abs/2202.13562)]
        * (arXiv preprint 2022) [💬3D Avatar Generation] **Text and Image Guided 3D Avatar Generation and Manipulation**, Zehranaz Canfes et al. [[Paper](https://arxiv.org/abs/2202.06079)] [[Project](https://catlab-team.github.io/latent3D/)]
        * (arXiv preprint 2022) [💬Image Inpainting] **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**, Minheng Ni et al. [[Paper](https://arxiv.org/abs/2202.05009)]
-       * (arXiv preprint 2021) [💬Semantic Diffusion Guidance] **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
-         * Text-To-Image, Image-To-Image, Text+Image → Image 
        * ⭐(arXiv preprint 2021) [💬Text+Image → Video] **Make It Move: Controllable Image-to-Video Generation with Text Descriptions**, Yaosi Hu et al. [[Paper](https://arxiv.org/abs/2112.02815)]
-       * (arXiv preprint 2021) [💬Hairstyle Transfer] **HairCLIP: Design Your Hair by Text and Reference Image**, Tianyi Wei et al. [[Paper](https://arxiv.org/abs/2112.05142)] [[Code](https://github.com/wty-ustc/HairCLIP)] 
        * (arXiv preprint 2021) [💬NeRF] **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**, Can Wang et al. [[Paper](https://arxiv.org/abs/2112.05139)] [[Code](https://github.com/cassiePython/CLIPNeRF)] [[Project](https://cassiepython.github.io/clipnerf/)]
        * (arXiv preprint 2021) [💬NeRF] **Zero-Shot Text-Guided Object Generation with Dream Fields**, Ajay Jain et al. [[Paper](https://arxiv.org/abs/2112.01455)]  [[Project](https://ajayj.com/dreamfields)]
        * (arXiv preprint 2021) [💬Style Transfer] **CLIPstyler: Image Style Transfer with a Single Text Condition**, Gihyun Kwon et al. [[Paper](https://arxiv.org/abs/2112.00374)] [[Code](https://github.com/paper11667/CLIPstyler)] 
