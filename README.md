@@ -165,7 +165,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
-    * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] 
+    * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
     * (Pattern Recognition Letters) **Text-to-image synthesis with self-supervised learning**, Yong Xuan Tan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865522001064)] 
     * (CVPR 2022) **Autoregressive Image Generation using Residual Quantization**, Doyup Lee et al. [[Paper](https://arxiv.org/abs/2203.01941)] [[Code](https://github.com/kakaobrain/rq-vae-transformer)] 
     * (CVPR 2022) **Text-to-Image Synthesis based on Object-Guided Joint-Decoding Transformer**, Fuxiang Wu et al. [[Paper](https://fengxianghe.github.io/paper/wu2022text.pdf)]
