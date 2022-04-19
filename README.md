@@ -132,7 +132,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * 13 multi-valued facial element groups from coarse to fine.
   * **Detailed information (BBox):** ⇒ [[Website](https://www.robots.ox.ac.uk/~vgg/software/via/)]
 
-* <span id="head-CelebAText-HQ "> **CelebAText-HQ** </span>
+* <span id="head-CelebAText-HQ"> **CelebAText-HQ** </span>
 
   CelebAText-HQ is a large-scale face image dataset with large-scale facial attributes, designed for text-to-face generation.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475391)] [[Website](https://github.com/cripac-sjx/SEA-T2F)] [[Download](https://drive.google.com/drive/folders/1IAb_iy6-soEGQWhbgu6cQODsIUJZpahC)]
@@ -156,6 +156,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
     * (CVPR 2022) **StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**, Zhiheng Li et al. [[Paper](https://arxiv.org/abs/2203.15799)] [[Code](https://github.com/zhihengli-UR/StyleT2I)]
+    * (arXiv preprint 2022) **StyleT2F: Generating Human Faces from Textual Description Using StyleGAN2**, Mohamed Shawky Sabae et al. [[Paper](https://arxiv.org/abs/2204.07924)] [[Code](https://github.com/DarkGeekMS/Retratista)]
     * (arXiv preprint 2022) **AnyFace: Free-style Text-to-Face Synthesis and Manipulation**, Jianxin Sun et al. [[Paper](https://arxiv.org/abs/2203.15334)] 
     * (IEEE Transactions on Network Science and Engineering) **TextFace: Text-to-Style Mapping based Face Generation and Manipulation**, Xianxu Hou et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9737433)]
     * (FG 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model**, Yutong Zhou et al. [[Paper](https://ieeexplore.ieee.org/document/9666791)] 
@@ -166,7 +167,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
     * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
+    * (IEEE Transactions on Neural Networks and Learning Systems) **DR-GAN: Distribution Regularization for Text-to-Image Generation**, Hongchen Tan et al. [[Paper](https://arxiv.org/abs/2204.07945)] 
     * (Pattern Recognition Letters) **Text-to-image synthesis with self-supervised learning**, Yong Xuan Tan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865522001064)] 
+    * (CVPR 2022) **Vector Quantized Diffusion Model for Text-to-Image Synthesis**, Shuyang Gu et al. [[Paper](https://arxiv.org/abs/2111.14822)] [[Code](https://github.com/microsoft/vq-diffusion)]
     * (CVPR 2022) **Autoregressive Image Generation using Residual Quantization**, Doyup Lee et al. [[Paper](https://arxiv.org/abs/2203.01941)] [[Code](https://github.com/kakaobrain/rq-vae-transformer)] 
     * (CVPR 2022) **Text-to-Image Synthesis based on Object-Guided Joint-Decoding Transformer**, Fuxiang Wu et al. [[Paper](https://fengxianghe.github.io/paper/wu2022text.pdf)]
     * (CVPR 2022) **LAFITE: Towards Language-Free Training for Text-to-Image Generation**, Yufan Zhou et al. [[Paper](https://arxiv.org/abs/2111.13792)] [[Code](https://github.com/drboog/Lafite)] 
@@ -185,7 +188,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-2021"> **2021**  </span> **[       «🎯Back To Top»       ](#)**
     * (arXiv preprint 2021) **Multimodal Conditional Image Synthesis with Product-of-Experts GANs**, Xun Huang et al. [[Paper](https://arxiv.org/abs/2112.05130)]  [[Project](https://deepimagination.cc/PoE-GAN/)]
          * Text-to-Image, Segmentation-to-Image, *Text+Segmentation/Sketch/Image→Image*, *Sketch+Segmentation/Image→Image*, *Segmentation+Image→Image*
-    * (arXiv preprint 2021) **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
     * (IEEE TCSVT) **RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**, Jun Cheng et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9656731)] 
     * (ICONIP 2021) **TRGAN: Text to Image Generation Through Optimizing Initial Image**, Liang Zhao et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_76)] 
     * ⭐(arXiv preprint 2021) **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**, Alex Nichol et al. [[Paper](https://arxiv.org/abs/2112.10741)] [[Code](https://github.com/openai/glide-text2im)]
@@ -193,7 +195,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * ⭐(arXiv preprint 2021) **FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization**, Xingchao Liu et al. [[Paper](https://arxiv.org/abs/2112.01573)] [[Code](https://github.com/gnobitab/FuseDream)]
     * (arXiv preprint 2021) [💬Evaluation] **TISE: A Toolbox for Text-to-Image Synthesis Evaluation**, Tan M. Dinh et al. [[Paper](https://arxiv.org/abs/2112.01398)] [[Project](https://di-mi-ta.github.io/tise/)]
     * (ICONIP 2021) **Self-Supervised Image-to-Text and Text-to-Image Synthesis**, Anindya Sundar Das et al. [[Paper](https://arxiv.org/abs/2112.04928)]
-    * (arXiv preprint 2021) **Vector Quantized Diffusion Model for Text-to-Image Synthesis**, Shuyang Gu et al. [[Paper](https://arxiv.org/abs/2111.14822)] [[Code](https://github.com/microsoft/vq-diffusion)]
     * ⭐⭐(arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
         * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video (T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
           ![Figure from paper](pic/NUWA.gif)
@@ -288,6 +289,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head5"> *5. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2022) **High-Resolution Image Synthesis with Latent Diffusion Models**, Robin Rombach et al. [[Paper](https://arxiv.org/abs/2112.10752)] [[Code](https://github.com/CompVis/latent-diffusion)]
+         * 📚Text-to-Image, Conditional Latent Diffusion, Super-Resolution, Inpainting
        * ⭐⭐(arXiv preprint 2022) **Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**, Peng Wang et al. [[Paper](https://arxiv.org/abs/2202.03052v1)]  [[Code](https://github.com/ofa-sys/ofa)] [[Hugging Face](https://huggingface.co/OFA-Sys)]
          * 📚Text-to-Image Generation, Image Captioning, Text Summarization, Self-Supervised Image Classification, **[SOTA]** Referring Expression Comprehension, Visual Entailment, Visual Question Answering
        * (NeurIPS 2021) **M6-UFC: Unifying Multi-Modal Controls for Conditional Image Synthesis via Non-Autoregressive Generative Transformers**, Zhu Zhang et al. [[Paper](https://arxiv.org/abs/2105.14211)] 
@@ -309,6 +312,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * ⭐⭐(arXiv preprint 2022) [💬Image & Video Editing] **Text2LIVE: Text-Driven Layered Image and Video Editing**, Omer Bar-Tal et al. [[Paper](https://arxiv.org/abs/2204.02491)] [[Project](https://text2live.github.io/)] 
        * (Machine Vision and Applications 2022) **Paired-D++ GAN for image manipulation with text**, Duc Minh Vo et al. [[Paper](https://link.springer.com/article/10.1007/s00138-022-01298-7)]
        * (CVPR 2022) [💬Hairstyle Transfer] **HairCLIP: Design Your Hair by Text and Reference Image**, Tianyi Wei et al. [[Paper](https://arxiv.org/abs/2112.05142)] [[Code](https://github.com/wty-ustc/HairCLIP)] 
+       * (CVPR 2022) **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**, Gwanghyun Kim et al. [[Paper](https://arxiv.org/abs/2110.02711)]
        * (CVPR 2022) **ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**, Jianan Wang et al. [[Paper](https://arxiv.org/abs/2204.04428)] [[Project](https://jawang19.github.io/manitrans/)] 
        * (CVPR 2022) **Blended Diffusion for Text-driven Editing of Natural Images**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2111.14818)] [[Code](https://github.com/omriav/blended-diffusion)] [[Project](https://omriavrahami.com/blended-diffusion-page/)] 
        * (CVPR 2022) **Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**, Zipeng Xu et al. [[Paper](https://arxiv.org/abs/2111.13333)] [[Code](https://github.com/zipengxuc/PPE-Pytorch)] 
