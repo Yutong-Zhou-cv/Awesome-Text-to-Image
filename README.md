@@ -170,6 +170,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
     * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
+    * (arXiv preprint 2022) **Recurrent Affine Transformation for Text-to-image Synthesis**, Senmao Ye et al. [[Paper](https://arxiv.org/abs/2204.10482)] [[Code](https://github.com/senmaoy/Recurrent-Affine-Transformation-for-Text-to-image-Synthesis)]
     * (AAAI 2022) **Interactive Image Generation with Natural-Language Feedback**, Yufan Zhou et al. [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-7081.ZhouY.pdf)]
     * (IEEE Transactions on Neural Networks and Learning Systems) **DR-GAN: Distribution Regularization for Text-to-Image Generation**, Hongchen Tan et al. [[Paper](https://arxiv.org/abs/2204.07945)] 
     * (Pattern Recognition Letters) **Text-to-image synthesis with self-supervised learning**, Yong Xuan Tan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865522001064)] 
