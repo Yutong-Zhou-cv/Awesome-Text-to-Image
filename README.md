@@ -58,6 +58,7 @@
   * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Speech → Image](#head-S2I)
   * - [ ] [Text → Visual Retrieval](#head-T2VR)
+  * - [ ] [Text → Motion](#head-T2M)
   * - [ ] [Text → Video](#head-T2V)
 
 * [*Contact Me*](#head6)
@@ -183,6 +184,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) **CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers**, Ming Ding et al. [[Paper](https://arxiv.org/abs/2204.14217)] [[Code](https://github.com/THUDM/CogView2)]
     * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
     * (arXiv preprint 2022) **Recurrent Affine Transformation for Text-to-image Synthesis**, Senmao Ye et al. [[Paper](https://arxiv.org/abs/2204.10482)] [[Code](https://github.com/senmaoy/Recurrent-Affine-Transformation-for-Text-to-image-Synthesis)]
     * (AAAI 2022) **Interactive Image Generation with Natural-Language Feedback**, Yufan Zhou et al. [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-7081.ZhouY.pdf)]
@@ -377,6 +379,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (CVPR 2021) **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**, Antoine Miech et al. [[Paper](https://arxiv.org/pdf/2103.16553.pdf)] 
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
+   * <span id="head-T2M"> **Text → Motion** </span> **[       «🎯Back To Top»       ](#)**
+       *  (arXiv preprint 2022) **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
+   
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
        *  (arXiv preprint 2022) **Video Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2204.03458)] [[Project](https://video-diffusion.github.io/)]
        * (arXiv preprint 2021) [❌Genertation Task] **Transcript to Video: Efficient Clip Sequencing from Texts**, Yu Xiong et al. [[Paper](https://arxiv.org/pdf/2107.11851.pdf)] [[Project](http://www.xiongyu.me/projects/transcript2video/)]
