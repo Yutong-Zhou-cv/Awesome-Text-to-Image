@@ -246,7 +246,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * ⭐(arXiv preprint 2021) **Zero-Shot Text-to-Image Generation**, Aditya Ramesh et al. [[Paper](https://arxiv.org/pdf/2102.12092.pdf)] [[Code](https://github.com/openai/DALL-E)] [[Blog](https://openai.com/blog/dall-e/)] [[Model Card](https://github.com/openai/DALL-E/blob/master/model_card.md)] [[Colab](https://colab.research.google.com/github/openai/DALL-E/blob/master/notebooks/usage.ipynb)] [[Code(Pytorch)](https://github.com/lucidrains/DALLE-pytorch)]
     <!--https://colab.research.google.com/drive/1KA2w8bA9Q1HDiZf5Ow_VNOrTaWW4lXXG?usp=sharing -->
     * (Pattern Recognition 2021) **Unsupervised text-to-image synthesis**, Yanlong Dong et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320320303769)] 
-    * (WACV 2021) **Text-to-Image Generation Grounded by Fine-Grained User Attention**, Jing Yu Koh et al. [[Paper](https://arxiv.org/pdf/2011.03775.pdf)] 
+    * (WACV 2021) **Text-to-Image Generation Grounded by Fine-Grained User Attention**, Jing Yu Koh et al. [[Paper](https://arxiv.org/pdf/2011.03775.pdf)] [[Code](https://github.com/google-research/trecs_image_generation)]
     * (IEEE TIP 2021) **Multi-Sentence Auxiliary Adversarial Networks for Fine-Grained Text-to-Image Synthesis**, Yanhua Yang et al. [[Paper](https://ieeexplore.ieee.org/document/9345477)]
     * (IEEE Access 2021) **DGattGAN: Cooperative Up-Sampling Based Dual Generator Attentional GAN on Text-to-Image Synthesis**, Han Zhang et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9352788)]
     
