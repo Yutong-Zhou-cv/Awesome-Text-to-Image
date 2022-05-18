@@ -331,7 +331,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
-       * (CVPR 2022) [💬3D Avatar Generation] **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars**, Fangzhou Hong et al. [[Paper](https://arxiv.org/abs/2205.08535)] [[Code](https://hongfz16.github.io/projects/AvatarCLIP.html)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] 
+       * (CVPR 2022) [💬3D Avatar Generation] **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars**, Fangzhou Hong et al. [[Paper](https://arxiv.org/abs/2205.08535)] [[Code](https://github.com/hongfz16/AvatarCLIP)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] 
        * ⭐⭐(arXiv preprint 2022) [💬Image & Video Editing] **Text2LIVE: Text-Driven Layered Image and Video Editing**, Omer Bar-Tal et al. [[Paper](https://arxiv.org/abs/2204.02491)] [[Project](https://text2live.github.io/)] 
        * (Machine Vision and Applications 2022) **Paired-D++ GAN for image manipulation with text**, Duc Minh Vo et al. [[Paper](https://link.springer.com/article/10.1007/s00138-022-01298-7)]
        * (CVPR 2022) [💬Hairstyle Transfer] **HairCLIP: Design Your Hair by Text and Reference Image**, Tianyi Wei et al. [[Paper](https://arxiv.org/abs/2112.05142)] [[Code](https://github.com/wty-ustc/HairCLIP)] 
