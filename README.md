@@ -184,7 +184,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
-    * (Neural Processing Letters) **PBGN: Phased Bidirectional Generation Network in Text-to-Image Synthesis**, Jianwei Zhu et al. [[Paper]([https://arxiv.org/abs/2204.14217](https://link.springer.com/article/10.1007/s11063-022-10866-x))]
+    * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/10.1145/3491102.3501825)]
+    * (Neural Processing Letters) **PBGN: Phased Bidirectional Generation Network in Text-to-Image Synthesis**, Jianwei Zhu et al. [[Paper](https://link.springer.com/article/10.1007/s11063-022-10866-x)]
     * (Signal Processing: Image Communication) **ARRPNGAN: Text-to-image GAN with attention regularization and region proposal networks**, Fengnan Quan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0923596522000601)] [[Code](https://github.com/quanFN/ARRPNGAN)]
     * (arXiv preprint 2022) **CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers**, Ming Ding et al. [[Paper](https://arxiv.org/abs/2204.14217)] [[Code](https://github.com/THUDM/CogView2)]
     * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
