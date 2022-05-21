@@ -313,6 +313,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head5"> *5. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
+         * 📚Text-to-Video, Independent Multimodal Controls, Dependent Multimodal Controls
        * (CVPR 2022) **High-Resolution Image Synthesis with Latent Diffusion Models**, Robin Rombach et al. [[Paper](https://arxiv.org/abs/2112.10752)] [[Code](https://github.com/CompVis/latent-diffusion)]
          * 📚Text-to-Image, Conditional Latent Diffusion, Super-Resolution, Inpainting
        * ⭐⭐(arXiv preprint 2022) **Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**, Peng Wang et al. [[Paper](https://arxiv.org/abs/2202.03052v1)]  [[Code](https://github.com/ofa-sys/ofa)] [[Hugging Face](https://huggingface.co/OFA-Sys)]
@@ -388,12 +390,13 @@ A number of studies have been conducted on the text-to-image synthesis technique
        *  (arXiv preprint 2022) **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
        *  (arXiv preprint 2022) **Video Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2204.03458)] [[Project](https://video-diffusion.github.io/)]
-       * (arXiv preprint 2021) [❌Genertation Task] **Transcript to Video: Efficient Clip Sequencing from Texts**, Yu Xiong et al. [[Paper](https://arxiv.org/pdf/2107.11851.pdf)] [[Project](http://www.xiongyu.me/projects/transcript2video/)]
+       * (arXiv preprint 2021) [❌Genertation Task] **Transcript to Video: Efficient Clip Sequencing from Texts**, Ligong Han et al. [[Paper](https://arxiv.org/pdf/2107.11851.pdf)] [[Project](http://www.xiongyu.me/projects/transcript2video/)]
        * (arXiv preprint 2021) **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2104.14806.pdf)] 
        * (arXiv preprint 2021) **Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary**, Sibo Zhang et al. [[Paper](https://arxiv.org/pdf/2104.14631.pdf)] 
        * (IEEE Access 2020) **TiVGAN: Text to Image to Video Generation With Step-by-Step Evolutionary Generator**, DOYEON KIM et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9171240)] 
-       * (IJCAI 2019) **Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis**, Yogesh Balaji et al. [[Paper](https://www.ijcai.org/Proceedings/2019/0276.pdf)] 
+       * (IJCAI 2019) **Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis**, Yogesh Balaji et al. [[Paper](https://www.ijcai.org/Proceedings/2019/0276.pdf)] [[Code](https://github.com/minrq/CGAN_Text2Video)] 
        * (IJCAI 2019) **IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation**, Kangle Deng et al. [[Paper](https://www.ijcai.org/Proceedings/2019/0307.pdf)] 
        * (AAAI 2018) **Video Generation From Text**, Yitong Li et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12233)] 
        * (ACMMM 2017) **To create what you tell: Generating videos from captions**, Yingwei Pan et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3127905)] 
