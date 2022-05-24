@@ -40,7 +40,9 @@
 
 * - [ ] [4. Project](#head4)
 
-* - [ ] [5. Paper With Code](#head5)
+* - [ ] [5. ⏳Recently Focused Papers (FYI)](#head5)
+
+* - [ ] [6. Paper With Code](#head6)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [Text to Face👨🏻🧒👧🏼🧓🏽](#head-T2F)
   * - [ ] [2022](#head-2022)
@@ -51,7 +53,7 @@
   * - [x] [2017](#head-2017)
   * - [x] [2016](#head-2016)
   
-* - [ ] [5. Other Related Works](#head5)
+* - [ ] [7. Other Related Works](#head7)
   * - [ ] [⭐Multimodality⭐](#head-MM)
   * - [ ] [Text+Image → Image](#head-TI2I)
   * - [ ] [Layout → Image](#head-L2I)
@@ -164,7 +166,12 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * >Text2Art is an AI-powered art generator based on VQGAN+CLIP that can generate all kinds of art such as pixel art, drawing, and painting from just text input. 
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
-## <span id="head5"> *5. Paper With Code* </span>
+## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span>
+* ⭐⭐(arXiv preprint 2022) [Imagen] **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**, Chitwan Saharia et al. [[Paper](https://arxiv.org/abs/2205.11487)] [[Blog](https://gweb-research-imagen.appspot.com/)]
+* ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
+* ⭐(arXiv preprint 2022) **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)] [[Code](https://github.com/HFAiLab/clip-gen)]
+
+## <span id="head6"> *6. Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
     * **Text-to-Image Synthesis: A Comparative Study** [[v1](https://link.springer.com/chapter/10.1007/978-981-16-2275-5_14)(Digital Transformation Technology)] (2021.08) 
@@ -184,13 +191,13 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
-    * ⭐⭐(arXiv preprint 2022) [Imagen] **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**, Chitwan Saharia et al. [[Paper](https://arxiv.org/abs/2205.11487)] [[Blog](https://gweb-research-imagen.appspot.com/)]
+    * (arXiv preprint 2022) [Imagen] **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**, Chitwan Saharia et al. [[Paper](https://arxiv.org/abs/2205.11487)] [[Blog](https://gweb-research-imagen.appspot.com/)]
     * (ICME 2022) **GR-GAN: Gradual Refinement Text-to-image Generation**, Bo Yang et al. [[Paper](https://arxiv.org/abs/2205.11273)] [[Code](https://github.com/BoO-18/GR-GAN)]
     * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/10.1145/3491102.3501825)]
     * (Neural Processing Letters) **PBGN: Phased Bidirectional Generation Network in Text-to-Image Synthesis**, Jianwei Zhu et al. [[Paper](https://link.springer.com/article/10.1007/s11063-022-10866-x)]
     * (Signal Processing: Image Communication) **ARRPNGAN: Text-to-image GAN with attention regularization and region proposal networks**, Fengnan Quan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0923596522000601)] [[Code](https://github.com/quanFN/ARRPNGAN)]
     * (arXiv preprint 2022) **CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers**, Ming Ding et al. [[Paper](https://arxiv.org/abs/2204.14217)] [[Code](https://github.com/THUDM/CogView2)]
-    * ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
+    * (OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
     * (arXiv preprint 2022) **Recurrent Affine Transformation for Text-to-image Synthesis**, Senmao Ye et al. [[Paper](https://arxiv.org/abs/2204.10482)] [[Code](https://github.com/senmaoy/Recurrent-Affine-Transformation-for-Text-to-image-Synthesis)]
     * (AAAI 2022) **Interactive Image Generation with Natural-Language Feedback**, Yufan Zhou et al. [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-7081.ZhouY.pdf)]
     * (IEEE Transactions on Neural Networks and Learning Systems) **DR-GAN: Distribution Regularization for Text-to-Image Generation**, Hongchen Tan et al. [[Paper](https://arxiv.org/abs/2204.07945)] 
@@ -203,9 +210,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2022) **DT2I: Dense Text-to-Image Generation from Region Descriptions**, Stanislav Frolov et al. [[Paper](https://arxiv.org/abs/2204.02035)] 
     * (arXiv preprint 2022) **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors**, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)]
     * (IEEE Transactions on Network Science and Engineering) **TextFace: Text-to-Style Mapping based Face Generation and Manipulation**, Xianxu Hou et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9737433)]
-    * ⭐⭐(arXiv preprint 2022) **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)]
+    * (arXiv preprint 2022) **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)] [[Code](https://github.com/HFAiLab/clip-gen)]
     * (arXiv preprint 2022) **OptGAN: Optimizing and Interpreting the Latent Space of the Conditional Text-to-Image GANs**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/abs/2202.12929)]
-    * ⭐⭐(arXiv preprint 2022) **DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**, Jaemin Cho et al. [[Paper](https://arxiv.org/abs/2202.04053)] [[Code](https://github.com/j-min/DallEval)] 
+    * (arXiv preprint 2022) **DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**, Jaemin Cho et al. [[Paper](https://arxiv.org/abs/2202.04053)] [[Code](https://github.com/j-min/DallEval)] 
     * (IEEE Transactions on Network Science and Engineering) **Neural Architecture Search with a Lightweight Transformer for Text-to-Image Synthesis**, Wei Li et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9699403)] 
     * (Neurocomputing 2022) **DiverGAN: An Efficient and Effective Single-Stage Framework for Diverse Text-to-Image Generation**, Zhenxing Zhang et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231221018397)]
     * (Knowledge-Based Systems) **CJE-TIG: Zero-shot cross-lingual text-to-image generation by Corpora-based Joint Encoding**, Han Zhang et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705121011138)] 
@@ -313,7 +320,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (NeurIPS 2016) **Learning What and Where to Draw**, Scott Reed et al. [[Paper](https://arxiv.org/pdf/1610.02454.pdf)] [[Code](https://github.com/reedscot/nips2016)]
 
 
-## <span id="head5"> *5. Other Related Works* </span>
+## <span id="head7"> *7. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
        * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
          * 📚Text-to-Video, Independent Multimodal Controls, Dependent Multimodal Controls
