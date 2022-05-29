@@ -180,6 +180,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
 * <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) **Text-to-Face Generation with StyleGAN2**, D. M. A. Ayanthi et al. [[Paper](https://arxiv.org/abs/2205.12512)]
     * (CVPR 2022) **StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**, Zhiheng Li et al. [[Paper](https://arxiv.org/abs/2203.15799)] [[Code](https://github.com/zhihengli-UR/StyleT2I)]
     * (arXiv preprint 2022) **StyleT2F: Generating Human Faces from Textual Description Using StyleGAN2**, Mohamed Shawky Sabae et al. [[Paper](https://arxiv.org/abs/2204.07924)] [[Code](https://github.com/DarkGeekMS/Retratista)]
     * (arXiv preprint 2022) **AnyFace: Free-style Text-to-Face Synthesis and Manipulation**, Jianxin Sun et al. [[Paper](https://arxiv.org/abs/2203.15334)] 
