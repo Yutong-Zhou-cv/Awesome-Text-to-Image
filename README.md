@@ -46,7 +46,7 @@
   * - [ ] [Survey](#head-Survey)
   * - [ ] [Text to Face👨🏻🧒👧🏼🧓🏽](#head-T2F)
   * - [ ] [2022](#head-2022)
-  * - [ ] [2021](#head-2021)
+  * - [x] [2021](#head-2021)
   * - [x] [2020](#head-2020)
   * - [x] [2019](#head-2019)
   * - [x] [2018](#head-2018)
@@ -322,6 +322,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head7"> *7. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **M6-Fashion: High-Fidelity Multi-modal Image Generation and Editing**, Zhikang Li et al. [[Paper](https://arxiv.org/abs/2205.11705)] 
+         * 📚Text-to-Image, Unconditional Image Generation, Local-editing, Text-guided Local-editing, In/Out-painting, Style-mixing
        * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
          * 📚Text-to-Video, Independent Multimodal Controls, Dependent Multimodal Controls
        * (CVPR 2022) **High-Resolution Image Synthesis with Latent Diffusion Models**, Robin Rombach et al. [[Paper](https://arxiv.org/abs/2112.10752)] [[Code](https://github.com/CompVis/latent-diffusion)]
