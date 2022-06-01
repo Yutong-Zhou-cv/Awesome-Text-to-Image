@@ -175,9 +175,14 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 ## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span>
-* ⭐⭐(arXiv preprint 2022) [Imagen] **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**, Chitwan Saharia et al. [[Paper](https://arxiv.org/abs/2205.11487)] [[Blog](https://gweb-research-imagen.appspot.com/)]
-* ⭐⭐(OpenAI) [DALL-E 2] **Hierarchical Text-Conditional Image Generation with CLIP Latents**, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
-* ⭐(arXiv preprint 2022) **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)] [[Code](https://github.com/HFAiLab/clip-gen)]
+* ⭐⭐(arXiv preprint 2022) *CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers*, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
+    * 🍬 CogVideo: ***The first open-source large-scale pretrained text-to-video model***, which is trained by ***inheriting a pretrained text-to-image model*** (CogView2) and outperforms all publicly available models at a large margin in machine and human evaluations.
+* ⭐⭐(arXiv preprint 2022) [Imagen] *Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding*, Chitwan Saharia et al. [[Paper](https://arxiv.org/abs/2205.11487)] [[Blog](https://gweb-research-imagen.appspot.com/)]
+    * 🍬 Imagen: ***A text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding***, which builds on the power of ***large transformer language models in understanding text*** and hinges on the strength of ***diffusion models in high-fidelity image generation***. 
+* ⭐⭐(OpenAI) [DALL-E 2] *Hierarchical Text-Conditional Image Generation with CLIP Latents*, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
+    * 🍬 ***DALL-E 2***: A two-stage model, a prior that generates a CLIP image embedding given a text caption, and a decoder that generates an image conditioned on the image embedding.
+* ⭐(arXiv preprint 2022) *CLIP-GEN: **Language-Free** Training of a Text-to-Image Generator with CLIP*, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)] [[Code](https://github.com/HFAiLab/clip-gen)]
+    * 🍬 CLIP-GEN: A self-supervised scheme for general ***text-to-image generation with the language-image priors extracted with a pre-trained CLIP model***, which only requires a set of unlabeled images in the general domain to train a text-to-image generator. 
 
 ## <span id="head6"> *6. Paper With Code* </span>
 
@@ -411,8 +416,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
        *  (arXiv preprint 2022) **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers**, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
        * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
-       *  (arXiv preprint 2022) **Video Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2204.03458)] [[Project](https://video-diffusion.github.io/)]
+       * (arXiv preprint 2022) **Video Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2204.03458)] [[Project](https://video-diffusion.github.io/)]
        * (arXiv preprint 2021) [❌Genertation Task] **Transcript to Video: Efficient Clip Sequencing from Texts**, Ligong Han et al. [[Paper](https://arxiv.org/pdf/2107.11851.pdf)] [[Project](http://www.xiongyu.me/projects/transcript2video/)]
        * (arXiv preprint 2021) **GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2104.14806.pdf)] 
        * (arXiv preprint 2021) **Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary**, Sibo Zhang et al. [[Paper](https://arxiv.org/pdf/2104.14631.pdf)] 
