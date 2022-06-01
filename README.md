@@ -37,6 +37,7 @@
   * [CelebA-Dialog](#head-CelebA-Dialog)
   * [FFHQ-Text](#head-FFHQ-Text)
   * [CelebAText-HQ](#head-CelebAText-HQ)
+  * [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
 
 * - [ ] [4. Project](#head4)
 
@@ -157,6 +158,13 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Number of images (from Celeba-HQ): 15010 (**Training**: 13,710. **Testing**: 1300.)
     * Descriptions per image: 10 Captions
 
+* <span id="head-DeepFashion-MultiModal"> **DeepFashion-MultiModal** </span>
+  
+  CelebA-Dialog is a large-scale high-quality human dataset. Human images are annotated with **rich multi-modal labels**, including human parsing labels, keypoints, densepose, fine-grained attributes and textual descriptions.
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2205.15996.pdf)] [[Website](https://github.com/yumingj/DeepFashion-MultiModal)] [[Download](https://drive.google.com/drive/folders/1An2c_ZCkeGmhJg0zUjtZF46vyJgQwIr2?usp=sharing)]
+    * Number of images: 44,096, including 12,701 full body images
+    * Descriptions per image: 1 Caption
+
 ## <span id="head4"> *4. Project* </span>
 * **Disco Diffusion**. [[Github](https://github.com/alembics/disco-diffusion)] [[Colab](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)]
     * >A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
@@ -192,6 +200,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (SIGGRAPH 2022) **Text2Human: Text-Driven Controllable Human Image Generation**, Yuming Jiang et al. [[Paper](https://arxiv.org/pdf/2205.15996.pdf)], [[Code](https://github.com/yumingj/Text2Human)]
     * (arXiv preprint 2022) [Imagen] **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**, Chitwan Saharia et al. [[Paper](https://arxiv.org/abs/2205.11487)] [[Blog](https://gweb-research-imagen.appspot.com/)]
     * (ICME 2022) **GR-GAN: Gradual Refinement Text-to-image Generation**, Bo Yang et al. [[Paper](https://arxiv.org/abs/2205.11273)] [[Code](https://github.com/BoO-18/GR-GAN)]
     * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/10.1145/3491102.3501825)]
