@@ -364,6 +364,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **Blended Latent Diffusion**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2206.02779)] [[Code](https://github.com/omriav/blended-latent-diffusion)] [[Project](https://omriavrahami.com/blended-latent-diffusion-page/)]
        * (arXiv preprint 2022) **DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2206.01160)] [[Code](https://github.com/tobran/DE-Net)]
        * (IEEE Transactions on Neural Networks and Learning Systems 2022) [💬Pose-Guided Person Generation] **Verbal-Person Nets: Pose-Guided Multi-Granularity Language-to-Person Generation**, Deyin Liu et al. [[Paper](https://ieeexplore.ieee.org/document/9732175)]
        * (SIGGRAPH 2022) [💬3D Avatar Generation] **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars**, Fangzhou Hong et al. [[Paper](https://arxiv.org/abs/2205.08535)] [[Code](https://github.com/hongfz16/AvatarCLIP)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] 
