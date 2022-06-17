@@ -342,6 +342,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head7"> *7. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation**, Ye Zhu et al. [[Paper](https://arxiv.org/abs/2206.07771)] [[Code](https://github.com/L-YeZhu/CDCD)] 
+         * 📚Text-to-Image, Dance-to-Music, Class-to-Image
        * (arXiv preprint 2022) **M6-Fashion: High-Fidelity Multi-modal Image Generation and Editing**, Zhikang Li et al. [[Paper](https://arxiv.org/abs/2205.11705)] 
          * 📚Text-to-Image, Unconditional Image Generation, Local-editing, Text-guided Local-editing, In/Out-painting, Style-mixing
        * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
