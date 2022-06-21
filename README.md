@@ -209,6 +209,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (Information Sciences 2022) **Text-to-Image Synthesis: Starting Composite from the Foreground Content**, Zhiqiang Zhang et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522006399)]
+    * (Applied Intelligence 2022) **Generative adversarial network based on semantic consistency for text-to-image generation**, Yue Ma et al. [[Paper](https://link.springer.com/article/10.1007/s10489-022-03660-8)]
     * (ICML 2022) **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**, Alex Nichol et al. [[Paper](https://arxiv.org/abs/2112.10741)] [[Code](https://github.com/openai/glide-text2im)]
     * (arXiv preprint 2022) **Compositional Visual Generation with Composable Diffusion Models**, Nan Liu et al. [[Paper](https://arxiv.org/abs/2206.01714)] [[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)] [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)]
     * (SIGGRAPH 2022) **Text2Human: Text-Driven Controllable Human Image Generation**, Yuming Jiang et al. [[Paper](https://arxiv.org/pdf/2205.15996.pdf)], [[Code](https://github.com/yumingj/Text2Human)]
