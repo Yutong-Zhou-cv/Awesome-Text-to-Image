@@ -373,6 +373,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Image Matting] **Referring Image Matting**, Sebastian Loeschcke et al. [[Paper](https://arxiv.org/abs/2206.05149)] [[Dataset](https://github.com/JizhiziLi/RIM)]
        * (arXiv preprint 2022) [💬Stylizing Video Objects] **Text-Driven Stylization of Video Objects**, Sebastian Loeschcke et al. [[Paper](https://arxiv.org/abs/2206.12396)] [[Project](https://sloeschcke.github.io/Text-Driven-Stylization-of-Video-Objects/)]
        * (arXiv preprint 2022) **DALL-E for Detection: Language-driven Context Image Synthesis for Object Detection**, Yunhao Ge et al. [[Paper](https://arxiv.org/abs/2206.09592)] 
        * (arXiv preprint 2022) [💬Animating Human Meshes] **CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes**, Kim Youwang et al. [[Paper](https://arxiv.org/abs/2206.04382)] [[Code](https://github.com/Youwang-Kim/CLIP-Actor)]
