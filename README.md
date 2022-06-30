@@ -211,6 +211,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (ICMR 2022) **Disentangled Representations and Hierarchical Refinement of Multi-Granularity Features for Text-to-Image Synthesis**, Pei Dong et al.  [[Paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531389)] 
     * (arXiv preprint 2022) **Scaling Autoregressive Models for Content-Rich Text-to-Image Generation**, Jiahui Yu et al.  [[Paper](https://arxiv.org/abs/2206.10789)] [[Code](https://github.com/google-research/parti)] [[Project](https://parti.research.google/)]
     * (Information Sciences 2022) **Text-to-Image Synthesis: Starting Composite from the Foreground Content**, Zhiqiang Zhang et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522006399)]
     * (Applied Intelligence 2022) **Generative adversarial network based on semantic consistency for text-to-image generation**, Yue Ma et al. [[Paper](https://link.springer.com/article/10.1007/s10489-022-03660-8)]
