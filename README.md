@@ -61,7 +61,7 @@
   * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Speech → Image](#head-S2I)
   * - [ ] [Text → Visual Retrieval](#head-T2VR)
-  * - [ ] [Text → Motion](#head-T2M)
+  * - [ ] [Text → Motion/Shape/Mesh/Object...](#head-T2M)
   * - [ ] [Text → Video](#head-T2V)
 
 * [*Contact Me*](#head6)
@@ -202,7 +202,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2022) **Text-to-Face Generation with StyleGAN2**, D. M. A. Ayanthi et al. [[Paper](https://arxiv.org/abs/2205.12512)]
     * (CVPR 2022) **StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**, Zhiheng Li et al. [[Paper](https://arxiv.org/abs/2203.15799)] [[Code](https://github.com/zhihengli-UR/StyleT2I)]
     * (arXiv preprint 2022) **StyleT2F: Generating Human Faces from Textual Description Using StyleGAN2**, Mohamed Shawky Sabae et al. [[Paper](https://arxiv.org/abs/2204.07924)] [[Code](https://github.com/DarkGeekMS/Retratista)]
-    * (arXiv preprint 2022) **AnyFace: Free-style Text-to-Face Synthesis and Manipulation**, Jianxin Sun et al. [[Paper](https://arxiv.org/abs/2203.15334)] 
+    * (CVPR 2022) **AnyFace: Free-style Text-to-Face Synthesis and Manipulation**, Jianxin Sun et al. [[Paper](https://arxiv.org/abs/2203.15334)] 
     * (IEEE Transactions on Network Science and Engineering) **TextFace: Text-to-Style Mapping based Face Generation and Manipulation**, Xianxu Hou et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9737433)]
     * (FG 2021) **Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model**, Yutong Zhou et al. [[Paper](https://ieeexplore.ieee.org/document/9666791)] 
     * (ACMMM 2021) **Multi-caption Text-to-Face Synthesis: Dataset and Algorithm**, Jianxin Sun et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475391)] [[Code](https://github.com/cripac-sjx/SEA-T2F)]
@@ -211,6 +211,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (CVPR 2022) **Text to Image Generation with Semantic-Spatial Aware GAN**, Wentong Liao et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Text_to_Image_Generation_With_Semantic-Spatial_Aware_GAN_CVPR_2022_paper.pdf)] [[Code](https://github.com/wtliao/text2image)]
     * (ICMR 2022) **Disentangled Representations and Hierarchical Refinement of Multi-Granularity Features for Text-to-Image Synthesis**, Pei Dong et al.  [[Paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531389)] 
     * (arXiv preprint 2022) **Scaling Autoregressive Models for Content-Rich Text-to-Image Generation**, Jiahui Yu et al.  [[Paper](https://arxiv.org/abs/2206.10789)] [[Code](https://github.com/google-research/parti)] [[Project](https://parti.research.google/)]
     * (Information Sciences 2022) **Text-to-Image Synthesis: Starting Composite from the Foreground Content**, Zhiqiang Zhang et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522006399)]
@@ -274,7 +275,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2021) **Improving Text-to-Image Synthesis Using Contrastive Learning**, Hui Ye et al. [[Paper](https://arxiv.org/pdf/2107.02423v1.pdf)] [[Code](https://github.com/huiyegit/T2I_CL)]
     * (arXiv preprint 2021) **CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders**, Kevin Frans et al. [[Paper](https://arxiv.org/pdf/2106.14843.pdf)] [[Code](https://colab.research.google.com/github/kvfrans/clipdraw/blob/main/clipdraw.ipynb)]
     * (ICASSP 2021) **Drawgan: Text to Image Synthesis with Drawing Generative Adversarial Networks**, Zhiqiang Zhang et al. [[Paper](https://ieeexplore.ieee.org/document/9414166)] 
-    * (arXiv preprint 2021) **Text to Image Generation with Semantic-Spatial Aware GAN**, Kai Hu et al. [[Paper](https://arxiv.org/pdf/2104.00567.pdf)] [[Code](https://github.com/wtliao/text2image)]
     * (IJCNN 2021) **DTGAN: Dual Attention Generative Adversarial Networks for Text-to-Image Generation**, Zhenxing Zhang et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9533527)] 
     * (CVPR 2021) **TediGAN: Text-Guided Diverse Image Generation and Manipulation**, Weihao Xia et al. [[Paper](https://arxiv.org/pdf/2012.03308.pdf)] [[Extended Version](https://arxiv.org/pdf/2104.08910.pdf)][[Code](https://github.com/IIGROUP/TediGAN)] [[Dataset](https://github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset)] [[Colab](https://colab.research.google.com/github/weihaox/TediGAN/blob/main/playground.ipynb)] [[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)] 
     * (CVPR 2021) **Cross-Modal Contrastive Learning for Text-to-Image Generation**, Han Zhang et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-Modal_Contrastive_Learning_for_Text-to-Image_Generation_CVPR_2021_paper.pdf)] [[Code](https://github.com/google-research/xmcgan_image_generation)]
@@ -374,6 +374,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2022) [💬Video Segmentation] **Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation**, Wangbo Zhao et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Modeling_Motion_With_Multi-Modal_Features_for_Text-Based_Video_Segmentation_CVPR_2022_paper.pdf)] [[Code](https://github.com/wangbo-zhao/2022cvpr-mmmmtbvs)]
        * (arXiv preprint 2022) [💬Image Matting] **Referring Image Matting**, Sebastian Loeschcke et al. [[Paper](https://arxiv.org/abs/2206.05149)] [[Dataset](https://github.com/JizhiziLi/RIM)]
        * (arXiv preprint 2022) [💬Stylizing Video Objects] **Text-Driven Stylization of Video Objects**, Sebastian Loeschcke et al. [[Paper](https://arxiv.org/abs/2206.12396)] [[Project](https://sloeschcke.github.io/Text-Driven-Stylization-of-Video-Objects/)]
        * (arXiv preprint 2022) **DALL-E for Detection: Language-driven Context Image Synthesis for Object Detection**, Yunhao Ge et al. [[Paper](https://arxiv.org/abs/2206.09592)] 
@@ -432,8 +433,12 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (CVPR 2021) **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**, Antoine Miech et al. [[Paper](https://arxiv.org/pdf/2103.16553.pdf)] 
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
-   * <span id="head-T2M"> **Text → Motion** </span> **[       «🎯Back To Top»       ](#)**
-       *  (arXiv preprint 2022) **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
+   * <span id="head-T2M"> **Text → Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2022) [💬Object] **Zero-Shot Text-Guided Object Generation with Dream Fields**, Ajay Jain et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)] [[Project](https://ajayj.com/dreamfields)] [[Code](https://github.com/google-research/google-research/tree/master/dreamfields)] 
+       * (CVPR 2022) [💬Mesh] **Text2Mesh: Text-Driven Neural Stylization for Meshes**, Oscar Michel et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Michel_Text2Mesh_Text-Driven_Neural_Stylization_for_Meshes_CVPR_2022_paper.pdf)] [[Project](https://threedle.github.io/text2mesh/)] [[Code](https://github.com/threedle/text2mesh)] 
+       * (CVPR 2022) [💬Motion] **Generating Diverse and Natural 3D Human Motions from Text**, Chuan Guo et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf)] [[Project](https://ericguo5513.github.io/text-to-motion/)] [[Code](https://github.com/EricGuo5513/text-to-motion)] 
+       * (CVPR 2022) [💬Shape] **CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation**, Aditya Sanghi et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sanghi_CLIP-Forge_Towards_Zero-Shot_Text-To-Shape_Generation_CVPR_2022_paper.pdf)] [[Code](https://github.com/AutodeskAILab/Clip-Forge)] 
+       * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2022) **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers**, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
