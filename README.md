@@ -374,6 +374,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Image Style Transfer] **Referring Image Matting**, Tsu-Jui Fu et al. [[Paper](https://arxiv.org/abs/2106.00178)]
        * (CVPR 2022) [💬Video Segmentation] **Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation**, Wangbo Zhao et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Modeling_Motion_With_Multi-Modal_Features_for_Text-Based_Video_Segmentation_CVPR_2022_paper.pdf)] [[Code](https://github.com/wangbo-zhao/2022cvpr-mmmmtbvs)]
        * (arXiv preprint 2022) [💬Image Matting] **Referring Image Matting**, Sebastian Loeschcke et al. [[Paper](https://arxiv.org/abs/2206.05149)] [[Dataset](https://github.com/JizhiziLi/RIM)]
        * (arXiv preprint 2022) [💬Stylizing Video Objects] **Text-Driven Stylization of Video Objects**, Sebastian Loeschcke et al. [[Paper](https://arxiv.org/abs/2206.12396)] [[Project](https://sloeschcke.github.io/Text-Driven-Stylization-of-Video-Objects/)]
