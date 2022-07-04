@@ -166,8 +166,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Descriptions per image: 1 Caption
 
 ## <span id="head4"> *4. Project* </span>
-* **DALL·E Mini**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)]
-    * >A free, open-source AI that produces amazing images from text inputs.
+* **craiyon(~~DALL·E Mini~~)**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)] [[Homepage](https://www.craiyon.com/)] [[min(DALL·E)](https://github.com/kuprel/min-dalle)]
+    * >A free, open-source AI that produces amazing images from text inputs. AI model drawing images from any prompt!
 * **Disco Diffusion**. [[Github](https://github.com/alembics/disco-diffusion)] [[Colab](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)]
     * >A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
