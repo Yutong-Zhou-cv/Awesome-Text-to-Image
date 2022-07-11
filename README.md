@@ -430,6 +430,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (IEEE Journal of Selected Topics in Signal Processing 2020) **Direct Speech-to-Image Translation**, Jiguo Li et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067083)] [[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)] [[Project](https://smallflyingpig.github.io/speech-to-image/main)]
        
    * <span id="head-T2VR"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2021) [💬Dataset] **FooDI-ML: a large multi-language dataset of food, drinks and groceries images and descriptions**, David Amat Olóndriz et al. [[Paper](https://arxiv.org/abs/2110.02035)] [[Code](https://github.com/glovo/foodi-ml-dataset)] 
        * (CVPRW 2021) **TIED: A Cycle Consistent Encoder-Decoder Model for Text-to-Image Retrieval**, Clint Sebastian et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Sebastian_TIED_A_Cycle_Consistent_Encoder-Decoder_Model_for_Text-to-Image_Retrieval_CVPRW_2021_paper.pdf)] 
        * (CVPR 2021) **T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval**, Xiaohan Wang et al. [[Paper](https://arxiv.org/pdf/2104.10054.pdf)] 
        * (CVPR 2021) **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**, Antoine Miech et al. [[Paper](https://arxiv.org/pdf/2103.16553.pdf)] 
