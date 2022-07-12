@@ -166,6 +166,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Descriptions per image: 1 Caption
 
 ## <span id="head4"> *4. Project* </span>
+* **Artflow**. [[Start Creating!](https://artflow.ai/)] 
+    * >Artflow lets users generate visual content with the help of AI. Create unique avatars with ease and turn any description into a portrait.
 * **craiyon(~~DALL·E Mini~~)**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)] [[Homepage](https://www.craiyon.com/)] [[min(DALL·E)](https://github.com/kuprel/min-dalle)]
     * >A free, open-source AI that produces amazing images from text inputs. AI model drawing images from any prompt!
 * **Disco Diffusion**. [[Github](https://github.com/alembics/disco-diffusion)] [[Colab](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)]
