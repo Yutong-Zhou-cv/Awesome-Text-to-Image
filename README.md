@@ -9,7 +9,7 @@
  ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?color=yellow&style=for-the-badge) 
  ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Text-to-Image?style=for-the-badge) 
  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yutong-Zhou-cv/Awesome-Text-to-Image) 
-
+ [![Star History Chart](https://api.star-history.com/svg?repos=Yutong-Zhou-cv/Awesome-Text-to-Image&type=Date)](https://star-history.com/#Yutong-Zhou-cv/Awesome-Text-to-Image&Date)
 </p>
 
 𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓽𝓮𝔁𝓽-𝓽𝓸-𝓲𝓶𝓪𝓰𝓮 𝓼𝔂𝓷𝓽𝓱𝓮𝓼𝓲𝓼/𝓶𝓪𝓷𝓲𝓹𝓾𝓵𝓪𝓽𝓲𝓸𝓷 𝓽𝓪𝓼𝓴𝓼.
@@ -458,6 +458,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (IJCAI 2019) **IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation**, Kangle Deng et al. [[Paper](https://www.ijcai.org/Proceedings/2019/0307.pdf)] 
        * (AAAI 2018) **Video Generation From Text**, Yitong Li et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12233)] 
        * (ACMMM 2017) **To create what you tell: Generating videos from captions**, Yingwei Pan et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3127905)] 
+
 ## <span id="head6"> *Contact Me* </span>
 
 * [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) in [Interaction Laboratory, Ritsumeikan University.](https://github.com/Rits-Interaction-Laboratory) ლ(╹◡╹ლ) 
