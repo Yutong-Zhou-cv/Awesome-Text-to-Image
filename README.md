@@ -355,6 +355,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head7"> *7. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (ACMMM 2022) **Rethinking Super-Resolution as Text-Guided Details Generation**, Chenxi Ma et al. [[Paper](https://arxiv.org/abs/2207.06604)] 
+         * 📚Text-to-Image, High-resolution, Text-guided High-resolution
        * (arXiv preprint 2022) **Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation**, Ye Zhu et al. [[Paper](https://arxiv.org/abs/2206.07771)] [[Code](https://github.com/L-YeZhu/CDCD)] 
          * 📚Text-to-Image, Dance-to-Music, Class-to-Image
        * (arXiv preprint 2022) **M6-Fashion: High-Fidelity Multi-modal Image Generation and Editing**, Zhikang Li et al. [[Paper](https://arxiv.org/abs/2205.11705)] 
