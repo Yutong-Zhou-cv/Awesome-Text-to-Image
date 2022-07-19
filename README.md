@@ -383,6 +383,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (ACMMM 2022) [💬Person Re-identification] **Learning Granularity-Unified Representations for Text-to-Image Person Re-identification**, Zhiyin Shao et al. [[Paper](https://arxiv.org/abs/2207.07802)] [[Code](https://github.com/ZhiyinShao-H/LGUR)]
        * (ACMMM 2022) **Towards Counterfactual Image Manipulation via CLIP**, Yingchen Yu et al. [[Paper](https://arxiv.org/abs/2207.02812)] [[Code](https://github.com/yingchen001/CF-CLIP)]
        * (ACMMM 2022) [💬Monocular Depth Estimation] **Can Language Understand Depth?**, Wangbo Zhao et al. [[Paper](https://arxiv.org/abs/2207.01077)] [[Code](https://github.com/Adonis-galaxy/DepthCLIP)]
        * (arXiv preprint 2022) [💬Image Style Transfer] **Referring Image Matting**, Tsu-Jui Fu et al. [[Paper](https://arxiv.org/abs/2106.00178)]
