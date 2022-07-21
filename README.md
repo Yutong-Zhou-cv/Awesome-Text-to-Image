@@ -181,6 +181,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 ## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span>
+* ⭐⭐(arXiv preprint 2022) *NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis*, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2207.09814)] [[Code](https://github.com/microsoft/NUWA)] [[Project](https://nuwa-infinity.microsoft.com/#/)]
+    * 🍬NUWA-Infinity: A infinite visual synthesis model for ***arbitrarily-sized high-resolution images*** and ***long-duration videos*** generation.
 * ⭐⭐(ECCV 2022) *Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors*, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)] [[(Story)The Little Red Boat Story](https://www.youtube.com/watch?v=N4BagnXzPXY)] [[(Story)New Adventures](https://www.youtube.com/watch?v=NPTFNNACRnI&t=154s)]
     * 🍬 Make-A-Scene: Generate high fidelity images in a resolution of ***512x512*** pixels; Introduce several new capabilities: (i) ***Scene editing***, (ii) ***text editing with anchor scenes***, (iii) ***overcoming out-of-distribution text prompts***, and (iv) ***story illustration generation***.
 * ⭐⭐(arXiv preprint 2022) *Scaling Autoregressive Models for Content-Rich Text-to-Image Generation*, Jiahui Yu et al. [[Paper](https://arxiv.org/abs/2206.10789)] [[Code](https://github.com/google-research/parti)] [[Project](https://parti.research.google/)]
@@ -193,8 +195,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * 🍬 Imagen: ***A text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding***, which builds on the power of ***large transformer language models in understanding text*** and hinges on the strength of ***diffusion models in high-fidelity image generation***. 
 * ⭐⭐(OpenAI) [DALL-E 2] *Hierarchical Text-Conditional Image Generation with CLIP Latents*, Aditya Ramesh et al. [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)] [[Blog](https://openai.com/dall-e-2/)] [[Risks and Limitations](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)] [[Unofficial Code](https://github.com/lucidrains/DALLE2-pytorch)] 
     * 🍬 ***DALL-E 2***: A two-stage model, a prior that generates a CLIP image embedding given a text caption, and a decoder that generates an image conditioned on the image embedding.
-* ⭐(arXiv preprint 2022) *CLIP-GEN: **Language-Free** Training of a Text-to-Image Generator with CLIP*, Zihao Wang et al. [[Paper](https://arxiv.org/abs/2203.00386)] [[Code](https://github.com/HFAiLab/clip-gen)]
-    * 🍬 CLIP-GEN: A self-supervised scheme for general ***text-to-image generation with the language-image priors extracted with a pre-trained CLIP model***, which only requires a set of unlabeled images in the general domain to train a text-to-image generator. 
 
 ## <span id="head6"> *6. Paper With Code* </span>
 
@@ -217,6 +217,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
+        * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video (T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
+          ![Figure from paper](pic/NUWA.gif)
+          > *(From: https://github.com/microsoft/NUWA [2021/11/30])*
     * (ECCV 2022) **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors**, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)] [[The Little Red Boat Story](https://www.youtube.com/watch?v=N4BagnXzPXY)]
     * (arXiv preprint 2022) **Exploring Generative Adversarial Networks for Text-to-Image Generation with Evolution Strategies**, Victor Costa et al.  [[Paper](https://arxiv.org/abs/2207.02907)] 
     * (CVPR 2022) **Text to Image Generation with Semantic-Spatial Aware GAN**, Wentong Liao et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Text_to_Image_Generation_With_Semantic-Spatial_Aware_GAN_CVPR_2022_paper.pdf)] [[Code](https://github.com/wtliao/text2image)]
@@ -259,13 +263,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (IEEE TCSVT) **RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**, Jun Cheng et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/9656731)] 
     * (ICONIP 2021) **TRGAN: Text to Image Generation Through Optimizing Initial Image**, Liang Zhao et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_76)] 
     * (NeurIPS 2021) **Benchmark for Compositional Text-to-Image Synthesis**, Dong Huk Park et al. [[Paper](https://openreview.net/forum?id=bKBhQhPeKaF)] [[Code](https://github.com/Seth-Park/comp-t2i-dataset)]
-    * ⭐(arXiv preprint 2021) **FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization**, Xingchao Liu et al. [[Paper](https://arxiv.org/abs/2112.01573)] [[Code](https://github.com/gnobitab/FuseDream)]
+    * (arXiv preprint 2021) **FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization**, Xingchao Liu et al. [[Paper](https://arxiv.org/abs/2112.01573)] [[Code](https://github.com/gnobitab/FuseDream)]
     * (arXiv preprint 2021) [💬Evaluation] **TISE: A Toolbox for Text-to-Image Synthesis Evaluation**, Tan M. Dinh et al. [[Paper](https://arxiv.org/abs/2112.01398)] [[Project](https://di-mi-ta.github.io/tise/)]
     * (ICONIP 2021) **Self-Supervised Image-to-Text and Text-to-Image Synthesis**, Anindya Sundar Das et al. [[Paper](https://arxiv.org/abs/2112.04928)]
-    * ⭐⭐(arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
-        * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video (T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
-          ![Figure from paper](pic/NUWA.gif)
-          > *(From: https://github.com/microsoft/NUWA [2021/11/30])*
     * (arXiv preprint 2021) **DiverGAN: An Efficient and Effective Single-Stage Framework for Diverse Text-to-Image Generation**, Zhenxing Zhang et al. [[Paper](https://arxiv.org/pdf/2111.09267.pdf)] 
     * (Image and Vision Computing) **Transformer models for enhancing AttnGAN based text to image generation**, S. Naveen et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S026288562100189X)]
     * (ACMMM 2021) **R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks**, Yanyuan Qiao et al. [[Paper](https://dl.acm.org/doi/10.1145/3474085.3475363)]
@@ -355,6 +355,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head7"> *7. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2207.09814)] [[Code](https://github.com/microsoft/NUWA)] [[Project](https://nuwa-infinity.microsoft.com/#/)]
+         * 📚Unconditional Image Generation(HD), Text-to-Image(HD), Image Animation(HD), Image Outpainting(HD), Text-to-Video(HD)
+       * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
+         * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
        * (ACMMM 2022) **Rethinking Super-Resolution as Text-Guided Details Generation**, Chenxi Ma et al. [[Paper](https://arxiv.org/abs/2207.06604)] 
          * 📚Text-to-Image, High-resolution, Text-guided High-resolution
        * (arXiv preprint 2022) **Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation**, Ye Zhu et al. [[Paper](https://arxiv.org/abs/2206.07771)] [[Code](https://github.com/L-YeZhu/CDCD)] 
@@ -379,8 +383,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
          * 📚Text-To-Image, Image-To-Text, Image Reconstruction 
        * (arXiv preprint 2021) [💬Semantic Diffusion Guidance] **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
          * 📚Text-To-Image, Image-To-Image, Text+Image → Image 
-       * (arXiv preprint 2021) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/pdf/2111.12417.pdf)] [[Code](https://github.com/microsoft/NUWA)]
-         * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
+
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (ACMMM 2022) [💬Person Re-identification] **Learning Granularity-Unified Representations for Text-to-Image Person Re-identification**, Zhiyin Shao et al. [[Paper](https://arxiv.org/abs/2207.07802)] [[Code](https://github.com/ZhiyinShao-H/LGUR)]
