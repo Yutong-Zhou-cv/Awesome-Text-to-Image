@@ -218,6 +218,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬Lighting Consistency Analysis] **Lighting (In)consistency of Paint by Text**, Hany Farid  [[Paper](https://arxiv.org/abs/2207.13744)] 
     * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
         * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video (T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
           ![Figure from paper](pic/NUWA.gif)
@@ -455,6 +456,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
    * <span id="head-T2M"> **Text → Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
+       * (ECCV 2022) [💬Virtual Humans] **Compositional Human-Scene Interaction Synthesis with Semantic Control**, Kaifeng Zhao et al. [[Paper](https://arxiv.org/abs/2207.12824)] [[Project](https://zkf1997.github.io/COINS/index.html)] [[Code](https://github.com/zkf1997/COINS)] 
        * (CVPR 2022) [💬Object] **Zero-Shot Text-Guided Object Generation with Dream Fields**, Ajay Jain et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)] [[Project](https://ajayj.com/dreamfields)] [[Code](https://github.com/google-research/google-research/tree/master/dreamfields)] 
        * (CVPR 2022) [💬Mesh] **Text2Mesh: Text-Driven Neural Stylization for Meshes**, Oscar Michel et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Michel_Text2Mesh_Text-Driven_Neural_Stylization_for_Meshes_CVPR_2022_paper.pdf)] [[Project](https://threedle.github.io/text2mesh/)] [[Code](https://github.com/threedle/text2mesh)] 
        * (CVPR 2022) [💬Motion] **Generating Diverse and Natural 3D Human Motions from Text**, Chuan Guo et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf)] [[Project](https://ericguo5513.github.io/text-to-motion/)] [[Code](https://github.com/EricGuo5513/text-to-motion)] 
