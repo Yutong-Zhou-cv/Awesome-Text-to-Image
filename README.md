@@ -4,12 +4,13 @@
 
 <p>
  
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
  ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?color=red&style=for-the-badge) 
  ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?style=for-the-badge) 
  ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Text-to-Image?color=yellow&style=for-the-badge) 
  ![GitHub issues](https://img.shields.io/github/issues/Yutong-Zhou-cv/Awesome-Text-to-Image?style=for-the-badge)
  ![GitHub closed issues](https://img.shields.io/github/issues-closed/Yutong-Zhou-cv/Awesome-Text-to-Image?color=inactive&style=for-the-badge)
+ 
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yutong-Zhou-cv/Awesome-Text-to-Image) 
  [![Star History Chart](https://api.star-history.com/svg?repos=Yutong-Zhou-cv/Awesome-Text-to-Image&type=Date)](https://star-history.com/#Yutong-Zhou-cv/Awesome-Text-to-Image&Date)
 </p>
@@ -386,6 +387,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (ECCV 2022) [💬Pose Synthesis] **TIPS: Text-Induced Pose Synthesis**, Prasun Roy et al. [[Paper](https://arxiv.org/abs/2207.11718)] [[Code](https://github.com/prasunroy/tips)] [[Project](https://prasunroy.github.io/tips/)]
        * (ACMMM 2022) [💬Person Re-identification] **Learning Granularity-Unified Representations for Text-to-Image Person Re-identification**, Zhiyin Shao et al. [[Paper](https://arxiv.org/abs/2207.07802)] [[Code](https://github.com/ZhiyinShao-H/LGUR)]
        * (ACMMM 2022) **Towards Counterfactual Image Manipulation via CLIP**, Yingchen Yu et al. [[Paper](https://arxiv.org/abs/2207.02812)] [[Code](https://github.com/yingchen001/CF-CLIP)]
        * (ACMMM 2022) [💬Monocular Depth Estimation] **Can Language Understand Depth?**, Wangbo Zhao et al. [[Paper](https://arxiv.org/abs/2207.01077)] [[Code](https://github.com/Adonis-galaxy/DepthCLIP)]
