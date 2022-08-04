@@ -168,7 +168,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Number of images: 44,096, including 12,701 full body images
     * Descriptions per image: 1 Caption
 
-## <span id="head4"> *4. Project* </span>
+## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
 * **Artflow**. [[Start Creating!](https://artflow.ai/)] 
     * >Artflow lets users generate visual content with the help of AI. Create unique avatars with ease and turn any description into a portrait.
 * **craiyon(~~DALL·E Mini~~)**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)] [[Homepage](https://www.craiyon.com/)] [[min(DALL·E)](https://github.com/kuprel/min-dalle)]
@@ -181,7 +181,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * >Text2Art is an AI-powered art generator based on VQGAN+CLIP that can generate all kinds of art such as pixel art, drawing, and painting from just text input. 
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
-## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span>
+## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span> **[       «🎯Back To Top»       ](#)**
 * ⭐⭐(arXiv preprint 2022) *NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis*, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2207.09814)] [[Code](https://github.com/microsoft/NUWA)] [[Project](https://nuwa-infinity.microsoft.com/#/)]
     * 🍬NUWA-Infinity: A infinite visual synthesis model for ***arbitrarily-sized high-resolution images*** and ***long-duration videos*** generation.
 * ⭐⭐(ECCV 2022) *Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors*, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)] [[(Story)The Little Red Boat Story](https://www.youtube.com/watch?v=N4BagnXzPXY)] [[(Story)New Adventures](https://www.youtube.com/watch?v=NPTFNNACRnI&t=154s)]
@@ -218,6 +218,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬Relational Understanding Analysis] **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell  [[Paper](https://arxiv.org/abs/2208.00005)] 
     * (arXiv preprint 2022) [💬Lighting Consistency Analysis] **Lighting (In)consistency of Paint by Text**, Hany Farid  [[Paper](https://arxiv.org/abs/2207.13744)] 
     * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
         * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video (T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
