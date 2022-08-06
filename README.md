@@ -218,6 +218,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**, Rinon Gal et al.  [[Paper](https://arxiv.org/abs/2208.01618)] [[Code](https://github.com/rinongal/textual_inversion)] [[Project](https://textual-inversion.github.io/)]
     * (arXiv preprint 2022) [💬Relational Understanding Analysis] **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell  [[Paper](https://arxiv.org/abs/2208.00005)] 
     * (arXiv preprint 2022) [💬Lighting Consistency Analysis] **Lighting (In)consistency of Paint by Text**, Hany Farid  [[Paper](https://arxiv.org/abs/2207.13744)] 
     * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
@@ -389,6 +390,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **Prompt-to-Prompt Image Editing with Cross Attention Control**, Amir Hertz et al.  [[Paper](https://arxiv.org/abs/2208.01626)] 
        * (ECCV 2022) [💬Pose Synthesis] **TIPS: Text-Induced Pose Synthesis**, Prasun Roy et al. [[Paper](https://arxiv.org/abs/2207.11718)] [[Code](https://github.com/prasunroy/tips)] [[Project](https://prasunroy.github.io/tips/)]
        * (ACMMM 2022) [💬Person Re-identification] **Learning Granularity-Unified Representations for Text-to-Image Person Re-identification**, Zhiyin Shao et al. [[Paper](https://arxiv.org/abs/2207.07802)] [[Code](https://github.com/ZhiyinShao-H/LGUR)]
        * (ACMMM 2022) **Towards Counterfactual Image Manipulation via CLIP**, Yingchen Yu et al. [[Paper](https://arxiv.org/abs/2207.02812)] [[Code](https://github.com/yingchen001/CF-CLIP)]
