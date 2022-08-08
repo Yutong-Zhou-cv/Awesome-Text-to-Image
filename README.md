@@ -396,6 +396,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Image Colorization] **TIC: Text-Guided Image Colorization**, Subhankar Ghosh et al.  [[Paper](https://arxiv.org/abs/2208.02843)] 
        * (arXiv preprint 2022) **Prompt-to-Prompt Image Editing with Cross Attention Control**, Amir Hertz et al.  [[Paper](https://arxiv.org/abs/2208.01626)] 
        * (ECCV 2022) [💬Pose Synthesis] **TIPS: Text-Induced Pose Synthesis**, Prasun Roy et al. [[Paper](https://arxiv.org/abs/2207.11718)] [[Code](https://github.com/prasunroy/tips)] [[Project](https://prasunroy.github.io/tips/)]
        * (ACMMM 2022) [💬Person Re-identification] **Learning Granularity-Unified Representations for Text-to-Image Person Re-identification**, Zhiyin Shao et al. [[Paper](https://arxiv.org/abs/2207.07802)] [[Code](https://github.com/ZhiyinShao-H/LGUR)]
