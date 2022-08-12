@@ -398,6 +398,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Face Animation] **Language-Guided Face Animation by Recurrent StyleGAN-based Generator**, Tiankai Hang et al. [[Paper](https://arxiv.org/abs/2208.05617)] [[Code](https://github.com/TiankaiHang/language-guided-animation)]
+       * (arXiv preprint 2022) [💬Fashion Design] **ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design**, Xujie Zhang et al. [[Paper](https://arxiv.org/abs/2208.05621)] [[Code](https://github.com/Harvey594/ARMANI)]
        * (arXiv preprint 2022) [💬Image Colorization] **TIC: Text-Guided Image Colorization**, Subhankar Ghosh et al.  [[Paper](https://arxiv.org/abs/2208.02843)] 
        * (arXiv preprint 2022) **Prompt-to-Prompt Image Editing with Cross Attention Control**, Amir Hertz et al.  [[Paper](https://arxiv.org/abs/2208.01626)] 
        * (ECCV 2022) [💬Pose Synthesis] **TIPS: Text-Induced Pose Synthesis**, Prasun Roy et al. [[Paper](https://arxiv.org/abs/2207.11718)] [[Code](https://github.com/prasunroy/tips)] [[Project](https://prasunroy.github.io/tips/)]
