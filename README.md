@@ -226,6 +226,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬Text→Layout→Image] **Layout-Bridging Text-to-Image Synthesis**, Jiadong Liang et al.  [[Paper](https://arxiv.org/abs/2208.06162)] 
+    * (arXiv preprint 2022) **DALLE-URBAN: Capturing the urban design expertise of large text to image transformers**, Sachith Seneviratne et al.  [[Paper](https://arxiv.org/abs/2208.04139)] [[Generated Images](https://github.com/sachith500/DALLEURBAN)] 
     * (arXiv preprint 2022) **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**, Rinon Gal et al.  [[Paper](https://arxiv.org/abs/2208.01618)] [[Code](https://github.com/rinongal/textual_inversion)] [[Project](https://textual-inversion.github.io/)]
     * (arXiv preprint 2022) [💬Relational Understanding Analysis] **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell  [[Paper](https://arxiv.org/abs/2208.00005)] 
     * (arXiv preprint 2022) [💬Lighting Consistency Analysis] **Lighting (In)consistency of Paint by Text**, Hany Farid  [[Paper](https://arxiv.org/abs/2207.13744)] 
@@ -499,4 +501,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * If you have any question, please feel free to contact Yutong ZHOU (E-mail: <zhou@i.ci.ritsumei.ac.jp>).
 
+<!--
 <a href='https://clustrmaps.com/site/1bpq4'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=3wemEIurL5hHYA1MNxyuQaTay2TnGf9HrAqmu53SPco'/></a>
+-->
