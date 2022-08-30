@@ -232,6 +232,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬Text-to-Person]**T-Person-GAN: Text-to-Person Image Generation with Identity-Consistency and Manifold Mix-Up**, Lin Wu et al.  [[Paper](https://arxiv.org/abs/2208.12752)] [[Code](https://github.com/linwu-github/Person-Image-Generation)]
     * (arXiv preprint 2022) **LogicRank: Logic Induced Reranking for Generative Text-to-Image Systems**, Björn Deiseroth et al.  [[Paper](https://arxiv.org/abs/2208.13518)] 
     * (arXiv preprint 2022) [💬Text→Layout→Image] **Layout-Bridging Text-to-Image Synthesis**, Jiadong Liang et al.  [[Paper](https://arxiv.org/abs/2208.06162)] 
     * (arXiv preprint 2022) **DALLE-URBAN: Capturing the urban design expertise of large text to image transformers**, Sachith Seneviratne et al.  [[Paper](https://arxiv.org/abs/2208.04139)] [[Generated Images](https://github.com/sachith500/DALLEURBAN)] 
