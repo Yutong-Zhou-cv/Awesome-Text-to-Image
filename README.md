@@ -169,7 +169,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Descriptions per image: 1 Caption
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
-* **Stable Diffusion**. [[Researcher Access Form](https://stability.ai/research-access-form)] [[Github](https://github.com/CompVis/stable-diffusion)]
+* **Stable Diffusion**. [[Researcher Access Form](https://stability.ai/research-access-form)] [[Github](https://github.com/CompVis/stable-diffusion)] [[Web UI](https://github.com/hlky/stable-diffusion)] [[WebUI Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)]
     * >Stable Diffusion is a text-to-image model that will empower billions of people to create stunning art within seconds. It is a breakthrough in speed and quality meaning that it can run on consumer GPUs.
 * **Artflow**. [[Start Creating!](https://artflow.ai/)] 
     * >Artflow lets users generate visual content with the help of AI. Create unique avatars with ease and turn any description into a portrait.
