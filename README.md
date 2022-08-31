@@ -232,6 +232,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) **Text to Image Generation: Leaving no Language Behind**, Pedro Reviriego et al.  [[Paper](https://arxiv.org/abs/2208.09333)] 
+    * (arXiv preprint 2022) **Vision-Language Matching for Text-to-Image Synthesis via Generative Adversarial Networks**, Qingrong Cheng et al.  [[Paper](https://arxiv.org/abs/2208.09596)] 
     * (arXiv preprint 2022) [💬Visual Understanding on Generated Images] **How good are deep models in understanding the generated images?**, Ali Borji  [[Paper](https://arxiv.org/abs/2208.10760)] 
     * (arXiv preprint 2022) **Text-to-Image Generation via Implicit Visual Guidance and Hypernetwork**, Xin Yuan et al.  [[Paper](https://arxiv.org/abs/2208.08493)] 
     * (arXiv preprint 2022) [💬Hybrid word→Image] **Adversarial Attacks on Image Generation With Made-Up Words**, Raphaël Millière  [[Paper](https://arxiv.org/abs/2208.04135)] 
