@@ -413,6 +413,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Human Motion Generation] **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et al. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html#)]
        * (ACMMM PIES-ME 2022) [💬3D Semantic Style Transfer] **Language-guided Semantic Style Transfer of 3D Indoor Scenes**, Bu Jin et al. [[Paper](https://arxiv.org/abs/2208.07870)] [[Code](https://github.com/AIR-DISCOVER/LASST)]
        * (arXiv preprint 2022) **DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**, Nataniel Ruiz et al. [[Paper](https://arxiv.org/abs/2208.12242)] [[Project](https://dreambooth.github.io/)]
        * (arXiv preprint 2022) [💬Face Animation] **Language-Guided Face Animation by Recurrent StyleGAN-based Generator**, Tiankai Hang et al. [[Paper](https://arxiv.org/abs/2208.05617)] [[Code](https://github.com/TiankaiHang/language-guided-animation)]
