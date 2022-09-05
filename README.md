@@ -382,6 +382,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 ## <span id="head7"> *7. Other Related Works* </span>
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis**, Wan-Cyuan Fan et al. [[Paper](https://arxiv.org/abs/2208.13753)] [[Code](https://github.com/davidhalladay/Frido)]
+         * 📚Text-to-Image, Scene Gragh to Image, Layout-to-Image, Uncondition Image Generation
        * (arXiv preprint 2022) **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2207.09814)] [[Code](https://github.com/microsoft/NUWA)] [[Project](https://nuwa-infinity.microsoft.com/#/)]
          * 📚Unconditional Image Generation(HD), Text-to-Image(HD), Image Animation(HD), Image Outpainting(HD), Text-to-Video(HD)
        * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
@@ -480,6 +482,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
        * (IEEE Journal of Selected Topics in Signal Processing-2020) **Direct Speech-to-Image Translation**, Jiguo Li et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067083)] [[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)] [[Project](https://smallflyingpig.github.io/speech-to-image/main)]
        
    * <span id="head-T2VR"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
+       * (AAAI 2022) **Cross-Modal Coherence for Text-to-Image Retrieval**, Malihe Alikhani et al. [[Paper](https://arxiv.org/abs/2109.11047)] 
        * (ECCV [RWS 2022](https://vap.aau.dk/rws-eccv2022/)) [💬Person Retrieval] **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu et al. [[Paper](https://arxiv.org/abs/2208.08608)] [[Code](https://github.com/TencentYoutuResearch/PersonRetrieval-IVT)] 
        * (ECCV 2022) [💬Text+Sketch→Visual Retrieval] **A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch**, Patsorn Sangkloy et al. [[Paper](https://arxiv.org/abs/2208.03354)] [[Project](https://patsorn.me/projects/tsbir/)] 
        * (Neurocomputing-2022) **TIPCB: A simple but effective part-based convolutional baseline for text-based person search**, Yuhao Chen et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222004726)] [[Code](https://github.com/OrangeYHChen/TIPCB?utm_source=catalyzex.com)] 
@@ -499,7 +502,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2022) [💬Story → Video] **Word-Level Fine-Grained Story Visualization**, Bowen Li et al. [[Paper](https://arxiv.org/abs/2208.02341)] [[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)]
-       * (arXiv preprint 2022) [Story → Video] **Word-Level Fine-Grained Story Visualization**, Bowen Li et al. [[Paper](https://arxiv.org/abs/2208.02341)] [[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)]
        * ⭐(arXiv preprint 2022) **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers**, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
        * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
        * (arXiv preprint 2022) **Video Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2204.03458)] [[Project](https://video-diffusion.github.io/)]
