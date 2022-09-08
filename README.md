@@ -60,6 +60,7 @@
 * - [ ] [7. Other Related Works](#head7)
   * - [ ] [⭐Multimodality⭐](#head-MM)
   * - [ ] [Text+Image/Video → Image/Video](#head-TI2I)
+  * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ATI2I)
   * - [ ] [Layout → Image](#head-L2I)
   * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Speech → Image](#head-S2I)
@@ -401,7 +402,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
          * 📚Text-to-Image, Unconditional Image Generation, Local-editing, Text-guided Local-editing, In/Out-painting, Style-mixing
        * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
          * 📚Text-to-Video, Independent Multimodal Controls, Dependent Multimodal Controls
-       * (CVPR 2022) **High-Resolution Image Synthesis with Latent Diffusion Models**, Robin Rombach et al. [[Paper](https://arxiv.org/abs/2112.10752)] [[Code](https://github.com/CompVis/latent-diffusion)] [[Stable Diffusion Code](https://github.com/CompVis/stable-diffusion)]
+       * ⭐⭐(CVPR 2022) **High-Resolution Image Synthesis with Latent Diffusion Models**, Robin Rombach et al. [[Paper](https://arxiv.org/abs/2112.10752)] [[Code](https://github.com/CompVis/latent-diffusion)] [[Stable Diffusion Code](https://github.com/CompVis/stable-diffusion)]
          * 📚Text-to-Image, Conditional Latent Diffusion, Super-Resolution, Inpainting
        * ⭐⭐(arXiv preprint 2022) **Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**, Peng Wang et al. [[Paper](https://arxiv.org/abs/2202.03052v1)]  [[Code](https://github.com/ofa-sys/ofa)] [[Hugging Face](https://huggingface.co/OFA-Sys)]
          * 📚Text-to-Image Generation, Image Captioning, Text Summarization, Self-Supervised Image Classification, **[SOTA]** Referring Expression Comprehension, Visual Entailment, Visual Question Answering
@@ -420,6 +421,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**, Jihye Park et al. [[Paper](https://arxiv.org/abs/2208.14889)] [[Project](https://ku-cvlab.github.io/LANIT/)] [[Code](https://github.com/KU-CVLAB/LANIT)]
        * (arXiv preprint 2022) [💬Human Motion Generation] **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et al. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html#)]
        * (ACMMM PIES-ME 2022) [💬3D Semantic Style Transfer] **Language-guided Semantic Style Transfer of 3D Indoor Scenes**, Bu Jin et al. [[Paper](https://arxiv.org/abs/2208.07870)] [[Code](https://github.com/AIR-DISCOVER/LASST)]
        * (arXiv preprint 2022) **DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**, Nataniel Ruiz et al. [[Paper](https://arxiv.org/abs/2208.12242)] [[Project](https://dreambooth.github.io/)]
@@ -472,6 +474,9 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
        * (NeurIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
 
+   * <span id="head-ATI2I"> **Audio+Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
+       
    * <span id="head-L2I"> **Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (CVPR 2022) **Modeling Image Composition for Complex Scene Generation**, Zuopeng Yang et al. [[Paper](https://arxiv.org/abs/2206.00923)] [[Code](https://github.com/JohnDreamer/TwFA)]
        * (CVPR 2022) **Interactive Image Synthesis with Panoptic Layout Generation**, Bo Wang et al. [[Paper](https://arxiv.org/abs/2203.02104)] 
