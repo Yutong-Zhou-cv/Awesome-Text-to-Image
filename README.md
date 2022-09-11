@@ -170,7 +170,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Descriptions per image: 1 Caption
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
-* ⭐**Stable Diffusion**. [[**Awesome Stable-Diffusion**](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)] [[Researcher Access Form](https://stability.ai/research-access-form)] [[Github](https://github.com/CompVis/stable-diffusion)] [[Web UI](https://github.com/hlky/stable-diffusion)] [[WebUI Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)] [[Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
+* ⭐**Stable Diffusion**. [[**Awesome Stable-Diffusion**](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)] [[Researcher Access Form](https://stability.ai/research-access-form)] [[Github](https://github.com/CompVis/stable-diffusion)] [[Web UI](https://github.com/sd-webui/stable-diffusion-webui)] [[WebUI Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)] [[Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
     * >Stable Diffusion is a text-to-image model that will empower billions of people to create stunning art within seconds. It is a breakthrough in speed and quality meaning that it can run on consumer GPUs.
 * **Midjourney**. [[Documentation](https://midjourney.gitbook.io/docs/)] [[Homepage](https://www.midjourney.com/home/)] 
     * >Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
