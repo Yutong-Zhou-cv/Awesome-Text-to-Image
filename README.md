@@ -492,6 +492,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (IEEE Journal of Selected Topics in Signal Processing-2020) **Direct Speech-to-Image Translation**, Jiguo Li et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067083)] [[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)] [[Project](https://smallflyingpig.github.io/speech-to-image/main)]
        
    * <span id="head-T2VR"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
+       * (ACMMM 2022) **CAIBC: Capturing All-round Information Beyond Color for Text-based Person Retrieval**, Zijie Wang et al. [[Paper](https://arxiv.org/abs/2209.05773)] 
        * (AAAI 2022) **Cross-Modal Coherence for Text-to-Image Retrieval**, Malihe Alikhani et al. [[Paper](https://arxiv.org/abs/2109.11047)] 
        * (ECCV [RWS 2022](https://vap.aau.dk/rws-eccv2022/)) [💬Person Retrieval] **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu et al. [[Paper](https://arxiv.org/abs/2208.08608)] [[Code](https://github.com/TencentYoutuResearch/PersonRetrieval-IVT)] 
        * (ECCV 2022) [💬Text+Sketch→Visual Retrieval] **A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch**, Patsorn Sangkloy et al. [[Paper](https://arxiv.org/abs/2208.03354)] [[Project](https://patsorn.me/projects/tsbir/)] 
@@ -513,6 +514,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (ECCV 2022) [💬Story Continuation] **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**, Adyasha Maharana et al. [[Paper](https://arxiv.org/abs/2209.06192)] [[Code](https://github.com/adymaharana/storydalle)]
        * (arXiv preprint 2022) [💬Story → Video] **Word-Level Fine-Grained Story Visualization**, Bowen Li et al. [[Paper](https://arxiv.org/abs/2208.02341)] [[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)]
        * ⭐(arXiv preprint 2022) **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers**, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
        * (CVPR 2022) **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2203.02573)] [[Code](https://github.com/snap-research/MMVID)] [Project](https://snap-research.github.io/MMVID/)
