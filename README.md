@@ -422,7 +422,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
          * 📚Text-To-Image, Image-To-Image, Text+Image → Image 
 
 
-   * <s pan id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (SIGGRAPH Asia 2022) [💬HDR Panorama Generation]**Text2Light: Zero-Shot Text-Driven HDR Panorama Generation**, Zhaoxi Chen et al. [[Paper](https://arxiv.org/abs/2209.09898)] [[Project](https://frozenburning.github.io/projects/text2light/)] [[Code](https://github.com/FrozenBurning/Text2Light)]
        * (arXiv preprint 2022) **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**, Jihye Park et al. [[Paper](https://arxiv.org/abs/2208.14889)] [[Project](https://ku-cvlab.github.io/LANIT/)] [[Code](https://github.com/KU-CVLAB/LANIT)]
        * (arXiv preprint 2022) [💬Human Motion Generation] **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et al. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html#)]
