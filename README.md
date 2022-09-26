@@ -237,6 +237,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
     * (arXiv preprint 2022) [💬Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
     * (ACMMM 2022) **AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation**, Yiyang Ma et al.  [[Paper](https://arxiv.org/abs/2209.03160v1)] 
     * (arXiv preprint 2022) **DSE-GAN: Dynamic Semantic Evolution Generative Adversarial Network for Text-to-Image Generation**, Mengqi Huang et al.  [[Paper](https://arxiv.org/abs/2209.01339v1)] 
