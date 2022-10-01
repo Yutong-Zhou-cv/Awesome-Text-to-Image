@@ -188,7 +188,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 ## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span> **[       «🎯Back To Top»       ](#)**
-* ⭐⭐(Meta AI) *Make-A-Video: Text-to-Video Generation Without Text-Video Data*, Uriel Singer et al. [[Paper](https://makeavideo.studio/Make-A-Video.pdf)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
+* ⭐⭐(arXiv preprint 2022) *Make-A-Video: Text-to-Video Generation without Text-Video Data*, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2209.14792)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
     * 🍬Meta AI’s new model make-a-video is out and in a single sentence: ***it generates videos from text***. It’s not only able to generate videos, but it’s also ***the new state-of-the-art method***, producing ***higher quality and more coherent videos*** than ever before!
 * ⭐⭐(arXiv preprint 2022) *DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation*, Nataniel Ruiz et al. [[Paper](https://arxiv.org/abs/2208.12242)] [[Project](https://dreambooth.github.io/)]
     * 🍬DreamBooth: Given as ***input just a few images*** of a subject and fine-tune a pretrained text-to-image model (Imagen), such that it learns to ***bind a unique identifier with that specific subject***, which synthesizing the subject in ***diverse scenes, poses, views, and lighting conditions*** that do not appear in the reference images. 
@@ -241,6 +241,8 @@ Previous
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) **Creative Painting with Latent Diffusion Models**, Xianchao Wu  [[Paper](https://arxiv.org/abs/2209.14697)] 
+    * (arXiv preprint 2022) **Re-Imagen: Retrieval-Augmented Text-to-Image Generator**, Wenhu Chen et al.  [[Paper](https://arxiv.org/abs/2209.14491)] 
     * (ACMMM 2022) **Adma-GAN: Attribute-Driven Memory Augmented GANs for Text-to-Image Generation**, Xintian Wu et al.  [[Paper](https://arxiv.org/abs/2209.14046)] [[Code](https://github.com/Hsintien-Ng/Adma-GAN)]
     * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
     * (arXiv preprint 2022) [💬Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
@@ -513,6 +515,7 @@ Previous
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
    * <span id="head-T2M"> **Text → Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬3D]**DreamFusion: Text-to-3D using 2D Diffusion**, Ben Poole et al.  [[Paper](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)]
        * (arXiv preprint 2022) [💬3D Shape] **ISS: Image as Stetting Stone for Text-Guided 3D Shape Generation**, Zhengzhe Liu et al. [[Paper](https://arxiv.org/abs/2209.04145)]
        * (ECCV 2022) [💬Virtual Humans] **Compositional Human-Scene Interaction Synthesis with Semantic Control**, Kaifeng Zhao et al. [[Paper](https://arxiv.org/abs/2207.12824)] [[Project](https://zkf1997.github.io/COINS/index.html)] [[Code](https://github.com/zkf1997/COINS)] 
        * (CVPR 2022) [💬3D Shape] **Towards Implicit Text-Guided 3D Shape Generation**, Zhengzhe Liu et al. [[Paper](https://arxiv.org/abs/2203.14622)] [[Code](https://github.com/liuzhengzhe/Towards-Implicit-Text-Guided-Shape-Generation)]
@@ -523,7 +526,7 @@ Previous
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
-       * (Meta AI) **Make-A-Video: Text-to-Video Generation Without Text-Video Data**, Uriel Singer et al. [[Paper](https://makeavideo.studio/Make-A-Video.pdf)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
+       * (arXiv preprint 2022) **Make-A-Video: Text-to-Video Generation without Text-Video Data**, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2209.14792)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
        * (ECCV 2022) [💬Story Continuation] **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**, Adyasha Maharana et al. [[Paper](https://arxiv.org/abs/2209.06192)] [[Code](https://github.com/adymaharana/storydalle)]
        * (arXiv preprint 2022) [💬Story → Video] **Word-Level Fine-Grained Story Visualization**, Bowen Li et al. [[Paper](https://arxiv.org/abs/2208.02341)] [[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)]
        * ⭐(arXiv preprint 2022) **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers**, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
