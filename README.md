@@ -226,7 +226,8 @@ Previous
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
 * <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
-    * (arXiv preprint 2022) **Generated Faces in the Wild: Quantitative Comparison of Stable Diffusion, Midjourney and DALL-E 2**, Ali Borji et al. [[Paper](https://arxiv.org/abs/2210.00586)] [[Code](https://github.com/aliborji/GFW)] [[Data](https://drive.google.com/file/d/1EhbUK64J3d0_chmD2mpBuWB-Ic7LeFlP/view)]
+    * (arXiv preprint 2022) **ManiCLIP: Multi-Attribute Face Manipulation from Text**, Hao Wang et al. [[Paper](https://arxiv.org/abs/2210.00445)]
+    * (arXiv preprint 2022) **Generated Faces in the Wild: Quantitative Comparison of Stable Diffusion, Midjourney and DALL-E 2**, Ali Borji, [[Paper](https://arxiv.org/abs/2210.00586)] [[Code](https://github.com/aliborji/GFW)] [[Data](https://drive.google.com/file/d/1EhbUK64J3d0_chmD2mpBuWB-Ic7LeFlP/view)]
     * (arXiv preprint 2022) **Text-Free Learning of a Natural Language Interface for Pretrained Face Generators**, Xiaodan Du et al. [[Paper](https://arxiv.org/abs/2209.03953)] [[Code](https://github.com/duxiaodan/Fast_text2StyleGAN)]
     * (Knowledge-Based Systems-2022) **CMAFGAN: A Cross-Modal Attention Fusion based Generative Adversarial Network for attribute word-to-face synthesis**, Xiaodong Luo et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705122008863)]
     * (Neural Networks-2022) **DualG-GAN, a Dual-channel Generator based Generative Adversarial Network for text-to-face synthesis**, Xiaodong Luo et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608022003161)]
