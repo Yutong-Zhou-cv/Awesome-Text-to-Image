@@ -529,6 +529,7 @@ Previous
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **Text-driven Video Prediction**, Xue Song et al. [[Paper](https://arxiv.org/abs/2210.02872)] 
        * (arXiv preprint 2022) **Make-A-Video: Text-to-Video Generation without Text-Video Data**, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2209.14792)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
        * (ECCV 2022) [💬Story Continuation] **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**, Adyasha Maharana et al. [[Paper](https://arxiv.org/abs/2209.06192)] [[Code](https://github.com/adymaharana/storydalle)]
        * (arXiv preprint 2022) [💬Story → Video] **Word-Level Fine-Grained Story Visualization**, Bowen Li et al. [[Paper](https://arxiv.org/abs/2208.02341)] [[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)]
