@@ -228,6 +228,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
 * <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
+    * (BMVC 2022) **clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP**, Justin N. M. Pinkney et al. [[Paper](https://arxiv.org/abs/2210.02347v1)] [[Code](https://github.com/justinpinkney/clip2latent)]
     * (arXiv preprint 2022) **ManiCLIP: Multi-Attribute Face Manipulation from Text**, Hao Wang et al. [[Paper](https://arxiv.org/abs/2210.00445)]
     * (arXiv preprint 2022) **Generated Faces in the Wild: Quantitative Comparison of Stable Diffusion, Midjourney and DALL-E 2**, Ali Borji, [[Paper](https://arxiv.org/abs/2210.00586)] [[Code](https://github.com/aliborji/GFW)] [[Data](https://drive.google.com/file/d/1EhbUK64J3d0_chmD2mpBuWB-Ic7LeFlP/view)]
     * (arXiv preprint 2022) **Text-Free Learning of a Natural Language Interface for Pretrained Face Generators**, Xiaodan Du et al. [[Paper](https://arxiv.org/abs/2209.03953)] [[Code](https://github.com/duxiaodan/Fast_text2StyleGAN)]
@@ -245,6 +246,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * ⭐⭐(arXiv preprint 2022) **DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**, Ivan Kapelyukh et al.  [[Paper](https://arxiv.org/abs/2210.02438v1)] [[Project](https://www.robot-learning.uk/dall-e-bot)]
+    * (arXiv preprint 2022) **Progressive Denoising Model for Fine-Grained Text-to-Image Generation**, Zhengcong Fei et al.  [[Paper](https://arxiv.org/abs/2210.02291v1)] 
     * (arXiv preprint 2022) **Creative Painting with Latent Diffusion Models**, Xianchao Wu  [[Paper](https://arxiv.org/abs/2209.14697)] 
     * (arXiv preprint 2022) **Re-Imagen: Retrieval-Augmented Text-to-Image Generator**, Wenhu Chen et al.  [[Paper](https://arxiv.org/abs/2209.14491)] 
     * (ACMMM 2022) **Adma-GAN: Attribute-Driven Memory Augmented GANs for Text-to-Image Generation**, Xintian Wu et al.  [[Paper](https://arxiv.org/abs/2209.14046)] [[Code](https://github.com/Hsintien-Ng/Adma-GAN)]
@@ -435,6 +438,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (BMVC 2022) **LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models**, Paramanand Chandramouli et al. [[Paper](https://arxiv.org/abs/2210.02249v1)]
        * (ACMMM 2022) [💬Digital Art Synthesis] **Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion**, Huang Nisha et al. [[Paper](https://arxiv.org/abs/2209.13360)] [[Code](https://github.com/haha-lisa/MGAD-multimodal-guided-artwork-diffusion)]
        * (SIGGRAPH Asia 2022) [💬HDR Panorama Generation] **Text2Light: Zero-Shot Text-Driven HDR Panorama Generation**, Zhaoxi Chen et al. [[Paper](https://arxiv.org/abs/2209.09898)] [[Project](https://frozenburning.github.io/projects/text2light/)] [[Code](https://github.com/FrozenBurning/Text2Light)]
        * (arXiv preprint 2022) **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**, Jihye Park et al. [[Paper](https://arxiv.org/abs/2208.14889)] [[Project](https://ku-cvlab.github.io/LANIT/)] [[Code](https://github.com/KU-CVLAB/LANIT)]
