@@ -188,10 +188,12 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 ## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span> **[       «🎯Back To Top»       ](#)**
+* ⭐⭐(arXiv preprint 2022) *Imagen Video: High Definition Video Generation with Diffusion Models*, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2210.02303v1)] [[Project](https://imagen.research.google/video/)] 
+    * 🍬 Imagen Video: Given a text prompt, Imagen Video generates high-definition videos using a base video generation model and a sequence of interleaved spatial and temporal video super-resolution models. Imagen Video is not only capable of ***generating videos of high fidelity***, but also ***having a high degree of controllability and world knowledge***, including the ability to generate diverse videos and text animations in various artistic styles and with 3D object understanding. 
 * ⭐⭐(arXiv preprint 2022) *Make-A-Video: Text-to-Video Generation without Text-Video Data*, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2209.14792)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
-    * 🍬Meta AI’s new model make-a-video is out and in a single sentence: ***it generates videos from text***. It’s not only able to generate videos, but it’s also ***the new state-of-the-art method***, producing ***higher quality and more coherent videos*** than ever before!
+    * 🍬 Meta AI’s new model make-a-video is out and in a single sentence: ***it generates videos from text***. It’s not only able to generate videos, but it’s also ***the new state-of-the-art method***, producing ***higher quality and more coherent videos*** than ever before!
 * ⭐⭐(arXiv preprint 2022) *DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation*, Nataniel Ruiz et al. [[Paper](https://arxiv.org/abs/2208.12242)] [[Project](https://dreambooth.github.io/)]
-    * 🍬DreamBooth: Given as ***input just a few images*** of a subject and fine-tune a pretrained text-to-image model (Imagen), such that it learns to ***bind a unique identifier with that specific subject***, which synthesizing the subject in ***diverse scenes, poses, views, and lighting conditions*** that do not appear in the reference images. 
+    * 🍬 DreamBooth: Given as ***input just a few images*** of a subject and fine-tune a pretrained text-to-image model (Imagen), such that it learns to ***bind a unique identifier with that specific subject***, which synthesizing the subject in ***diverse scenes, poses, views, and lighting conditions*** that do not appear in the reference images. 
     * 📚 Subject Recontextualization, Text-guided View Synthesis, Appearance Modification, Artistic Rendering (all while preserving the subject's key features)
 * ⭐(arXiv preprint 2022) *An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion*, Rinon Gal et al.  [[Paper](https://arxiv.org/abs/2208.01618)] [[Code](https://github.com/rinongal/textual_inversion)] [[Project](https://textual-inversion.github.io/)]
     * Using ***only 3-5 images*** of a user-provided concept (an object or a style) learn to represent it through ***new "words" in the embedding space*** of a frozen text-to-image model. These "words" can be composed into natural language sentences, ***guiding personalized creation in an intuitive way***. 
@@ -199,10 +201,10 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * 🍬 Make-A-Scene: Generate high fidelity images in a resolution of ***512x512*** pixels; Introduce several new capabilities: (i) ***Scene editing***, (ii) ***text editing with anchor scenes***, (iii) ***overcoming out-of-distribution text prompts***, and (iv) ***story illustration generation***.
 
 <!--
-Previous
+**Previous**
 (2022.09.30 Update)
 * ⭐(arXiv preprint 2022) *NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis*, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2207.09814)] [[Code](https://github.com/microsoft/NUWA)] [[Project](https://nuwa-infinity.microsoft.com/#/)]
-    * 🍬NUWA-Infinity: A infinite visual synthesis model for ***arbitrarily-sized high-resolution images*** and ***long-duration videos*** generation.
+    * 🍬 NUWA-Infinity: A infinite visual synthesis model for ***arbitrarily-sized high-resolution images*** and ***long-duration videos*** generation.
 * ⭐⭐(arXiv preprint 2022) *Scaling Autoregressive Models for Content-Rich Text-to-Image Generation*, Jiahui Yu et al. [[Paper](https://arxiv.org/abs/2206.10789)] [[Code](https://github.com/google-research/parti)] [[Project](https://parti.research.google/)]
     * 🍬 Pathways Autoregressive Text-to-Image (Parti): Generate high-fidelity photorealistic images and supports ***content-rich synthesis involving complex compositions and world knowledge***; Treats text-to-image generation as a sequence-to-sequence modeling problem, ***akin to machine translation***, with sequences of image tokens as the target outputs rather than text tokens in another language. 
 (2022.08.28 Update)
@@ -529,6 +531,7 @@ Previous
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **Imagen Video: High Definition Video Generation with Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2210.02303v1)] [[Project](https://imagen.research.google/video/)] 
        * (arXiv preprint 2022) **Text-driven Video Prediction**, Xue Song et al. [[Paper](https://arxiv.org/abs/2210.02872)] 
        * (arXiv preprint 2022) **Make-A-Video: Text-to-Video Generation without Text-Video Data**, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2209.14792)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
        * (ECCV 2022) [💬Story Continuation] **StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**, Adyasha Maharana et al. [[Paper](https://arxiv.org/abs/2209.06192)] [[Code](https://github.com/adymaharana/storydalle)]
