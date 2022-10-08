@@ -22,6 +22,10 @@
 ![Figure from paper](pic/Overview.png)
 > *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
 
+## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
+* - [ ] Add [**Best Collection**]() for Awesome-Text-to-Image
+* - [ ] Add **Topic Order** list and **Chronological Order** list
+
 ## <span id="head-content"> *Content* </span>
 * - [x] [1. Description](#head1)
 
