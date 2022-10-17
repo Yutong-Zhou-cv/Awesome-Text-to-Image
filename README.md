@@ -446,6 +446,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (NeurIPS 2022) **One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations**, Yiming Zhu et al. [[Paper](https://arxiv.org/abs/2210.07883)] [[Code](https://github.com/KumapowerLIU/FFCLIP)]
        * (BMVC 2022) **LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models**, Paramanand Chandramouli et al. [[Paper](https://arxiv.org/abs/2210.02249v1)]
        * (ACMMM 2022) [💬Digital Art Synthesis] **Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion**, Huang Nisha et al. [[Paper](https://arxiv.org/abs/2209.13360)] [[Code](https://github.com/haha-lisa/MGAD-multimodal-guided-artwork-diffusion)]
        * (SIGGRAPH Asia 2022) [💬HDR Panorama Generation] **Text2Light: Zero-Shot Text-Driven HDR Panorama Generation**, Zhaoxi Chen et al. [[Paper](https://arxiv.org/abs/2209.09898)] [[Project](https://frozenburning.github.io/projects/text2light/)] [[Code](https://github.com/FrozenBurning/Text2Light)]
