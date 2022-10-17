@@ -234,6 +234,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
 * <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
+    * (ACMMM 2022) **Learning Dynamic Prior Knowledge for Text-to-Face Pixel Synthesis**, Jun Peng et al. [[Paper](https://dl.acm.org/doi/10.1145/3503161.3547818)]
+    * (ACMMM 2022) **Towards Open-Ended Text-to-Face Generation, Combination and Manipulation**, Jun Peng et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547758)]
     * (BMVC 2022) **clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP**, Justin N. M. Pinkney et al. [[Paper](https://arxiv.org/abs/2210.02347v1)] [[Code](https://github.com/justinpinkney/clip2latent)]
     * (arXiv preprint 2022) **ManiCLIP: Multi-Attribute Face Manipulation from Text**, Hao Wang et al. [[Paper](https://arxiv.org/abs/2210.00445)]
     * (arXiv preprint 2022) **Generated Faces in the Wild: Quantitative Comparison of Stable Diffusion, Midjourney and DALL-E 2**, Ali Borji, [[Paper](https://arxiv.org/abs/2210.00586)] [[Code](https://github.com/aliborji/GFW)] [[Data](https://drive.google.com/file/d/1EhbUK64J3d0_chmD2mpBuWB-Ic7LeFlP/view)]
