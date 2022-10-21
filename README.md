@@ -448,6 +448,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **DiffEdit: Diffusion-based semantic image editing with mask guidance**, Guillaume Couairon et al. [[Paper](https://arxiv.org/abs/2210.11427v1)] 
        * (NeurIPS 2022) **One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations**, Yiming Zhu et al. [[Paper](https://arxiv.org/abs/2210.07883)] [[Code](https://github.com/KumapowerLIU/FFCLIP)]
        * (BMVC 2022) **LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models**, Paramanand Chandramouli et al. [[Paper](https://arxiv.org/abs/2210.02249v1)]
        * (ACMMM 2022) [💬Digital Art Synthesis] **Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion**, Huang Nisha et al. [[Paper](https://arxiv.org/abs/2209.13360)] [[Code](https://github.com/haha-lisa/MGAD-multimodal-guided-artwork-diffusion)]
