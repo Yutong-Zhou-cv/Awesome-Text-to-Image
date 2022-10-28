@@ -192,6 +192,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 ## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span> **[       «🎯Back To Top»       ](#)**
+* ⭐(arXiv preprint 2022) *ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts*, Zhida Feng et al.  [[Paper](https://arxiv.org/abs/2210.15257)] 
+    * 🍬 ERNIE-ViLG 2.0: a large-scale ***Chinese text-to-image diffusion model***, which progressively upgrades the quality of generated images by: (1) incorporating fine-grained textual and visual knowledge of key elements in the scene, and (2) utilizing different denoising experts at different denoising stages. ERNIE-ViLG 2.0 ***achieves state-of-the-art on MS-COCO*** with a ***zero-shot FID score of 6.75***.
 * ⭐⭐(arXiv preprint 2022) *Prompt-to-Prompt Image Editing with Cross Attention Control*, Amir Hertz et al.  [[Paper](https://arxiv.org/abs/2208.01626)] [[Code](https://github.com/google/prompt-to-prompt)] [[Unofficial Code](https://github.com/bloc97/CrossAttentionControl)] [[Project](https://prompt-to-prompt.github.io/)]
     * 🍬 Prompt-to-Prompt Editing: ***Control the attention maps*** of the edited image by injecting the attention maps of the original image along the diffusion process. Monitor the synthesis process by ***editing the textual prompt only***, paving the way to a myriad of caption-based editing applications.
 * ⭐⭐(arXiv preprint 2022) *Imagen Video: High Definition Video Generation with Diffusion Models*, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2210.02303v1)] [[Project](https://imagen.research.google/video/)] 
@@ -201,19 +203,22 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 * ⭐⭐(arXiv preprint 2022) *DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation*, Nataniel Ruiz et al. [[Paper](https://arxiv.org/abs/2208.12242)] [[Project](https://dreambooth.github.io/)]
     * 🍬 DreamBooth: Given as ***input just a few images*** of a subject and fine-tune a pretrained text-to-image model (Imagen), such that it learns to ***bind a unique identifier with that specific subject***, which synthesizing the subject in ***diverse scenes, poses, views, and lighting conditions*** that do not appear in the reference images. 
     * 📚 Subject Recontextualization, Text-guided View Synthesis, Appearance Modification, Artistic Rendering (all while preserving the subject's key features)
+
+<!--
+### <p align=center> **🍃Update History**</p>
+*(2022.10.28 Update)*
 * ⭐(arXiv preprint 2022) *An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion*, Rinon Gal et al.  [[Paper](https://arxiv.org/abs/2208.01618)] [[Code](https://github.com/rinongal/textual_inversion)] [[Project](https://textual-inversion.github.io/)]
     * Using ***only 3-5 images*** of a user-provided concept (an object or a style) learn to represent it through ***new "words" in the embedding space*** of a frozen text-to-image model. These "words" can be composed into natural language sentences, ***guiding personalized creation in an intuitive way***. 
 * ⭐⭐(ECCV 2022) *Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors*, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)] [[(Story)The Little Red Boat Story](https://www.youtube.com/watch?v=N4BagnXzPXY)] [[(Story)New Adventures](https://www.youtube.com/watch?v=NPTFNNACRnI&t=154s)]
     * 🍬 Make-A-Scene: Generate high fidelity images in a resolution of ***512x512*** pixels; Introduce several new capabilities: (i) ***Scene editing***, (ii) ***text editing with anchor scenes***, (iii) ***overcoming out-of-distribution text prompts***, and (iv) ***story illustration generation***.
 
-<!--
-**Previous**
-(2022.09.30 Update)
+*(2022.09.30 Update)*
 * ⭐(arXiv preprint 2022) *NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis*, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2207.09814)] [[Code](https://github.com/microsoft/NUWA)] [[Project](https://nuwa-infinity.microsoft.com/#/)]
     * 🍬 NUWA-Infinity: A infinite visual synthesis model for ***arbitrarily-sized high-resolution images*** and ***long-duration videos*** generation.
 * ⭐⭐(arXiv preprint 2022) *Scaling Autoregressive Models for Content-Rich Text-to-Image Generation*, Jiahui Yu et al. [[Paper](https://arxiv.org/abs/2206.10789)] [[Code](https://github.com/google-research/parti)] [[Project](https://parti.research.google/)]
     * 🍬 Pathways Autoregressive Text-to-Image (Parti): Generate high-fidelity photorealistic images and supports ***content-rich synthesis involving complex compositions and world knowledge***; Treats text-to-image generation as a sequence-to-sequence modeling problem, ***akin to machine translation***, with sequences of image tokens as the target outputs rather than text tokens in another language. 
-(2022.08.28 Update)
+
+*(2022.08.28 Update)*
 * ⭐⭐(arXiv preprint 2022) *Compositional Visual Generation with Composable Diffusion Models*, Nan Liu et al. [[Paper](https://arxiv.org/abs/2206.01714)] [[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)] [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)]
     * 🍬 This method is ***an alternative structured approach for compositional generation using diffusion models***. An image is generated by composing a set of diffusion models, with each of them modeling a certain component of the image. 
 * ⭐⭐(arXiv preprint 2022) [Imagen] *Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding*, Chitwan Saharia et al. [[Paper](https://arxiv.org/abs/2205.11487)] [[Blog](https://gweb-research-imagen.appspot.com/)]
@@ -223,7 +228,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 (2022.08.06 Update)
 * ⭐(arXiv preprint 2022) *CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers*, Wenyi Hong et al. [[Paper](https://arxiv.org/abs/2205.15868)] [[Code](https://github.com/THUDM/CogVideo)]
     * 🍬 CogVideo: ***The first open-source large-scale pretrained text-to-video model***, which is trained by ***inheriting a pretrained text-to-image model*** (CogView2) and outperforms all publicly available models at a large margin in machine and human evaluations.
--->
+ -->
 
 ## <span id="head6"> *6. Paper With Code* </span>
 
@@ -255,6 +260,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬Text-Image Consistency] **Towards Better Text-Image Consistency in Text-to-Image Generation**, Zhaorui Tan et al.  [[Paper](https://arxiv.org/abs/2210.15235)] 
+    * (arXiv preprint 2022) **ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**, Zhida Feng et al.  [[Paper](https://arxiv.org/abs/2210.15257)]
     * ⭐(ECCV 2022) [💬Evaluation Metrics] **TISE: Bag of Metrics for Text-to-Image Synthesis Evaluation**, Tan M. Dinh et al.  [[Paper](https://arxiv.org/abs/2112.01398)] [[Code](https://github.com/VinAIResearch/tise-toolbox)]
     * (ECCV 2022) [💬Trace+Text→Image] **Trace Controlled Text to Image Generation**, Kun Yan et al.  [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960058.pdf)]
     * (arXiv preprint 2022) [💬Markup→Image] **Markup-to-Image Diffusion Models with Scheduled Sampling**, Yuntian Deng et al.  [[Paper](https://arxiv.org/abs/2210.05147)] [[Code](https://github.com/da03/markup2im)]
