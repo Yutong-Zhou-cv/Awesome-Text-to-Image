@@ -260,6 +260,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬Demographic Stereotypes] **Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale**, Federico Bianchi et al.  [[Paper](https://arxiv.org/abs/2211.03759)]
     * ⭐⭐(arXiv preprint 2022) **eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers**, Yogesh Balaji et al.  [[Paper](https://arxiv.org/abs/2211.01324)] [[Project](https://deepimagination.cc/eDiffi/)] [[Video](https://www.youtube.com/watch?v=k6cOx9YjHJc)]
     * (arXiv preprint 2022) [💬Text-Image Consistency] **Towards Better Text-Image Consistency in Text-to-Image Generation**, Zhaorui Tan et al.  [[Paper](https://arxiv.org/abs/2210.15235)] 
     * (arXiv preprint 2022) **ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**, Zhida Feng et al.  [[Paper](https://arxiv.org/abs/2210.15257)]
