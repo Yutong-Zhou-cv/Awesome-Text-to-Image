@@ -268,6 +268,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) **HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation**, Kaiduo Zhang et al.  [[Paper](https://arxiv.org/abs/2211.06235)]
     * ⭐⭐(arXiv preprint 2022) **eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers**, Yogesh Balaji et al.  [[Paper](https://arxiv.org/abs/2211.01324)] [[Project](https://deepimagination.cc/eDiffi/)] [[Video](https://www.youtube.com/watch?v=k6cOx9YjHJc)]
     * (arXiv preprint 2022) [💬Text-Image Consistency] **Towards Better Text-Image Consistency in Text-to-Image Generation**, Zhaorui Tan et al.  [[Paper](https://arxiv.org/abs/2210.15235)] 
     * (arXiv preprint 2022) **ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**, Zhida Feng et al.  [[Paper](https://arxiv.org/abs/2210.15257)]
