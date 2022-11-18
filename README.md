@@ -471,6 +471,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **InstructPix2Pix: Learning to Follow Image Editing Instructions**, Tim Brooks et al. [[Paper](https://arxiv.org/abs/2211.09800)] [[Project](https://www.timothybrooks.com/instruct-pix2pix)] 
        * (ECCV 2022) [💬Style Transfer] **Language-Driven Artistic Style Transfer**, Tsu-Jui Fu et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_41)] [[Code](https://github.com/tsujuifu/pytorch_ldast)]
        * (arXiv preprint 2022) **Bridging CLIP and StyleGAN through Latent Alignment for Image Editing**, Wanfeng Zheng et al. [[Paper](https://arxiv.org/abs/2210.04506)] 
        * (arXiv preprint 2022) **DiffEdit: Diffusion-based semantic image editing with mask guidance**, Guillaume Couairon et al. [[Paper](https://arxiv.org/abs/2210.11427v1)] 
