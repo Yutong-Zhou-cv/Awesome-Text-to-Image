@@ -471,6 +471,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (AAAI 2023) **DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2206.01160)] [[Code](https://github.com/tobran/DE-Net)]
        * (arXiv preprint 2022) **Null-text Inversion for Editing Real Images using Guided Diffusion Models**, Ron Mokady et al. [[Paper](https://arxiv.org/abs/2211.09794)] [[Project]([https://www.timothybrooks.com/instruct-pix2pix](https://null-text-inversion.github.io/))] 
        * (arXiv preprint 2022) **InstructPix2Pix: Learning to Follow Image Editing Instructions**, Tim Brooks et al. [[Paper](https://arxiv.org/abs/2211.09800)] [[Project](https://www.timothybrooks.com/instruct-pix2pix)] 
        * (ECCV 2022) [💬Style Transfer] **Language-Driven Artistic Style Transfer**, Tsu-Jui Fu et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_41)] [[Code](https://github.com/tsujuifu/pytorch_ldast)]
@@ -499,7 +500,6 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) **DALL-E for Detection: Language-driven Context Image Synthesis for Object Detection**, Yunhao Ge et al. [[Paper](https://arxiv.org/abs/2206.09592)] 
        * (arXiv preprint 2022) [💬Animating Human Meshes] **CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes**, Kim Youwang et al. [[Paper](https://arxiv.org/abs/2206.04382)] [[Code](https://github.com/Youwang-Kim/CLIP-Actor)]
        * (arXiv preprint 2022) **Blended Latent Diffusion**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2206.02779)] [[Code](https://github.com/omriav/blended-latent-diffusion)] [[Project](https://omriavrahami.com/blended-latent-diffusion-page/)]
-       * (arXiv preprint 2022) **DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2206.01160)] [[Code](https://github.com/tobran/DE-Net)]
        * (IEEE Transactions on Neural Networks and Learning Systems 2022) [💬Pose-Guided Person Generation] **Verbal-Person Nets: Pose-Guided Multi-Granularity Language-to-Person Generation**, Deyin Liu et al. [[Paper](https://ieeexplore.ieee.org/document/9732175)]
        * (SIGGRAPH 2022) [💬3D Avatar Generation] **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars**, Fangzhou Hong et al. [[Paper](https://arxiv.org/abs/2205.08535)] [[Code](https://github.com/hongfz16/AvatarCLIP)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] 
        * ⭐⭐(arXiv preprint 2022) [💬Image & Video Editing] **Text2LIVE: Text-Driven Layered Image and Video Editing**, Omer Bar-Tal et al. [[Paper](https://arxiv.org/abs/2204.02491)] [[Project](https://text2live.github.io/)] 
