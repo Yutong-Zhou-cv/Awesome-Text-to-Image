@@ -268,6 +268,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2022) [💬Text-to-3D] **Magic3D: High-Resolution Text-to-3D Content Creation**, Chen-Hsuan Lin et al.  [[Paper](https://arxiv.org/abs/2211.10440)] [[Project](https://deepimagination.cc/Magic3D/)]
     * (arXiv preprint 2022) **HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation**, Kaiduo Zhang et al.  [[Paper](https://arxiv.org/abs/2211.06235)]
     * ⭐⭐(arXiv preprint 2022) **eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers**, Yogesh Balaji et al.  [[Paper](https://arxiv.org/abs/2211.01324)] [[Project](https://deepimagination.cc/eDiffi/)] [[Video](https://www.youtube.com/watch?v=k6cOx9YjHJc)]
     * (arXiv preprint 2022) [💬Text-Image Consistency] **Towards Better Text-Image Consistency in Text-to-Image Generation**, Zhaorui Tan et al.  [[Paper](https://arxiv.org/abs/2210.15235)] 
@@ -574,6 +575,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) **MagicVideo: Efficient Video Generation With Latent Diffusion Models**, Daquan Zhou et al. [[Paper](https://arxiv.org/abs/2211.11018)] [[Project](https://magicvideo.github.io/#)] 
        * (arXiv preprint 2022) **Imagen Video: High Definition Video Generation with Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2210.02303v1)] [[Project](https://imagen.research.google/video/)] 
        * (arXiv preprint 2022) **Text-driven Video Prediction**, Xue Song et al. [[Paper](https://arxiv.org/abs/2210.02872)] 
        * (arXiv preprint 2022) **Make-A-Video: Text-to-Video Generation without Text-Video Data**, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2209.14792)] [[Project](https://makeavideo.studio/)] [[Short read](https://www.louisbouchard.ai/make-a-video/)] [[Code](https://github.com/lucidrains/make-a-video-pytorch)]
