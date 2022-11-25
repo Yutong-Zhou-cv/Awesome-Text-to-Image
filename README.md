@@ -474,6 +474,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (AAAI 2023) **DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2206.01160)] [[Code](https://github.com/tobran/DE-Net)]
+       * (arXiv preprint 2022) [💬Text+Image → Video] **Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation**, Tsu-Jui Fu et al. [[Paper](https://arxiv.org/abs/2211.12824)]
        * (arXiv preprint 2022) **Null-text Inversion for Editing Real Images using Guided Diffusion Models**, Ron Mokady et al. [[Paper](https://arxiv.org/abs/2211.09794)] [[Project]([https://www.timothybrooks.com/instruct-pix2pix](https://null-text-inversion.github.io/))] 
        * (arXiv preprint 2022) **InstructPix2Pix: Learning to Follow Image Editing Instructions**, Tim Brooks et al. [[Paper](https://arxiv.org/abs/2211.09800)] [[Project](https://www.timothybrooks.com/instruct-pix2pix)] 
        * (ECCV 2022) [💬Style Transfer] **Language-Driven Artistic Style Transfer**, Tsu-Jui Fu et al. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_41)] [[Code](https://github.com/tsujuifu/pytorch_ldast)]
