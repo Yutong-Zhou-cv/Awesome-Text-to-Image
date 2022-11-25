@@ -261,6 +261,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-CI"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬 Creativity Transfer] **Inversion-Based Creativity Transfer with Diffusion Models**, Yuxin Zhang et al.  [[Paper](https://arxiv.org/abs/2211.13203)]
     * (arXiv preprint 2022) [💬 Ambiguity] **Is the Elephant Flying? Resolving Ambiguities in Text-to-Image Generative Models**, Ninareh Mehrabi et al.  [[Paper](https://arxiv.org/abs/2211.12503)]
     * (arXiv preprint 2022) [💬 Racial Politics] **A Sign That Spells: DALL-E 2, Invisual Images and The Racial Politics of Feature Space**, Fabian Offert et al.  [[Paper](https://arxiv.org/abs/2211.06323)]
     * (arXiv preprint 2022) [💬 Demographic Stereotypes] **Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale**, Federico Bianchi et al.  [[Paper](https://arxiv.org/abs/2211.03759)]
@@ -475,6 +476,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (AAAI 2023) **DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2206.01160)] [[Code](https://github.com/tobran/DE-Net)]
+       * (arXiv preprint 2022) **Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**, Narek Tumanyan et al. [[Paper](https://arxiv.org/abs/2211.12572)] [[Project](https://pnp-diffusion.github.io/)]
        * (arXiv preprint 2022) [💬Text+Image → Video] **Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation**, Tsu-Jui Fu et al. [[Paper](https://arxiv.org/abs/2211.12824)]
        * (arXiv preprint 2022) **Null-text Inversion for Editing Real Images using Guided Diffusion Models**, Ron Mokady et al. [[Paper](https://arxiv.org/abs/2211.09794)] [[Project]([https://www.timothybrooks.com/instruct-pix2pix](https://null-text-inversion.github.io/))] 
        * (arXiv preprint 2022) **InstructPix2Pix: Learning to Follow Image Editing Instructions**, Tim Brooks et al. [[Paper](https://arxiv.org/abs/2211.09800)] [[Project](https://www.timothybrooks.com/instruct-pix2pix)] 
