@@ -175,6 +175,12 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Descriptions per image: 1 Caption
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* ⭐⭐**Stable Diffusion 2.0**. [[Github](https://github.com/Stability-AI/stablediffusion)] [[Website](https://stability.ai/blog/stable-diffusion-v2-release)] [[Stability AI API Platform](https://platform.stability.ai/)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
+    * >***New Text-to-Image Diffusion Model:*** Generates images with default resolutions of both 512x512 pixels and 768x768 pixels and remove adult content using LAION’s NSFW filter.
+    * >***Super-resolution Upscaler Diffusion Model:*** Enhances the resolution of images by a factor of 4.
+    * >***Depth-to-Image Diffusion Model:*** Depth2img infers the depth of an input image (using [an existing model](https://github.com/isl-org/MiDaS)), and then generates new images using both the text and depth information. New images look radically different from the original but still preserve the coherence and depth of that image.
+    * >***Updated Inpainting Diffusion Model:*** A new text-guided inpainting model, fine-tuned on the new Stable Diffusion 2.0 base text-to-image, which makes it super easy to switch out parts of an image intelligently and quickly.
+ 
 * ⭐**Stable Diffusion**. [[**Awesome Stable-Diffusion**](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)] [[Researcher Access Form](https://stability.ai/research-access-form)] [[Github](https://github.com/CompVis/stable-diffusion)] [[Web UI](https://github.com/sd-webui/stable-diffusion-webui)] [[WebUI Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)] [[Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
     * >Stable Diffusion is a text-to-image model that will empower billions of people to create stunning art within seconds. It is a breakthrough in speed and quality meaning that it can run on consumer GPUs.
 * **Midjourney**. [[Documentation](https://midjourney.gitbook.io/docs/)] [[Homepage](https://www.midjourney.com/home/)] 
