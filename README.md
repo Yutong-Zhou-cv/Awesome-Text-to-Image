@@ -276,6 +276,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2022) [💬Multilingual Communication System] **Multilingual Communication System with Deaf Individuals Utilizing Natural and Visual Languages**, Tuan-Luc Huynh et al.  [[Paper](https://arxiv.org/abs/2212.00305v1)]
      * (arXiv preprint 2022) [💬Controllable] **SpaText: Spatio-Textual Representation for Controllable Image Generation**, Omri Avrahami et al.  [[Paper](https://arxiv.org/abs/2211.14305)] [[Project](https://omriavrahami.com/spatext/)]
      * (arXiv preprint 2022) [💬Human Evaluation] **Human Evaluation of Text-to-Image Models on a Multi-Task Benchmark**, Vitali Petsiuk et al.  [[Paper](https://arxiv.org/abs/2211.12112)]
      * (arXiv preprint 2022) [💬Text-to-3D] **Magic3D: High-Resolution Text-to-3D Content Creation**, Chen-Hsuan Lin et al.  [[Paper](https://arxiv.org/abs/2211.10440)] [[Project](https://deepimagination.cc/Magic3D/)]
