@@ -574,6 +574,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
    * <span id="head-T2M"> **Text → Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
+       * (NIPS 2022) [💬Mesh] **TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition**, Yongwei Chen et al. [[Paper](https://arxiv.org/abs/2210.11277)] [[Project](https://cyw-3d.github.io/tango/)] [[Code](https://github.com/Gorilla-Lab-SCUT/tango)] 
        * (arXiv preprint 2022) [💬Human Motion Generation] **Human Motion Diffusion Model**, Guy Tevet et al. [[Paper](https://arxiv.org/abs/2209.14916)] [[Project](https://guytevet.github.io/mdm-page/)] [[Code](https://github.com/GuyTevet/motion-diffusion-model)]
        * (arXiv preprint 2022) [💬Human Motion Generation] **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model**, Mingyuan Zhang et al. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html#)]
        * (arXiv preprint 2022) [💬3D]**DreamFusion: Text-to-3D using 2D Diffusion**, Ben Poole et al.  [[Paper](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)] [[Short Read](https://www.louisbouchard.ai/dreamfusion/)]
