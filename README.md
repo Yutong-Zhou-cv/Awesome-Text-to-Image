@@ -64,6 +64,7 @@
   
 * - [ ] [7. Other Related Works](#head7)
   * - [ ] [⭐Multimodality⭐](#head-MM)
+  * - [ ] [Applications](#head-APP)
   * - [ ] [Text+Image/Video → Image/Video](#head-TI2I)
   * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ATI2I)
   * - [ ] [Layout → Image](#head-L2I)
@@ -482,10 +483,13 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
          * 📚Text-To-Image, Image-To-Image, Text+Image → Image 
 
 
+   * <span id="head-APP"> **Applications** </span> **[       «🎯Back To Top»       ](#)**
+       * (SIGGRAPH Asia 2022) [💬Text+Speech → Gesture] **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**, Tenglong Ao et al. [[Paper](https://arxiv.org/abs/2210.01448)] [[Code](https://github.com/Aubrey-ao/HumanBehaviorAnimation)]
+       * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
+
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (AAAI 2023) **CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics**, Yiren Song et al. [[Paper](https://arxiv.org/abs/2212.02122v1)] 
        * (AAAI 2023) **DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2206.01160)] [[Code](https://github.com/tobran/DE-Net)]
-       * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
        * (arXiv preprint 2022) **Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**, Narek Tumanyan et al. [[Paper](https://arxiv.org/abs/2211.12572)] [[Project](https://pnp-diffusion.github.io/)]
        * (arXiv preprint 2022) [💬Text+Image → Video] **Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation**, Tsu-Jui Fu et al. [[Paper](https://arxiv.org/abs/2211.12824)]
        * (arXiv preprint 2022) **Null-text Inversion for Editing Real Images using Guided Diffusion Models**, Ron Mokady et al. [[Paper](https://arxiv.org/abs/2211.09794)] [[Project]([https://www.timothybrooks.com/instruct-pix2pix](https://null-text-inversion.github.io/))] 
