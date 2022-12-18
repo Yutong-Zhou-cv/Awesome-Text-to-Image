@@ -484,6 +484,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-APP"> **Applications** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Unsupervised semantic segmentation] **Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors**, Ryan Burgert et al. [[Paper](https://arxiv.org/abs/2211.13224)]
        * (SIGGRAPH Asia 2022) [💬Text+Speech → Gesture] **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**, Tenglong Ao et al. [[Paper](https://arxiv.org/abs/2210.01448)] [[Code](https://github.com/Aubrey-ao/HumanBehaviorAnimation)]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
