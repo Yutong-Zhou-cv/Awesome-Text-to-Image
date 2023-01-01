@@ -277,7 +277,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
-     * (arXiv preprint 2022) [💬Spatial Relationship] **Benchmarking Spatial Relationships in Text-to-Image Generation**, Tejas Gokhale et al.  [[Paper](https://arxiv.org/abs/2212.10015)]
+     * (arXiv preprint 2022) [💬Spatial Relationship] **Benchmarking Spatial Relationships in Text-to-Image Generation**, Tejas Gokhale et al. [[Paper](https://arxiv.org/abs/2212.10015)]
+     * (arXiv preprint 2022) [💬3D Generative Model] **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**, Gwanghyun Kim et al. [[Paper](https://arxiv.org/abs/2211.16374)] [[Code](https://github.com/gwang-kim/DATID-3D)] [[Project](https://datid-3d.github.io/)]
      * ⭐(arXiv preprint 2022) [💬Text-to-3D Point Clouds] **Point-E: A System for Generating 3D Point Clouds from Complex Prompts**, Alex Nichol et al.  [[Paper](https://arxiv.org/abs/2212.08751)] [[Code](https://github.com/openai/point-e)]
      * ⭐(arXiv preprint 2022) **Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**, Weixi Feng et al.  [[Paper](https://arxiv.org/abs/2212.05032)] [[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
      * (arXiv preprint 2022) [💬Multilingual Communication System] **Multilingual Communication System with Deaf Individuals Utilizing Natural and Visual Languages**, Tuan-Luc Huynh et al.  [[Paper](https://arxiv.org/abs/2212.00305v1)]
