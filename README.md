@@ -176,6 +176,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Descriptions per image: 1 Caption
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* **Whisper-to-stable-diffusion**. [[Hugging Face](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion)] 
 * ⭐⭐**Stable Diffusion 2.0**. [[Github](https://github.com/Stability-AI/stablediffusion)] [[Website](https://stability.ai/blog/stable-diffusion-v2-release)] [[Stability AI API Platform](https://platform.stability.ai/)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
     * >***New Text-to-Image Diffusion Model:*** Generates images with default resolutions of both 512x512 pixels and 768x768 pixels and remove adult content using LAION’s NSFW filter.
     * >***Super-resolution Upscaler Diffusion Model:*** Enhances the resolution of images by a factor of 4.
@@ -187,7 +188,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * **Midjourney**. [[Documentation](https://midjourney.gitbook.io/docs/)] [[Homepage](https://www.midjourney.com/home/)] 
     * >Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 There are two ways to experience the tools: the Midjourney Bot and the [Web App](https://www.midjourney.com/).
-* **Artflow**. [[Start Creating!](https://artflow.ai/)] 
+* **Artflowq**. [[Start Creating!](https://artflow.ai/)] 
     * >Artflow lets users generate visual content with the help of AI. Create unique avatars with ease and turn any description into a portrait.
 * **craiyon(~~DALL·E Mini~~)**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)] [[Homepage](https://www.craiyon.com/)] [[min(DALL·E)](https://github.com/kuprel/min-dalle)]
     * >A free, open-source AI that produces amazing images from text inputs. AI model drawing images from any prompt!
