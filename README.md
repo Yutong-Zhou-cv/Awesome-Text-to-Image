@@ -176,7 +176,10 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Descriptions per image: 1 Caption
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* **2022 Top Papers in AI — A Year of Generative Models**. [[Medium](https://chuanenlin.medium.com/2022-top-ai-papers-a-year-of-generative-models-a7dcd9109e39)] 
 * **Whisper-to-stable-diffusion**. [[Hugging Face](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion)] 
+    * >***Whisper*** is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio. It is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
+    * >***Stable Diffusion*** is a state-of-the-art text-to-image model that generates images from text.
 * ⭐⭐**Stable Diffusion 2.0**. [[Github](https://github.com/Stability-AI/stablediffusion)] [[Website](https://stability.ai/blog/stable-diffusion-v2-release)] [[Stability AI API Platform](https://platform.stability.ai/)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
     * >***New Text-to-Image Diffusion Model:*** Generates images with default resolutions of both 512x512 pixels and 768x768 pixels and remove adult content using LAION’s NSFW filter.
     * >***Super-resolution Upscaler Diffusion Model:*** Enhances the resolution of images by a factor of 4.
