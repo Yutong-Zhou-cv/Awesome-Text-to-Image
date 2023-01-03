@@ -278,6 +278,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] 
      * (arXiv preprint 2022) [💬Spatial Relationship] **Benchmarking Spatial Relationships in Text-to-Image Generation**, Tejas Gokhale et al. [[Paper](https://arxiv.org/abs/2212.10015)]
      * (arXiv preprint 2022) [💬3D Generative Model] **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**, Gwanghyun Kim et al. [[Paper](https://arxiv.org/abs/2211.16374)] [[Code](https://github.com/gwang-kim/DATID-3D)] [[Project](https://datid-3d.github.io/)]
      * ⭐(arXiv preprint 2022) [💬Text-to-3D Point Clouds] **Point-E: A System for Generating 3D Point Clouds from Complex Prompts**, Alex Nichol et al.  [[Paper](https://arxiv.org/abs/2212.08751)] [[Code](https://github.com/openai/point-e)]
