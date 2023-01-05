@@ -464,7 +464,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) **Muse: Text-To-Image Generation via Masked Generative Transformers**, Huiwen Chang et al. [[Paper](https://arxiv.org/abs/2301.00704v1)] [[Project](https://muse-model.github.io/)] 
          * 📚Text-to-Image, Zero-shot+Mask-free editing, Zero-shot Inpainting/Outpainting
-* (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. [[Paper](https://arxiv.org/abs/2211.08332)] [[Code](https://github.com/SHI-Labs/Versatile-Diffusion)] [[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
+       * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. [[Paper](https://arxiv.org/abs/2211.08332)] [[Code](https://github.com/SHI-Labs/Versatile-Diffusion)] [[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
          * 📚Text-to-Image, Image-Variation, Image-to-Text, Disentanglement, Text+Image-Guided Generation, Editable I2T2I
        * (arXiv preprint 2022) **Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis**, Wan-Cyuan Fan et al. [[Paper](https://arxiv.org/abs/2208.13753)] [[Code](https://github.com/davidhalladay/Frido)]
          * 📚Text-to-Image, Scene Gragh to Image, Layout-to-Image, Uncondition Image Generation
