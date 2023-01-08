@@ -36,7 +36,7 @@
   * [L<sub>2</sub> error](#head-L2)
   * [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
   
-* - [x] [3. Datasets](#head3)  
+* - [ ] [3. Datasets](#head3)  
   * [Caltech-UCSD Bird (CUB)](#head-CUB)
   * [Oxford-102 Flower](#head-Flower)
   * [MS-COCO](#head-COCO)
@@ -45,6 +45,7 @@
   * [FFHQ-Text](#head-FFHQ-Text)
   * [CelebAText-HQ](#head-CelebAText-HQ)
   * [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
+  * [ANNA](#head-ANNA)
 
 * - [ ] [4. Project](#head4)
 
@@ -175,6 +176,13 @@ A number of studies have been conducted on the text-to-image synthesis technique
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2205.15996.pdf)] [[Website](https://github.com/yumingj/DeepFashion-MultiModal)] [[Download](https://drive.google.com/drive/folders/1An2c_ZCkeGmhJg0zUjtZF46vyJgQwIr2?usp=sharing)]
     * Number of images: 44,096, including 12,701 full body images
     * Descriptions per image: 1 Caption
+
+* <span id="head-ANNA"> **ANNA** </span>
+
+  ANNA is an Abstractive News captioNs dAtaset extracted from online news articles in a variety of different contexts. The generated images are judged on the basis of contextual relevance, visual quality, and perceptual similarity to ground-truth image-caption pairs.
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2301.02160)] [[Download](https://github.com/aashish2000/ANNA)]
+    * Number of image-text pairs (from The New York Times): 29625 (**Training**: 17897. **Validation**: 1622. **Testing**: 1649.)
+
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
 * **2022 Top Papers in AI — A Year of Generative Models**. [[Medium](https://chuanenlin.medium.com/2022-top-ai-papers-a-year-of-generative-models-a7dcd9109e39)] 
