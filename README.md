@@ -513,6 +513,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Fashion Image Editing] **FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion**, Martin Pernuš et al. [[Paper](https://arxiv.org/abs/2301.02110)] [[Code](https://github.com/MartinPernus/FICE)] 
        * (AAAI 2023) **CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics**, Yiren Song et al. [[Paper](https://arxiv.org/abs/2212.02122v1)] 
        * (AAAI 2023) **DE-Net: Dynamic Text-guided Image Editing Adversarial Networks**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2206.01160)] [[Code](https://github.com/tobran/DE-Net)]
        * (arXiv preprint 2022) **Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**, Narek Tumanyan et al. [[Paper](https://arxiv.org/abs/2211.12572)] [[Project](https://pnp-diffusion.github.io/)]
