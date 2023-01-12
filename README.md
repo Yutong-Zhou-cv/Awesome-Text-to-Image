@@ -284,6 +284,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-CI"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2022) [💬 Ethical Image Manipulation] **Judge, Localize, and Edit: Ensuring Visual Commonsense Morality for Text-to-Image Generation**, Seongbeom Park et al.  [[Paper](https://arxiv.org/abs/2212.03507)]
     * (arXiv preprint 2022) [💬 Creativity Transfer] **Inversion-Based Creativity Transfer with Diffusion Models**, Yuxin Zhang et al.  [[Paper](https://arxiv.org/abs/2211.13203)]
     * (arXiv preprint 2022) [💬 Ambiguity] **Is the Elephant Flying? Resolving Ambiguities in Text-to-Image Generative Models**, Ninareh Mehrabi et al.  [[Paper](https://arxiv.org/abs/2211.12503)]
     * (arXiv preprint 2022) [💬 Racial Politics] **A Sign That Spells: DALL-E 2, Invisual Images and The Racial Politics of Feature Space**, Fabian Offert et al.  [[Paper](https://arxiv.org/abs/2211.06323)]
