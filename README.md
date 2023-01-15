@@ -507,7 +507,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
          * 📚Text-To-Image, Image-To-Image, Text+Image → Image 
 
 
-   * <span id="head-APP"> **🛫Applications** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-APP"> **🛫Applications🛫** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Grounded Generation] **Guiding Text-to-Image Diffusion Model Towards Grounded Generation**, Ziyi Li et al. [[Paper](https://arxiv.org/abs/2301.05221)] [[Code](https://github.com/Lipurple/Grounded-Diffusion)] [Project](https://lipurple.github.io/Grounded_Diffusion/)]
        * (arXiv preprint 2022) [💬Semantic segmentation] **CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation**, Yuqi Lin et al. [[Paper](https://arxiv.org/abs/2212.09506)] [[Code](https://github.com/linyq2117/CLIP-ES)]
        * (arXiv preprint 2022) [💬Unsupervised semantic segmentation] **Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors**, Ryan Burgert et al. [[Paper](https://arxiv.org/abs/2211.13224)]
        * (SIGGRAPH Asia 2022) [💬Text+Speech → Gesture] **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**, Tenglong Ao et al. [[Paper](https://arxiv.org/abs/2210.01448)] [[Code](https://github.com/Aubrey-ao/HumanBehaviorAnimation)]
