@@ -298,6 +298,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
      * ⭐⭐(arXiv preprint 2023) **Muse: Text-To-Image Generation via Masked Generative Transformers**, Huiwen Chang et al. [[Paper](https://arxiv.org/abs/2301.00704v1)] [[Project](https://muse-model.github.io/)] 
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
+     * ⭐(arXiv preprint 2022) **Multi-Concept Customization of Text-to-Image Diffusion**, Nupur Kumari et al.  [[Paper](https://arxiv.org/abs/2212.04488)] [[Project](https://www.cs.cmu.edu/~custom-diffusion/)] [[Code](https://github.com/adobe-research/custom-diffusion)] [[Hugging Face](https://huggingface.co/spaces/nupurkmr9/custom-diffusion)]
      * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] 
      * (arXiv preprint 2022) [💬Spatial Relationship] **Benchmarking Spatial Relationships in Text-to-Image Generation**, Tejas Gokhale et al. [[Paper](https://arxiv.org/abs/2212.10015)]
      * ⭐(arXiv preprint 2022) **Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**, Weixi Feng et al.  [[Paper](https://arxiv.org/abs/2212.05032)] [[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
