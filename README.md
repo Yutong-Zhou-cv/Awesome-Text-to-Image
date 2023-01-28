@@ -75,6 +75,7 @@
   * - [ ] [Text → Visual Retrieval](#head-T2VR)
   * - [ ] [Text → Motion/Shape/Mesh/Object...](#head-T2M)
   * - [ ] [Text → Video](#head-T2V)
+  * - [ ] [Text → Music](#head-T2Mu)
 
 * [*Contact Me*](#head6)
 
@@ -652,6 +653,10 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CVPR 2019) [💬Story → Video] **StoryGAN: A Sequential Conditional GAN for Story Visualization**, Yitong Li et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12233https://openaccess.thecvf.com/content_CVPR_2019/html/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.html)] [[Code](https://github.com/yitong91/StoryGAN?utm_source=catalyzex.com)]
        * (AAAI 2018) **Video Generation From Text**, Yitong Li et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12233)] 
        * (ACMMM 2017) **To create what you tell: Generating videos from captions**, Yingwei Pan et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3127905)] 
+
+   * <span id="head-T2Mu"> **Text → Music** </span> **[       «🎯Back To Top»       ](#)**
+       * ⭐(arXiv preprint 2023) **MusicLM: Generating Music From Text**, Andrea Agostinelli et al. [[Paper](https://arxiv.org/abs/2301.11325)] [[Project](https://google-research.github.io/seanet/musiclm/examples/)] [[MusicCaps](https://www.kaggle.com/datasets/googleai/musiccaps)]
+
 
 ## <span id="head6"> *Contact Me* </span>
 
