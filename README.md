@@ -214,6 +214,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 ## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span> **[       «🎯Back To Top»       ](#)**
+* ⭐(arXiv preprint 2022) *Text-To-4D Dynamic Scene Generation*, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2301.11280)] [[Project](https://make-a-video3d.github.io/)]
+    * 🍬 MAV3D: ***the first*** generate 3D dynamic scenes given a text description. MAV3D ***does not require any 3D or 4D data*** and the T2V model is trained only on ***Text-Image pairs and unlabeled videos***. 
 * ⭐⭐(arXiv preprint 2023) *Muse: Text-To-Image Generation via Masked Generative Transformers*, Huiwen Chang et al. [[Paper](https://arxiv.org/abs/2301.00704v1)] [[Project](https://muse-model.github.io/)] 
     * 🍬 Muse: a ***state-of-the-art*** model for text-to-image generation which achieves excellent FID and CLIP scores; significantly ***faster*** than comparable models; enables ***out-of-the-box, zero-shot editing capabilities*** including inpainting, outpainting, and mask-free editing.
 * ⭐(arXiv preprint 2022) *ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts*, Zhida Feng et al.  [[Paper](https://arxiv.org/abs/2210.15257)] 
@@ -634,6 +636,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * ⭐(arXiv preprint 2023) **Text-To-4D Dynamic Scene Generation**, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2301.11280)] [[Project](https://make-a-video3d.github.io/)]
        * (arXiv preprint 2022) **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**, Jay Zhangjie Wu et al. [[Paper](https://arxiv.org/abs/2212.11565)] [[Project](https://tuneavideo.github.io/)] [[Code](https://github.com/showlab/Tune-A-Video)]
        * (arXiv preprint 2022) **MagicVideo: Efficient Video Generation With Latent Diffusion Models**, Daquan Zhou et al. [[Paper](https://arxiv.org/abs/2211.11018)] [[Project](https://magicvideo.github.io/#)] 
        * (arXiv preprint 2022) **Imagen Video: High Definition Video Generation with Diffusion Models**, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2210.02303v1)] [[Project](https://imagen.research.google/video/)] 
