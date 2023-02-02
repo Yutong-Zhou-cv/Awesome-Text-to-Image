@@ -298,6 +298,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * ⭐(arXiv preprint 2023) **Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**, Hila Chefer et al. [[Paper](https://arxiv.org/abs/2301.13826)] [[Project](https://attendandexcite.github.io/Attend-and-Excite/)] [[Code](https://github.com/AttendAndExcite/Attend-and-Excite)] 
      * (IEEE Transactions on Multimedia) **ALR-GAN: Adaptive Layout Refinement for Text-to-Image Synthesis**, Hongchen Tan et al. [[Paper](https://ieeexplore.ieee.org/abstract/document/10023990)] 
      * (arXiv preprint 2023) **GLIGEN: Open-Set Grounded Text-to-Image Generation**, Yuheng Li et al. [[Paper](https://arxiv.org/abs/2301.07093)] [[Project](https://gligen.github.io/)] [[Hugging Face Demo](https://huggingface.co/spaces/gligen/demo)] 
      * (arXiv preprint 2023) **Attribute-Centric Compositional Text-to-Image Generation**, Yuren Cong et al. [[Paper](https://arxiv.org/abs/2301.01413)] [[Project](https://github.com/yrcong/ACTIG)] 
