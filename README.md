@@ -592,6 +592,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (NeurIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
 
    * <span id="head-ATI2I"> **Audio+Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Sound+Speech→Robotic Painting] **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et al. [[Paper](https://arxiv.org/abs/2302.04850)]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
    * <span id="head-L2I"> **Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
