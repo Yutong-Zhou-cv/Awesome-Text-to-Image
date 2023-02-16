@@ -65,6 +65,7 @@
   * - [x] [2016](#head-2016)
   
 * - [ ] [7. Other Related Works](#head7)
+  * - [ ] [📝Prompt Engineering📝](#head-PE)
   * - [ ] [⭐Multimodality⭐](#head-MM)
   * - [ ] [🛫Applications🛫](#head-APP)
   * - [ ] [Text+Image/Video → Image/Video](#head-TI2I)
@@ -308,7 +309,6 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 * <span id="head-2022"> **2022**  </span> **[       «🎯Back To Top»       ](#)**
      * ⭐(arXiv preprint 2022) **Multi-Concept Customization of Text-to-Image Diffusion**, Nupur Kumari et al.  [[Paper](https://arxiv.org/abs/2212.04488)] [[Project](https://www.cs.cmu.edu/~custom-diffusion/)] [[Code](https://github.com/adobe-research/custom-diffusion)] [[Hugging Face](https://huggingface.co/spaces/nupurkmr9/custom-diffusion)]
-     * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] 
      * (arXiv preprint 2022) [💬Spatial Relationship] **Benchmarking Spatial Relationships in Text-to-Image Generation**, Tejas Gokhale et al. [[Paper](https://arxiv.org/abs/2212.10015)]
      * ⭐(arXiv preprint 2022) **Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**, Weixi Feng et al.  [[Paper](https://arxiv.org/abs/2212.05032)] [[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
      * (arXiv preprint 2022) [💬Multilingual Communication System] **Multilingual Communication System with Deaf Individuals Utilizing Natural and Visual Languages**, Tuan-Luc Huynh et al.  [[Paper](https://arxiv.org/abs/2212.00305v1)]
@@ -482,6 +482,11 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
 ## <span id="head7"> *7. Other Related Works* </span>
+   * <span id="head-PE"> **📝Prompt Engineering📝** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] 
+       * (arXiv preprint 2022) **A Taxonomy of Prompt Modifiers for Text-To-Image Generation**, Jonas Oppenlaender [[Paper](https://arxiv.org/abs/2204.13988)] 
+       * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
+
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) **Muse: Text-To-Image Generation via Masked Generative Transformers**, Huiwen Chang et al. [[Paper](https://arxiv.org/abs/2301.00704v1)] [[Project](https://muse-model.github.io/)] 
          * 📚Text-to-Image, Zero-shot+Mask-free editing, Zero-shot Inpainting/Outpainting
