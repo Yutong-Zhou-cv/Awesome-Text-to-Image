@@ -261,6 +261,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 ## <span id="head6"> *6. Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
+    * **ChatGPT is not all you need. A State of the Art Review of large Generative AI models** [[v1](https://arxiv.org/abs/2301.04655)(arXiv)] (2023.01) 
     * **Text-to-Image Synthesis: A Comparative Study** [[v1](https://link.springer.com/chapter/10.1007/978-981-16-2275-5_14)(Digital Transformation Technology)] (2021.08) 
     * **A survey on generative adversarial network-based text-to-image synthesis** [[v1](https://www.sciencedirect.com/science/article/pii/S0925231221006111)(Neurocomputing)] (2021.04) 
     * **Adversarial Text-to-Image Synthesis: A Review** [[v1](https://arxiv.org/abs/2101.09983v1)(arXiv)] (2021.01) [[v2](https://www.sciencedirect.com/science/article/pii/S0893608021002823)(Neural Networks)] (2021.08)
