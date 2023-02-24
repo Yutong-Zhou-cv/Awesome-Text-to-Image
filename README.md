@@ -330,7 +330,6 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) **Re-Imagen: Retrieval-Augmented Text-to-Image Generator**, Wenhu Chen et al.  [[Paper](https://arxiv.org/abs/2209.14491)] 
     * (ACMMM 2022) **AtHom: Two Divergent Attentions Stimulated By Homomorphic Training in Text-to-Image Synthesis**, Zhenbo Shi et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548159)]
     * (ACMMM 2022) **Adma-GAN: Attribute-Driven Memory Augmented GANs for Text-to-Image Generation**, Xintian Wu et al.  [[Paper](https://arxiv.org/abs/2209.14046)] [[Code](https://github.com/Hsintien-Ng/Adma-GAN)]
-    * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
     * (ACMMM 2022) **AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation**, Yiyang Ma et al.  [[Paper](https://arxiv.org/abs/2209.03160v1)] 
     * (ACMMM 2022) **DSE-GAN: Dynamic Semantic Evolution Generative Adversarial Network for Text-to-Image Generation**, Mengqi Huang et al.  [[Paper](https://dl.acm.org/doi/10.1145/3503161.3547881)] 
     * (arXiv preprint 2022) [💬Radiology] **What Does DALL-E 2 Know About Radiology?**, Lisa C. Adams et al.  [[Paper](https://arxiv.org/abs/2209.13696)] 
@@ -485,6 +484,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 ## <span id="head7"> *7. Other Related Works* </span>
    * <span id="head-PE"> **📝Prompt Engineering📝** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] 
+       * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
        * (arXiv preprint 2022) **A Taxonomy of Prompt Modifiers for Text-To-Image Generation**, Jonas Oppenlaender [[Paper](https://arxiv.org/abs/2204.13988)] 
        * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
 
