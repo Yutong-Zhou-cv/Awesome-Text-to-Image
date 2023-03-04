@@ -494,6 +494,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
 
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) **TextIR: A Simple Framework for Text-based Editable Image Restoration**, Yunpeng Bai et al. [[Paper](https://arxiv.org/abs/2302.14736)] [[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
+         * 📚Image Inpainting, Image Colorization, Image Super-resolution, Image Editing via Degradation
        * (arXiv preprint 2023) **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**, Cusuh Ham et al. [[Paper](https://arxiv.org/abs/2302.12764)]
          * 📚Sketch-to-Image, Segmentation-to-Image, Text+Sketch-to-Image, Text+Segmentation-to-Image, Text+Sketch+Segmentation-to-Image
        * (arXiv preprint 2023) **Muse: Text-To-Image Generation via Masked Generative Transformers**, Huiwen Chang et al. [[Paper](https://arxiv.org/abs/2301.00704v1)] [[Project](https://muse-model.github.io/)] 
