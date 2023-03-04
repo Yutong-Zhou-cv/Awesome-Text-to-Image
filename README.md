@@ -25,6 +25,7 @@
 ## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
 * - [ ] Add [**Best Collection**]() for Awesome-Text-to-Image
 * - [ ] Add **Topic Order** list and **Chronological Order** list
+* - [x] Create [**⏳Recently Focused Papers**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
 ## <span id="head-content"> *Content* </span>
 * - [x] [1. Description](#head1)
@@ -49,9 +50,7 @@
 
 * - [ ] [4. Project](#head4)
 
-* - [ ] [5. ⏳Recently Focused Papers (FYI)](#head5)
-
-* - [ ] [6. Paper With Code](#head6)
+* - [ ] [5. Paper With Code](#head5)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [Text to Face👨🏻🧒👧🏼🧓🏽](#head-T2F)
   * - [ ] [Compounding Issues🤔](#head-CI)
@@ -64,7 +63,7 @@
   * - [x] [2017](#head-2017)
   * - [x] [2016](#head-2016)
   
-* - [ ] [7. Other Related Works](#head7)
+* - [ ] [6. Other Related Works](#head6)
   * - [ ] [📝Prompt Engineering📝](#head-PE)
   * - [ ] [⭐Multimodality⭐](#head-MM)
   * - [ ] [🛫Applications🛫](#head-APP)
@@ -214,6 +213,10 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * >Text2Art is an AI-powered art generator based on VQGAN+CLIP that can generate all kinds of art such as pixel art, drawing, and painting from just text input. 
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
+
+<!--
+### <p align=center> **🍃Update History**</p>
+*(2023.03.04 Update)*
 ## <span id="head5"> *5. ⏳Recently Focused Papers* (FYI) </span> **[       «🎯Back To Top»       ](#)**
 * ⭐(arXiv preprint 2022) *Text-To-4D Dynamic Scene Generation*, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2301.11280)] [[Project](https://make-a-video3d.github.io/)]
     * 🍬 MAV3D: ***the first*** generate 3D dynamic scenes given a text description. MAV3D ***does not require any 3D or 4D data*** and the T2V model is trained only on ***Text-Image pairs and unlabeled videos***. 
@@ -223,9 +226,6 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * 🍬 ERNIE-ViLG 2.0: a large-scale ***Chinese text-to-image diffusion model***, which progressively upgrades the quality of generated images by: (1) incorporating fine-grained textual and visual knowledge of key elements in the scene, and (2) utilizing different denoising experts at different denoising stages. ERNIE-ViLG 2.0 ***achieves state-of-the-art on MS-COCO*** with a ***zero-shot FID score of 6.75***.
 * ⭐⭐(arXiv preprint 2022) *Prompt-to-Prompt Image Editing with Cross Attention Control*, Amir Hertz et al.  [[Paper](https://arxiv.org/abs/2208.01626)] [[Code](https://github.com/google/prompt-to-prompt)] [[Unofficial Code](https://github.com/bloc97/CrossAttentionControl)] [[Project](https://prompt-to-prompt.github.io/)]
     * 🍬 Prompt-to-Prompt Editing: ***Control the attention maps*** of the edited image by injecting the attention maps of the original image along the diffusion process. Monitor the synthesis process by ***editing the textual prompt only***, paving the way to a myriad of caption-based editing applications.
-
-<!--
-### <p align=center> **🍃Update History**</p>
 *(2023.01.12 Update)*
 * ⭐⭐(arXiv preprint 2022) *Imagen Video: High Definition Video Generation with Diffusion Models*, Jonathan Ho et al. [[Paper](https://arxiv.org/abs/2210.02303v1)] [[Project](https://imagen.research.google/video/)] 
     * 🍬 Imagen Video: Given a text prompt, Imagen Video generates high-definition videos using a base video generation model and a sequence of interleaved spatial and temporal video super-resolution models. Imagen Video is not only capable of ***generating videos of high fidelity***, but also ***having a high degree of controllability and world knowledge***, including the ability to generate diverse videos and text animations in various artistic styles and with 3D object understanding. 
@@ -258,7 +258,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * 🍬 CogVideo: ***The first open-source large-scale pretrained text-to-video model***, which is trained by ***inheriting a pretrained text-to-image model*** (CogView2) and outperforms all publicly available models at a large margin in machine and human evaluations.
  -->
 
-## <span id="head6"> *6. Paper With Code* </span>
+## <span id="head5"> *5. Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
     * **ChatGPT is not all you need. A State of the Art Review of large Generative AI models** [[v1](https://arxiv.org/abs/2301.04655)(arXiv)] (2023.01) 
@@ -486,7 +486,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (NeurIPS 2016) **Learning What and Where to Draw**, Scott Reed et al. [[Paper](https://arxiv.org/pdf/1610.02454.pdf)] [[Code](https://github.com/reedscot/nips2016)]
 
 
-## <span id="head7"> *7. Other Related Works* </span>
+## <span id="head6"> *6. Other Related Works* </span>
    * <span id="head-PE"> **📝Prompt Engineering📝** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] [[Hugging Face](https://huggingface.co/spaces/microsoft/Promptist)] 
        * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
@@ -684,9 +684,9 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * ⭐(arXiv preprint 2023) **MusicLM: Generating Music From Text**, Andrea Agostinelli et al. [[Paper](https://arxiv.org/abs/2301.11325)] [[Project](https://google-research.github.io/seanet/musiclm/examples/)] [[MusicCaps](https://www.kaggle.com/datasets/googleai/musiccaps)]
 
 
-## <span id="head6"> *Contact Me* </span>
+## <span id="head7"> *Contact Me* </span>
 
-* [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) in [Interaction Laboratory, Ritsumeikan University.](https://github.com/Rits-Interaction-Laboratory) ლ(╹◡╹ლ) 
+* [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) @Ritsumeikan University. ლ(╹◡╹ლ) 
 
 * If you have any question, please feel free to contact Yutong ZHOU (E-mail: <zhou@i.ci.ritsumei.ac.jp>).
 
