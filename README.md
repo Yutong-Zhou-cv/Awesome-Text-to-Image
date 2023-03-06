@@ -38,8 +38,8 @@
   * [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
   
 * - [ ] [3. Datasets](#head3)  
-  * [Caltech-UCSD Bird (CUB)](#head-CUB)
   * [Oxford-102 Flower](#head-Flower)
+  * [Caltech-UCSD Bird (CUB)](#head-CUB)
   * [MS-COCO](#head-COCO)
   * [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
   * [CelebA-Dialog](#head-CelebA-Dialog)
@@ -103,16 +103,6 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-LPIPS"> Learned Perceptual Image Patch Similarity (LPIPS) </span> [[Paper](https://arxiv.org/abs/1801.03924)] [[Python Code](https://github.com/richzhang/PerceptualSimilarity)]
 
 ## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
-
-* <span id="head-CUB"> **Caltech-UCSD Bird(CUB)** </span>
-
-  Caltech-UCSD Birds-200-2011 (CUB-200-2011) is an extended version of the CUB-200 dataset, with roughly double the number of images per class and new part location annotations.
-  * **Detailed information (Images):**  ⇒ [[Paper](http://www.vision.caltech.edu/visipedia/papers/CUB_200_2011.pdf)] [[Website](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)]
-    * Number of different categories: 200 (**Training**: 150 categories. **Testing**: 50 categories.)
-    * Number of bird images: 11,788
-    * Annotations per image: 15 Part Locations, 312 Binary Attributes, 1 Bounding Box, Ground-truth Segmentation
-  * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Website](https://drive.google.com/file/d/0B0ywwgffWnLLZW9uVHNjb2JmNlE/view)]
-    * Descriptions per image: 10 Captions
     
 * <span id="head-Flower"> **Oxford-102 Flower** </span>
 
@@ -122,7 +112,17 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Number of flower images: 8,189
   * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Download](https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view?usp=sharing&resourcekey=0-Av8zFbeDDvNcF1sSjDR32w)]
     * Descriptions per image: 10 Captions
-    
+ 
+* <span id="head-CUB"> **Caltech-UCSD Bird(CUB)** </span>
+
+  Caltech-UCSD Birds-200-2011 (CUB-200-2011) is an extended version of the CUB-200 dataset, with roughly double the number of images per class and new part location annotations.
+  * **Detailed information (Images):**  ⇒ [[Paper](http://www.vision.caltech.edu/visipedia/papers/CUB_200_2011.pdf)] [[Website](http://www.vision.caltech.edu/datasets/cub_200_2011/)]
+    * Number of different categories: 200 (**Training**: 150 categories. **Testing**: 50 categories.)
+    * Number of bird images: 11,788
+    * Annotations per image: 15 Part Locations, 312 Binary Attributes, 1 Bounding Box, Ground-truth Segmentation
+  * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Website](https://drive.google.com/file/d/0B0ywwgffWnLLZW9uVHNjb2JmNlE/view)]
+    * Descriptions per image: 10 Captions
+ 
 * <span id="head-COCO"> **MS-COCO** </span>
 
   COCO is a large-scale object detection, segmentation, and captioning dataset.
