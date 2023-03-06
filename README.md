@@ -47,6 +47,7 @@
   * [CelebAText-HQ](#head-CelebAText-HQ)
   * [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
   * [ANNA](#head-ANNA)
+  * [Bento800-Text](#head-Bento)
 
 * - [ ] [4. Project](#head4)
 
@@ -183,6 +184,13 @@ A number of studies have been conducted on the text-to-image synthesis technique
   ANNA is an Abstractive News captioNs dAtaset extracted from online news articles in a variety of different contexts. The generated images are judged on the basis of contextual relevance, visual quality, and perceptual similarity to ground-truth image-caption pairs.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2301.02160)] [[Download](https://github.com/aashish2000/ANNA)]
     * Number of image-text pairs (from The New York Times): 29625 (**Training**: 17897. **Validation**: 1622. **Testing**: 1649.)
+
+* <span id="head-Bento"> **Bento800-Text** </span>
+
+  Bento800 is the first manually annotated synthetic box lunch presentation dataset with diverse annotations(BBox, Segmentation, Labels... ) for novel aesthetic box lunch presentation design.
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/10.1145/3552485.3554935)] [[Website](https://github.com/Yutong-Zhou-cv/Bento800_Dataset)] [[Download](https://drive.google.com/drive/folders/1_VvAbIzeuVew4fa98CcE11mB9SoAI3q-?usp=sharing)]
+    * Number of images: 800 (**Training**: 766. **Testing**: 34.)
+    * Descriptions per image: 9 Captions
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
