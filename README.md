@@ -122,7 +122,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * Annotations per image: 15 Part Locations, 312 Binary Attributes, 1 Bounding Box, Ground-truth Segmentation
   * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Website](https://drive.google.com/file/d/0B0ywwgffWnLLZW9uVHNjb2JmNlE/view)]
     * Descriptions per image: 10 Captions
- 
+
 * <span id="head-COCO"> **MS-COCO** </span>
 
   COCO is a large-scale object detection, segmentation, and captioning dataset.
