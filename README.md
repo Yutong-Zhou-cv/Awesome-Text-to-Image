@@ -19,11 +19,13 @@
  
 </div>
 
+<!--
 ![Figure from paper](pic/Overview.png)
 > *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
+-->
 
 ## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
-* - [ ] Add [**Best Collection**]() for Awesome-Text-to-Image
+* - [ ] Add [**Best Collection**]()
 * - [ ] Add **Topic Order** list and **Chronological Order** list
 * - [x] Create [**⏳Recently Focused Papers**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
@@ -362,10 +364,6 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**, Rinon Gal et al.  [[Paper](https://arxiv.org/abs/2208.01618)] [[Code](https://github.com/rinongal/textual_inversion)] [[Project](https://textual-inversion.github.io/)]
     * (arXiv preprint 2022) [💬Relational Understanding Analysis] **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell  [[Paper](https://arxiv.org/abs/2208.00005)] 
     * (arXiv preprint 2022) [💬Lighting Consistency Analysis] **Lighting (In)consistency of Paint by Text**, Hany Farid  [[Paper](https://arxiv.org/abs/2207.13744)] 
-    * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
-        * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image (T2I), Sketch-to-Image (S2I), Image Completion (I2I), Text-Guided Image Manipulation (TI2I), Text-to-Video (T2V), Video Prediction (V2V), Sketch-to-Video (S2V), Text-Guided Video Manipulation (TV2V)
-          ![Figure from paper](pic/NUWA.gif)
-          > *(From: https://github.com/microsoft/NUWA [2021/11/30])*
     * (ECCV 2022) **Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors**, Oran Gafni et al. [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)] [[The Little Red Boat Story](https://www.youtube.com/watch?v=N4BagnXzPXY)]
     * (ECCV 2022) **Compositional Visual Generation with Composable Diffusion Models**, Nan Liu et al. [[Paper](https://arxiv.org/abs/2206.01714)] [[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)] [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] [[Hugging Face](https://huggingface.co/spaces/Shuang59/Composable-Diffusion)]
     * (arXiv preprint 2022) **Exploring Generative Adversarial Networks for Text-to-Image Generation with Evolution Strategies**, Victor Costa et al.  [[Paper](https://arxiv.org/abs/2207.02907)] 
@@ -517,7 +515,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) **NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2207.09814)] [[Code](https://github.com/microsoft/NUWA)] [[Project](https://nuwa-infinity.microsoft.com/#/)]
          * 📚Unconditional Image Generation(HD), Text-to-Image(HD), Image Animation(HD), Image Outpainting(HD), Text-to-Video(HD)
        * (ECCV 2022) **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
-         * 📚Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
+         * **Multimodal Pretrained Model for Multi-tasks🎄**: Text-To-Image, Sketch-to-Image, Image Completion, Text-Guided Image Manipulation, Text-to-Video, Video Prediction, Sketch-to-Video, Text-Guided Video Manipulation
        * (ACMMM 2022) **Rethinking Super-Resolution as Text-Guided Details Generation**, Chenxi Ma et al. [[Paper](https://arxiv.org/abs/2207.06604)] 
          * 📚Text-to-Image, High-resolution, Text-guided High-resolution
        * (arXiv preprint 2022) **Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation**, Ye Zhu et al. [[Paper](https://arxiv.org/abs/2206.07771)] [[Code](https://github.com/L-YeZhu/CDCD)] 
