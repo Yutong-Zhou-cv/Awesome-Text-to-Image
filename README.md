@@ -75,6 +75,7 @@
   * - [ ] [Layout → Image](#head-L2I)
   * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Speech → Image](#head-S2I)
+  * - [ ] [Scene Graph → Image](#head-SG2I)
   * - [ ] [Text → Visual Retrieval](#head-T2VR)
   * - [ ] [Text → Motion/Shape/Mesh/Object...](#head-T2M)
   * - [ ] [Text → Video](#head-T2V)
@@ -478,7 +479,6 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (CVPR 2018) **AttnGAN: Fine-grained text to image generation with attentional generative adversarial networks**, Tao Xu et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)] [[Code](https://github.com/taoxugit/AttnGAN)]
     * (CVPR 2018) **Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network**, Zizhao Zhang et al. [[Paper](https://arxiv.org/pdf/1802.09178.pdf)] [[Code](https://github.com/ypxie/HDGan)]
     * (CVPR 2018) **Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis**, Seunghoon Hong et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Inferring_Semantic_Layout_CVPR_2018_paper.pdf)] 
-    * (CVPR 2018) **Image Generation from Scene Graphs**, Justin Johnson et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0764.pdf)] [[Code](https://github.com/google/sg2im)]
     * (ICLR 2018 - Workshop) **ChatPainter: Improving Text to Image Generation using Dialogue**, Shikhar Sharma et al. [[Paper](https://arxiv.org/pdf/1802.08216.pdf)] 
     * (ACMMM 2018) **Text-to-image Synthesis via Symmetrical Distillation Networks**, Mingkuan Yuan et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3240508.3240559)]
     * (WACV 2018) **C4Synth: Cross-Caption Cycle-Consistent Text-to-Image Synthesis**, K. J. Joseph et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658689)]
@@ -640,6 +640,10 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        *  (INTERSPEECH 2020)**[Extent Version👆] S2IGAN: Speech-to-Image Generation via Adversarial Learning**, Xinsheng Wang et al. [[Paper](https://arxiv.org/abs/2005.06968)]
        * (IEEE Journal of Selected Topics in Signal Processing-2020) **Direct Speech-to-Image Translation**, Jiguo Li et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067083)] [[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)] [[Project](https://smallflyingpig.github.io/speech-to-image/main)]
        
+   * <span id="head-SG2I"> **Scene Graph → Image** </span> **[       «🎯Back To Top»       ](#)**    
+       * (arXiv preprint 2023) **Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training**, Ling Yang et al.  [[Paper](https://arxiv.org/abs/2211.11138)]
+       * (CVPR 2018) **Image Generation from Scene Graphs**, Justin Johnson et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0764.pdf)] [[Code](https://github.com/google/sg2im)]
+   
    * <span id="head-T2VR"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
        * (ACMMM 2022) **CAIBC: Capturing All-round Information Beyond Color for Text-based Person Retrieval**, Zijie Wang et al. [[Paper](https://arxiv.org/abs/2209.05773)] 
        * (AAAI 2022) **Cross-Modal Coherence for Text-to-Image Retrieval**, Malihe Alikhani et al. [[Paper](https://arxiv.org/abs/2109.11047)] 
