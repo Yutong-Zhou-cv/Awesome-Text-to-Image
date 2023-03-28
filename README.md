@@ -282,7 +282,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
 
 * <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
-    * (Pattern Recognition 2023) **Where you edit is what you get: Text-guided image editing with region-based attention**, Changming Xiao et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323001589)]
+    * (Pattern Recognition 2023) **Where you edit is what you get: Text-guided image editing with region-based attention**, Changming Xiao et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323001589)] [[Code](https://github.com/Big-Brother-Pikachu/Where2edit)]
     * (arXiv preprint 2022) **Bridging CLIP and StyleGAN through Latent Alignment for Image Editing**, Wanfeng Zheng et al. [[Paper](https://arxiv.org/abs/2210.04506)] 
     * (ACMMM 2022) **Learning Dynamic Prior Knowledge for Text-to-Face Pixel Synthesis**, Jun Peng et al. [[Paper](https://dl.acm.org/doi/10.1145/3503161.3547818)]
     * (ACMMM 2022) **Towards Open-Ended Text-to-Face Generation, Combination and Manipulation**, Jun Peng et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547758)]
