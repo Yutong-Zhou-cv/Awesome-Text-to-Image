@@ -38,6 +38,8 @@
   * [R-precision](#head-R)
   * [L<sub>2</sub> error](#head-L2)
   * [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
+  * [CLIPScore](#head-clipscore)
+  
   
 * - [ ] [3. Datasets](#head3)  
   * [Oxford-102 Flower](#head-Flower)
@@ -104,6 +106,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-L2"> L<sub>2</sub> error </span> [[Paper](https://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)]
 
 * <span id="head-LPIPS"> Learned Perceptual Image Patch Similarity (LPIPS) </span> [[Paper](https://arxiv.org/abs/1801.03924)] [[Python Code](https://github.com/richzhang/PerceptualSimilarity)]
+
+* <span id="head-clipscore"> CLIPScore </span> [[Paper](https://arxiv.org/abs/2104.08718)] [[Python Code](https://github.com/jmhessel/clipscore)]
 
 ## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
     
