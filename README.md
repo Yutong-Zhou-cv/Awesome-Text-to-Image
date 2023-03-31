@@ -33,25 +33,26 @@
 * - [x] [1. Description](#head1)
 
 * - [x] [2. Quantitative Evaluation Metrics](#head2)
-  * [Inception Score (IS)](#head-IS)
-  * [Fréchet Inception Distance (FID)](#head-FID)  
-  * [R-precision](#head-R)
-  * [L<sub>2</sub> error](#head-L2)
-  * [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
-  * [CLIPScore](#head-clipscore)
+  * - [ ] [Inception Score (IS)](#head-IS)
+  * - [ ] [Fréchet Inception Distance (FID)](#head-FID)  
+  * - [ ] [R-precision](#head-R)
+  * - [ ] [L₂ error](#head-L2)
+  * - [ ] [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
+  * - [ ] [CLIPScore](#head-clipscore)
+  * - [ ] [Mutual Information Divergence (MID)](#head-MID)
   
   
 * - [ ] [3. Datasets](#head3)  
-  * [Oxford-102 Flower](#head-Flower)
-  * [Caltech-UCSD Bird (CUB)](#head-CUB)
-  * [MS-COCO](#head-COCO)
-  * [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
-  * [CelebA-Dialog](#head-CelebA-Dialog)
-  * [FFHQ-Text](#head-FFHQ-Text)
-  * [CelebAText-HQ](#head-CelebAText-HQ)
-  * [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
-  * [ANNA](#head-ANNA)
-  * [Bento800-Text](#head-Bento)
+  * - [ ] [Oxford-102 Flower](#head-Flower)
+  * - [ ] [Caltech-UCSD Bird (CUB)](#head-CUB)
+  * - [ ] [MS-COCO](#head-COCO)
+  * - [ ] [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
+  * - [ ] [CelebA-Dialog](#head-CelebA-Dialog)
+  * - [ ] [FFHQ-Text](#head-FFHQ-Text)
+  * - [ ] [CelebAText-HQ](#head-CelebAText-HQ)
+  * - [ ] [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
+  * - [ ] [ANNA](#head-ANNA)
+  * - [ ] [Bento800-Text](#head-Bento)
 
 * - [ ] [4. Project](#head4)
 
@@ -108,6 +109,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-LPIPS"> Learned Perceptual Image Patch Similarity (LPIPS) </span> [[Paper](https://arxiv.org/abs/1801.03924)] [[Python Code](https://github.com/richzhang/PerceptualSimilarity)]
 
 * <span id="head-clipscore"> CLIPScore </span> [[Paper](https://arxiv.org/abs/2104.08718)] [[Python Code](https://github.com/jmhessel/clipscore)]
+
+* <span id="head-MID"> MID </span> [[Paper](https://openreview.net/forum?id=wKd2XtSRsjl)] [[Python Code](https://github.com/naver-ai/mid.metric)]
 
 ## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
     
