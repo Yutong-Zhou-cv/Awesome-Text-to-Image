@@ -279,6 +279,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 ## <span id="head5"> *5. Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
+    * **Vision + Language Applications: A Survey** [[v1 (TBD)]()(CVPRW)] (2023.04) 
     * **A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?** [[v1](https://arxiv.org/abs/2303.11717)(arXiv)] (2023.03) 
     * **Text-to-image Diffusion Model in Generative AI: A Survey** [[v1](https://arxiv.org/abs/2303.07909)(arXiv)] (2023.03) 
     * **A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT** [[v1](https://arxiv.org/abs/2303.04226)(arXiv)] (2023.03) 
