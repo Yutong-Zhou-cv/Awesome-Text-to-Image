@@ -324,6 +324,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (CVPR 2023) [💬Human Evaluation]**Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation**, Mayu Otani et al. [[Paper](https://arxiv.org/abs/2304.01816)] 
      * (arXiv preprint 2023) **GlyphDraw: Learning to Draw Chinese Characters in Image Synthesis Models Coherently**, Jian Ma et al. [[Paper](https://arxiv.org/abs/2303.17870)] [[Project](https://1073521013.github.io/glyph-draw.github.io/)] 
      * (arXiv preprint 2023) **Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models**, Lukas Höllein et al. [[Paper](https://arxiv.org/abs/2303.11989)] [[Project](https://lukashoel.github.io/text-to-room/)] [[Code](https://github.com/lukasHoel/text2room)] [[Video](https://www.youtube.com/watch?v=fjRnFL91EZc)]
      * (arXiv preprint 2023) **Editing Implicit Assumptions in Text-to-Image Diffusion Models**, Hadas Orgad et al. [[Paper](https://arxiv.org/abs/2303.08084)] [[Project](https://time-diffusion.github.io/)] [[Code](https://github.com/bahjat-kawar/time-diffusion)] 
