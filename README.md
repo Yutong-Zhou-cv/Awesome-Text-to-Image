@@ -32,27 +32,27 @@
 ## <span id="head-content"> *Content* </span>
 * - [x] [1. Description](#head1)
 
-* - [x] [2. Quantitative Evaluation Metrics](#head2)
-  * - [ ] [Inception Score (IS)](#head-IS)
-  * - [ ] [Fréchet Inception Distance (FID)](#head-FID)  
-  * - [ ] [R-precision](#head-R)
-  * - [ ] [L₂ error](#head-L2)
-  * - [ ] [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
-  * - [ ] [CLIPScore](#head-clipscore)
-  * - [ ] [Mutual Information Divergence (MID)](#head-MID)
+* - [ ] [2. Quantitative Evaluation Metrics](#head2)
+  * - [x] [Inception Score (IS)](#head-IS)
+  * - [x] [Fréchet Inception Distance (FID)](#head-FID)  
+  * - [x] [R-precision](#head-R)
+  * - [x] [L₂ error](#head-L2)
+  * - [x] [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
+  * - [x] [CLIPScore](#head-clipscore)
+  * - [x] [Mutual Information Divergence (MID)](#head-MID)
   
   
 * - [ ] [3. Datasets](#head3)  
-  * - [ ] [Oxford-102 Flower](#head-Flower)
-  * - [ ] [Caltech-UCSD Bird (CUB)](#head-CUB)
-  * - [ ] [MS-COCO](#head-COCO)
-  * - [ ] [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
-  * - [ ] [CelebA-Dialog](#head-CelebA-Dialog)
-  * - [ ] [FFHQ-Text](#head-FFHQ-Text)
-  * - [ ] [CelebAText-HQ](#head-CelebAText-HQ)
-  * - [ ] [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
-  * - [ ] [ANNA](#head-ANNA)
-  * - [ ] [Bento800-Text](#head-Bento)
+  * - [x] [Oxford-102 Flower](#head-Flower)
+  * - [x] [Caltech-UCSD Bird (CUB)](#head-CUB)
+  * - [x] [MS-COCO](#head-COCO)
+  * - [x] [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
+  * - [x] [CelebA-Dialog](#head-CelebA-Dialog)
+  * - [x] [FFHQ-Text](#head-FFHQ-Text)
+  * - [x] [CelebAText-HQ](#head-CelebAText-HQ)
+  * - [x] [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
+  * - [x] [ANNA](#head-ANNA)
+  * - [x] [Bento800-Text](#head-Bento)
 
 * - [ ] [4. Project](#head4)
 
@@ -324,6 +324,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **GlyphDraw: Learning to Draw Chinese Characters in Image Synthesis Models Coherently**, Jian Ma et al. [[Paper](https://arxiv.org/abs/2303.17870)] [[Project](https://1073521013.github.io/glyph-draw.github.io/)] 
      * (arXiv preprint 2023) **Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models**, Lukas Höllein et al. [[Paper](https://arxiv.org/abs/2303.11989)] [[Project](https://lukashoel.github.io/text-to-room/)] [[Code](https://github.com/lukasHoel/text2room)] [[Video](https://www.youtube.com/watch?v=fjRnFL91EZc)]
      * (arXiv preprint 2023) **Editing Implicit Assumptions in Text-to-Image Diffusion Models**, Hadas Orgad et al. [[Paper](https://arxiv.org/abs/2303.08084)] [[Project](https://time-diffusion.github.io/)] [[Code](https://github.com/bahjat-kawar/time-diffusion)] 
      * ⭐⭐(arXiv preprint 2023) **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2303.04671)] [[Code](https://github.com/microsoft/visual-chatgpt)]
