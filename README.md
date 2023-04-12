@@ -24,9 +24,15 @@
 > *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
 -->
 
+## 🎑 News
+* [23/04/12] **Content** of [Best Collection] is released.
+* [23/04/11] Create [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) list.
+* [23/04/04] "**Vision + Language Applications: A Survey**" was accepted by CVPRW2023.
+* [20/10/13] **Awesome-Text-to-Image** repo is created.
+
 ## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
-* - [ ] Add [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection)
 * - [ ] Add **Topic Order** list and **Chronological Order** list
+* - [x] Add [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) 
 * - [x] Create [**⏳Recently Focused Papers**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
 ## <span id="head-content"> *Content* </span>
