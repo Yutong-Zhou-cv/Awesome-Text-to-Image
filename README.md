@@ -25,7 +25,7 @@
 -->
 
 ## *<img src="./pic/icon/to-do-list.png" width="25" /> To Do*
-* - [ ] Add [**Best Collection**]()
+* - [ ] Add [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection)
 * - [ ] Add **Topic Order** list and **Chronological Order** list
 * - [x] Create [**⏳Recently Focused Papers**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
@@ -642,6 +642,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
    * <span id="head-L2I"> **Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (Journal of King Saud University - Computer and Information Sciences) [Survey] **Image Generation Models from Scene Graphs and Layouts: A Comparative Analysis**, Muhammad Umair Hassan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S1319157823000897)] 
        * (CVPR 2022) **Modeling Image Composition for Complex Scene Generation**, Zuopeng Yang et al. [[Paper](https://arxiv.org/abs/2206.00923)] [[Code](https://github.com/JohnDreamer/TwFA)]
        * (CVPR 2022) **Interactive Image Synthesis with Panoptic Layout Generation**, Bo Wang et al. [[Paper](https://arxiv.org/abs/2203.02104)] 
        * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) **High-Resolution Complex Scene Synthesis with Transformers**, Manuel Jahn et al. [[Paper](https://arxiv.org/pdf/2105.06458.pdf)] 
