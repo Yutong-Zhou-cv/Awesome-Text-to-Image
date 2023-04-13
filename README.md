@@ -330,6 +330,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2211.01324)] [[Project](https://research.nvidia.com/labs/dir/eDiff-I/)] 
      * (CVPR 2023) **GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**, Ming Tao et al. [[Paper](https://arxiv.org/abs/2301.12959)] [[Code](https://github.com/tobran/GALIP)]
      * (CVPR 2023) [💬Human Evaluation]**Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation**, Mayu Otani et al. [[Paper](https://arxiv.org/abs/2304.01816)] 
      * (arXiv preprint 2023) **GlyphDraw: Learning to Draw Chinese Characters in Image Synthesis Models Coherently**, Jian Ma et al. [[Paper](https://arxiv.org/abs/2303.17870)] [[Project](https://1073521013.github.io/glyph-draw.github.io/)] 
