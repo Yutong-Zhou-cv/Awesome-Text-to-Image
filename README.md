@@ -648,6 +648,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
    * <span id="head-L2I"> **Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Layout+Text→Image] **Training-Free Layout Control with Cross-Attention Guidance**, Minghao Chen et al.  [[Paper](https://arxiv.org/abs/2304.03373)] [[Code](https://github.com/silent-chen/layout-guidance)] [[Project](https://silent-chen.github.io/layout-guidance/)]
        * (Journal of King Saud University - Computer and Information Sciences) [Survey] **Image Generation Models from Scene Graphs and Layouts: A Comparative Analysis**, Muhammad Umair Hassan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S1319157823000897)] 
        * (CVPR 2022) **Modeling Image Composition for Complex Scene Generation**, Zuopeng Yang et al. [[Paper](https://arxiv.org/abs/2206.00923)] [[Code](https://github.com/JohnDreamer/TwFA)]
        * (CVPR 2022) **Interactive Image Synthesis with Panoptic Layout Generation**, Bo Wang et al. [[Paper](https://arxiv.org/abs/2203.02104)] 
