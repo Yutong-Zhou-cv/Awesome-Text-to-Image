@@ -527,7 +527,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
 
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
-       * ⭐⭐(arXiv preprint 2023) **Scaling up GANs for Text-to-Image Synthesis**, Minguk Kang et al. [[Paper](https://arxiv.org/abs/2303.05511)] [[Project](https://mingukkang.github.io/GigaGAN/)] 
+       * ⭐⭐(CVPR 2023) **Scaling up GANs for Text-to-Image Synthesis**, Minguk Kang et al. [[Paper](https://arxiv.org/abs/2303.05511)] [[Project](https://mingukkang.github.io/GigaGAN/)] 
          * 📚Text-to-Image, Controllable image synthesis (Style Mixing, Prompt Interpolation, Prompt Mixing), Super Resolution (Text-conditioned, Unconditional)
        * (arXiv preprint 2023) **TextIR: A Simple Framework for Text-based Editable Image Restoration**, Yunpeng Bai et al. [[Paper](https://arxiv.org/abs/2302.14736)] [[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
          * 📚Image Inpainting, Image Colorization, Image Super-resolution, Image Editing via Degradation
