@@ -330,6 +330,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (TOMM 2023) **LFR-GAN: Local Feature Refinement based Generative Adversarial Network for Text-to-Image Generation**, Zijun Deng et al. [[Paper](https://dl.acm.org/doi/10.1145/3589002)] [[Code](https://github.com/PKU-ICST-MIPL/LFR-GAN_TOMM2023)] 
      * ⭐⭐(arXiv preprint 2023) **Expressive Text-to-Image Generation with Rich Text**, Songwei Ge et al. [[Paper](https://arxiv.org/abs/2304.06720)] [[Code](https://github.com/SongweiGe/rich-text-to-image)] [[Project](https://rich-text-to-image.github.io/)] [[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image/discussions)]
      * (arXiv preprint 2023) [💬Human Preferences]**ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation**, Jiazheng Xu et al. [[Paper](https://arxiv.org/abs/2304.05977)] [[Code](https://github.com/THUDM/ImageReward)] 
      * (arXiv preprint 2023) **eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers**, Yogesh Balaji et al. [[Paper](https://arxiv.org/abs/2211.01324)] [[Project](https://research.nvidia.com/labs/dir/eDiff-I/)] 
