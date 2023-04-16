@@ -81,7 +81,7 @@
   * - [ ] [🛫Applications🛫](#head-APP)
   * - [ ] [Text+Image/Video → Image/Video](#head-TI2I)
   * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ATI2I)
-  * - [ ] [Layout → Image](#head-L2I)
+  * - [ ] [Layout/Semantic Mask → Image](#head-L2I)
   * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Speech → Image](#head-S2I)
   * - [ ] [Scene Graph → Image](#head-SG2I)
@@ -318,6 +318,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-CI"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2023) [💬 Prompt Log Analysis] **A Prompt Log Analysis of Text-to-Image Generation Systems**, Yutong Xie et al.  [[Paper](https://arxiv.org/abs/2303.04587)] 
     * (arXiv preprint 2023) [💬 Textual Inversion] **Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**, Anton Voronov et al.  [[Paper](https://arxiv.org/abs/2302.04841)] [[Code](https://github.com/yandex-research/DVAR)]
     * (arXiv preprint 2022) [💬 Interpretable Intervention] **Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations**, Jianhao Yuan et al.  [[Paper](https://arxiv.org/abs/2212.11237)]
     * (arXiv preprint 2022) [💬 Ethical Image Manipulation] **Judge, Localize, and Edit: Ensuring Visual Commonsense Morality for Text-to-Image Generation**, Seongbeom Park et al.  [[Paper](https://arxiv.org/abs/2212.03507)]
@@ -650,7 +651,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2023) [💬Sound+Speech→Robotic Painting] **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et al. [[Paper](https://arxiv.org/abs/2302.04850)]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
-   * <span id="head-L2I"> **Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-L2I"> **Layout/Semantic Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2023) **Freestyle Layout-to-Image Synthesis**, Han Xue et al. [[Paper](https://arxiv.org/abs/2303.14412)] [[Code](https://github.com/essunny310/FreestyleNet)]
        * (CVPR 2023) **LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**, Guangcong Zheng et al. [[Paper](https://arxiv.org/abs/2303.17189)] [[Code](https://github.com/ZGCTroy/LayoutDiffusion)]
        * (arXiv preprint 2023) [💬Layout+Text→Image] **Training-Free Layout Control with Cross-Attention Guidance**, Minghao Chen et al.  [[Paper](https://arxiv.org/abs/2304.03373)] [[Code](https://github.com/silent-chen/layout-guidance)] [[Project](https://silent-chen.github.io/layout-guidance/)]
        * (Journal of King Saud University - Computer and Information Sciences) [Survey] **Image Generation Models from Scene Graphs and Layouts: A Comparative Analysis**, Muhammad Umair Hassan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S1319157823000897)] 
