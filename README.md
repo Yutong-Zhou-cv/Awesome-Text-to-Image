@@ -210,6 +210,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* ⭐⭐**Image2Paragraph**. [[Github](https://github.com/showlab/Image2Paragraph)] [[Hugging Face](https://huggingface.co/spaces/Awiny/Image2Paragraph)]
+    * From ***One-to-many*** to ***One-to-one***
 * **2022 Top Papers in AI — A Year of Generative Models**. [[Medium](https://chuanenlin.medium.com/2022-top-ai-papers-a-year-of-generative-models-a7dcd9109e39)] 
 * **Whisper-to-stable-diffusion**. [[Hugging Face](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion)] 
     * >***Whisper*** is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio. It is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
