@@ -583,7 +583,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
-       * (arXiv preprint 2023) **Subject-driven Text-to-Image Generation via Apprenticeship Learning**, Wenhu Chen et al. [[Paper](https://arxiv.org/abs/2304.00186)] 
+       * ⭐⭐(arXiv preprint 2023) [💬Image Editing] **Delta Denoising Score**, Amir Hertz et al. [[Paper](https://arxiv.org/abs/2304.07090)] 
+       * (arXiv preprint 2023) **Subject-driven Text-to-Image Generation via Apprenticeship Learning**, Wenhu Chen et al. [[Paper](https://arxiv.org/abs/2304.00186)] [[Project](https://delta-denoising-score.github.io/)]
        * (arXiv preprint 2023) [💬Image Editing] **Region-Aware Diffusion for Zero-shot Text-driven Image Editing**, Nisha Huang et al. [[Paper](https://arxiv.org/abs/2302.11797)] [[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
        * ⭐⭐(arXiv preprint 2023) [💬Text+Video → Video]**Structure and Content-Guided Video Synthesis with Diffusion Models**, Patrick Esser et al. [[Paper](https://arxiv.org/abs/2302.03011)] [[Project](https://research.runwayml.com/gen1)]
        * (arXiv preprint 2023) **ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation**, Yuxiang Wei et al. [[Paper](https://arxiv.org/abs/2302.13848)]
