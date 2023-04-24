@@ -337,6 +337,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning**, Jing Shi et al. [[Paper](https://arxiv.org/abs/2304.03411)] [[Project](https://jshi31.github.io/InstantBooth/)]
      * (TOMM 2023) **LFR-GAN: Local Feature Refinement based Generative Adversarial Network for Text-to-Image Generation**, Zijun Deng et al. [[Paper](https://dl.acm.org/doi/10.1145/3589002)] [[Code](https://github.com/PKU-ICST-MIPL/LFR-GAN_TOMM2023)] 
      * ⭐⭐(arXiv preprint 2023) **Expressive Text-to-Image Generation with Rich Text**, Songwei Ge et al. [[Paper](https://arxiv.org/abs/2304.06720)] [[Code](https://github.com/SongweiGe/rich-text-to-image)] [[Project](https://rich-text-to-image.github.io/)] [[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image/discussions)]
      * (arXiv preprint 2023) [💬Human Preferences]**ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation**, Jiazheng Xu et al. [[Paper](https://arxiv.org/abs/2304.05977)] [[Code](https://github.com/THUDM/ImageReward)] 
@@ -584,6 +585,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * ⭐⭐(arXiv preprint 2023) [💬Image Editing] **MasaCtrl: Tuning-free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**, Mingdeng Cao et al. [[Paper](https://arxiv.org/abs/2304.08465)] [[Code](https://github.com/TencentARC/MasaCtrl)] [[Project](https://ljzycmd.github.io/projects/MasaCtrl/)]
        * (arXiv preprint 2023) **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos**, Yue Ma et al. [[Paper](https://arxiv.org/abs/2304.01186)] [[Github](https://github.com/mayuelala/FollowYourPose)] [[Hugging Face](https://huggingface.co/spaces/YueMafighting/FollowYourPose)]
        * ⭐⭐(arXiv preprint 2023) [💬Image Editing] **Delta Denoising Score**, Amir Hertz et al. [[Paper](https://arxiv.org/abs/2304.07090)] 
        * (arXiv preprint 2023) **Subject-driven Text-to-Image Generation via Apprenticeship Learning**, Wenhu Chen et al. [[Paper](https://arxiv.org/abs/2304.00186)] [[Project](https://delta-denoising-score.github.io/)]
