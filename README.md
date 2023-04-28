@@ -585,6 +585,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (PR 2023) [💬Person Re-identification] **BDNet: A BERT-based Dual-path Network for Text-to-Image Cross-modal Person Re-identification**, Qiang Liu et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323003370)] 
        * (arXiv preprint 2023) **MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**, Jing Zhao et al. [[Paper](https://arxiv.org/abs/2303.13126)] [[Code](https://github.com/MagicFusion/MagicFusion.github.io)] [Project](https://magicfusion.github.io/)] 
        * (CVPR 2023) [💬3D] **TAPS3D: Text-Guided 3D Textured Shape Generation from Pseudo Supervision**, Jiacheng Wei et al. [[Paper](https://arxiv.org/abs/2303.13273)] 
        * ⭐⭐(arXiv preprint 2023) [💬Image Editing] **MasaCtrl: Tuning-free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**, Mingdeng Cao et al. [[Paper](https://arxiv.org/abs/2304.08465)] [[Code](https://github.com/TencentARC/MasaCtrl)] [[Project](https://ljzycmd.github.io/projects/MasaCtrl/)]
