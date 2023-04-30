@@ -337,6 +337,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) [💬 Audio/Sound/Multi-language-to-Image] **GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**, Can Qin et al.  [[Paper](https://arxiv.org/abs/2303.10056)] 
      * (arXiv preprint 2023) [💬Faithfulness Evaluation] **TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering**, Yushi Hu et al. [[Paper](https://arxiv.org/abs/2303.11897)] [[Project](https://tifa-benchmark.github.io/)] [[Code](https://github.com/Yushi-Hu/tifa)] 
      * (arXiv preprint 2023) **InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning**, Jing Shi et al. [[Paper](https://arxiv.org/abs/2304.03411)] [[Project](https://jshi31.github.io/InstantBooth/)]
      * (TOMM 2023) **LFR-GAN: Local Feature Refinement based Generative Adversarial Network for Text-to-Image Generation**, Zijun Deng et al. [[Paper](https://dl.acm.org/doi/10.1145/3589002)] [[Code](https://github.com/PKU-ICST-MIPL/LFR-GAN_TOMM2023)] 
