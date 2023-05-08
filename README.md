@@ -338,6 +338,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion**, Seongmin Lee et al.  [[Paper](https://arxiv.org/abs/2305.03509)] [[Project](https://poloclub.github.io/diffusion-explainer/)] 
      * ⭐⭐(Findings of ACL 2023) [💬 Multi-language-to-Image] **AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities**, Zhongzhi Chen et al.  [[Paper](https://arxiv.org/abs/2211.06679)] [[Code-AltDiffusion](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion-m18)] [[Code-AltCLIP](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP-m18)] [[Hugging Face](https://huggingface.co/BAAI/AltDiffusion-m18)] 
      * (arXiv preprint 2023) [💬 Seed selection] **It is all about where you start: Text-to-image generation with seed selection**, Dvir Samuel et al.  [[Paper](https://arxiv.org/abs/2304.14530)] 
      * (arXiv preprint 2023) [💬 Audio/Sound/Multi-language-to-Image] **GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**, Can Qin et al.  [[Paper](https://arxiv.org/abs/2303.10056)] 
