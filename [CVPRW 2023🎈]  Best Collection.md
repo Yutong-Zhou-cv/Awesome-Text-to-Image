@@ -63,8 +63,24 @@ Table 1. **Chronological timeline of representative text-to-image datasets.**
 
 ### <span id="head-metrics"> *2.2 Evaluation Metrics* </span> [       «🎯Back To Top»       ](#)
 * **Automatic Evaluation**
+> 👆🏻: **Higher** is better. 👇🏻: **Lower** is better.
+
+   * [NIPS 2016] **Inception Score** (IS) 👆🏻
+       * [[Paper](https://papers.nips.cc/paper_files/paper/2016/hash/8a3363abe792db2d8761d6403605aeb7-Abstract.html)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Ref.Code(AttnGAN)](https://github.com/taoxugit/AttnGAN)]
+   * [NIPS 2017] **Fréchet Inception Distance** (FID) 👇🏻
+       * [[Paper](https://papers.nips.cc/paper_files/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html)] [[Python Code (Pytorch)](https://github.com/mseitzer/pytorch-fid)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Ref.Code(DM-GAN)](https://github.com/MinfengZhu/DM-GAN)]
+   * [CVPR 2018)] **R-precision** (RP) 👆🏻
+       * [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)] [[Ref.Code(CPGAN)](https://github.com/dongdongdong666/CPGAN)]
+   * [TPAMI 2020] **Semantic Object Accuracy** (SOA) 👆🏻
+       * [[Paper](https://ieeexplore.ieee.org/document/9184960)] [[Python Code (Pytorch)](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis/tree/master/SOA)] 
+   * [ECCV 2022] **Positional Alignment** (PA) 👆🏻
+       * [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_34)] [[Python Code (Pytorch)](https://github.com/VinAIResearch/tise-toolbox/tree/master/positional_alignment)] 
 
 * **Human Evaluation**
+>Participants are asked to rate generated images based on two criteria: **plausibility** (including object accuracy, counting, positional alignment, or image-text alignment) and **naturalness** (whether the image appears natural or realistic).  
+The evaluation protocol is designed in a **5-Point** Likert manner, in which human evaluators rate each prompt on a scale of 1 to 5, with **5 representing the best** and **1 representing the worst**. 
+
+For **rare object combinations** that require common sense understanding or aim to **avoid bias related to race or gender**, human evaluation is even more important. 
 
 ## <span id="head3"> *3. Generative Models* </span> [       «🎯Back To Top»       ](#)
  
