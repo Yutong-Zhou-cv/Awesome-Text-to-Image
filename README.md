@@ -47,6 +47,7 @@
   * - [x] [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
   * - [x] [CLIPScore](#head-clipscore)
   * - [x] [Mutual Information Divergence (MID)](#head-MID)
+  * - [x] [PickScore](#head-PickScore)
   
   
 * - [ ] [3. Datasets](#head3)  
@@ -118,6 +119,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 * <span id="head-clipscore"> CLIPScore </span> [[Paper](https://arxiv.org/abs/2104.08718)] [[Python Code](https://github.com/jmhessel/clipscore)]
 
 * <span id="head-MID"> MID </span> [[Paper](https://openreview.net/forum?id=wKd2XtSRsjl)] [[Python Code](https://github.com/naver-ai/mid.metric)]
+
+* <span id="head-PickScore"> PickScore </span> [[Paper](https://arxiv.org/abs/2305.01569)] [[Python Code](https://huggingface.co/yuvalkirstain/PickScore_v1)]
 
 ## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
     
