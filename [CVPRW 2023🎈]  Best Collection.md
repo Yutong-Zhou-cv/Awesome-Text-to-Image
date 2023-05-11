@@ -1,6 +1,9 @@
-<div align="center"><img src=pic/icon/BC_Title.png><img src=pic/icon/Logo.png width="180" /></div>
-<div align=center>
+<div align="center"><img src=pic/icon/BC_Title.png>
   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYutong-Zhou-cv%2FAwesome-Text-to-Image%2Fblob%2Fmain%2F%255BCVPRW%25202023%25F0%259F%258E%2588%255D%2520%2520Best%2520Collection.md&count_bg=%23AE344C&title_bg=%233F790F&icon=tapas.svg&icon_color=%23E7E7E7&title=Hits+%282023.05%7E%29&edge_flat=false)](https://hits.seeyoufarm.com)   
+<img src=pic/icon/Logo.png width="180" /></div>
+<div align=center>
+ 
 “𝑇ℎ𝑒 𝑏𝑎𝑏𝑦, 𝑎𝑠𝑠𝑎𝑖𝑙𝑒𝑑 𝑏𝑦 𝑒𝑦𝑒𝑠, 𝑒𝑎𝑟𝑠, 𝑛𝑜𝑠𝑒, 𝑠𝑘𝑖𝑛, 𝑎𝑛𝑑 𝑒𝑛𝑡𝑟𝑎𝑖𝑙𝑠 𝑎𝑡 𝑜𝑛𝑐𝑒, 𝑓𝑒𝑒𝑙𝑠 𝑖𝑡 𝑎𝑙𝑙 𝑎𝑠 𝑜𝑛𝑒 𝑔𝑟𝑒𝑎𝑡 𝑏𝑙𝑜𝑜𝑚𝑖𝑛𝑔, 𝑏𝑢𝑧𝑧𝑖𝑛𝑔 𝑐𝑜𝑛𝑓𝑢𝑠𝑖𝑜𝑛.” -- 𝑊𝑖𝑙𝑙𝑖𝑎𝑚 𝐽𝑎𝑚𝑒𝑠
   
 </div>
