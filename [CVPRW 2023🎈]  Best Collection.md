@@ -6,20 +6,20 @@
 </div>
 
 # <span id="head-content"> *🍓 Content 🍓* </span>
-* - [ ] [**1. Introduction**](#head1)
-* - [ ] [**2. Background**](#head2)
-  * - [ ] [2.1 Datasets](#head-dataset)
-  * - [ ] [2.2 Evaluation Metrics](#head-metrics)
-* - [ ] [**3. Generative Models**](#head3)
-  * - [ ] [3.1 GAN-based Model](#head-gan)
-  * - [ ] [3.2 Transformer-based Model](#head-transformer)
-  * - [ ] [3.3 Diffusion-based Model](#head-diffusion)
-* - [ ] [**4. Generative Applications**](#head4)
-  * - [ ] [4.1 Text-to-Image](#head-T2I)
-  * - [ ] [4.1 Text-to-X](#head-T2X)
-  * - [ ] [4.1 X-to-Image](#head-X2I)
+* - [x] [**1. Introduction**](#head-1)
+* - [x] [**2. Background**](#head-2)
+  * - [x] [2.1 Datasets](#head-dataset)
+  * - [x] [2.2 Evaluation Metrics](#head-metrics)
+* - [x] [**3. Generative Models**](#head-3)
+  * - [x] [3.1 GAN Model](#head-gan)
+  * - [x] [3.2 Autogressive Model](#head-transformer)
+  * - [x] [3.3 Diffusion Model](#head-diffusion)
+* - [ ] [**4. Generative Applications**](#head-4)
+  * - [x] [4.1 Text-to-Image](#head-T2I)
+  * - [ ] [4.2 Text-to-X](#head-T2X)
+  * - [ ] [4.3 X-to-Image](#head-X2I)
   * - [ ] [4.4 Multi Tasks](#head-multi)
-* - [ ] [**5. Discussion**](#head5)
+* - [ ] [**5. Discussion**](#head-5)
   * - [ ] [5.1 Compounding Issues](#head-issue)
     * - [ ] [Computational Aesthetic](#head-aesthetic)
     * - [ ] [Prompt Engineering](#head-prompt)
@@ -28,17 +28,19 @@
     * - [ ] [Ethical Considerations](#head-prompt)
   * - [ ] [5.3 Challenges & Future Outlooks](#head-future)
 
-## <span id="head1"> *1. Introduction* </span> [       «🎯Back To Top»       ](#)
+## <span id="head-1"> *1. Introduction* </span> [       «🎯Back To Top»       ](#)
 The human perceptual system is a complex and multifaceted construct. The five basic senses of **hearing, touch, taste, smell, and vision** serve as primary channels of perception, allowing us to perceive and interpret most of the external stimuli encountered in this “blooming, buzzing confusion” world. These stimuli always come from **multiple events** spread out spatially and temporally distributed. 
 
 In other words, we constantly perceive the world in a “**multimodal**” manner, which combines different information channels to distinguish features within confusion, seamlessly integrates various sensations from multiple modalities and obtains knowledge through our experiences. 
 
-## <span id="head2"> *2. Background* </span> [       «🎯Back To Top»       ](#)
+## <span id="head-2"> *2. Background* </span> [       «🎯Back To Top»       ](#)
 ### <span id="head-dataset"> *2.1 Datasets* </span> [       «🎯Back To Top»       ](#)
 
 Table 1. **Chronological timeline of representative text-to-image datasets.** 
 
->*“Public”* includes a link to each dataset (if available✔) or paper (if not❌). *“Annotations”* denotes the number of text descriptions per image. *“Attrs”* denotes the total number of attributes in each dataset.
+>**“Public”** includes a link to each dataset (if available✔) or paper (if not❌).   
+>***“Annotations”*** denotes the number of text descriptions per image.   
+>***“Attrs”*** denotes the total number of attributes in each dataset.
 
 | Year | Dataset | Public | *Category* | *Image (Resolution)* | *Annotations* | *Attrs* | *Other Information* |
 | -------- | :-------- |  :------------: | :------------: | :------------: | :------------: | :------------: | :-------- |
@@ -82,12 +84,17 @@ The evaluation protocol is designed in a **5-Point** Likert manner, in which hum
 
 For **rare object combinations** that require common sense understanding or aim to **avoid bias related to race or gender**, human evaluation is even more important. 
 
-## <span id="head3"> *3. Generative Models* </span> [       «🎯Back To Top»       ](#)
+## <span id="head-3"> *3. Generative Models* </span> [       «🎯Back To Top»       ](#)
 
-**A comprehensive list of text-to-image approaches.** 
+<div align=center> 
+  
+**A comprehensive list of `text-to-image` approaches.** 
+
+</div>
+
 >The pioneering works in each development stage are `highlighted`. Text-to-face generation works are start with a emoji(👸).
 
-* <span id="head-gan"> **GAN** Model </span>
+### <span id="head-gan"> 3.1 **GAN** Model </span> [       «🎯Back To Top»       ](#)
   * **Conditional GAN-based**
     * 2016~2021: 
       * `Generative Adversarial Text to Image Synthesis` [[Paper](http://proceedings.mlr.press/v48/reed16.pdf)] [[Code](https://github.com/reedscot/icml2016)]
@@ -153,7 +160,7 @@ For **rare object combinations** that require common sense understanding or aim 
       * (BigGAN) FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization [[Paper](https://arxiv.org/abs/2112.01573)] [[Code](https://github.com/gnobitab/FuseDream)]
     * 2022:
       * (One-stage framework) Text to Image Generation with Semantic-Spatial Aware GAN [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Text_to_Image_Generation_With_Semantic-Spatial_Aware_GAN_CVPR_2022_paper.pdf)] [[Code](https://github.com/wtliao/text2image)]     
-* <span id="head-transformer"> **Autogressive** Model </span>
+### <span id="head-transformer"> 3.2 **Autogressive** Model </span> [       «🎯Back To Top»       ](#)
   * **Transformer-based**
     * 2021:
       * `Zero-Shot Text-to-Image Generation` [[Paper](https://arxiv.org/pdf/2102.12092.pdf)] [[Code](https://github.com/openai/DALL-E)] [[Blog](https://openai.com/blog/dall-e/)] [[Model Card](https://github.com/openai/DALL-E/blob/master/model_card.md)] [[Colab](https://colab.research.google.com/github/openai/DALL-E/blob/master/notebooks/usage.ipynb)] [[Code(Pytorch)](https://github.com/lucidrains/DALLE-pytorch)]
@@ -168,7 +175,7 @@ For **rare object combinations** that require common sense understanding or aim 
       * Text-to-Image Synthesis based on Object-Guided Joint-Decoding Transformer [[Paper](https://fengxianghe.github.io/paper/wu2022text.pdf)]
       * Autoregressive Image Generation using Residual Quantization [[Paper](https://arxiv.org/abs/2203.01941)] [[Code](https://github.com/kakaobrain/rq-vae-transformer)] 
       * Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors [[Paper](https://arxiv.org/abs/2203.13131)] [[Code](https://github.com/CasualGANPapers/Make-A-Scene)] [[The Little Red Boat Story](https://www.youtube.com/watch?v=N4BagnXzPXY)]
-* <span id="head-diffusion"> **Diffusion** Model </span>
+### <span id="head-diffusion"> 3.3 **Diffusion** Model </span> [       «🎯Back To Top»       ](#)
   * **Diffusion-based**
     * 2022:
       * `High-Resolution Image Synthesis with Latent Diffusion Models` [[Paper](https://arxiv.org/abs/2112.10752)] [[Code](https://github.com/CompVis/latent-diffusion)] [[Stable Diffusion Code](https://github.com/CompVis/stable-diffusion)]
@@ -191,6 +198,38 @@ For **rare object combinations** that require common sense understanding or aim 
       *  Adding Conditional Control to Text-to-Image Diffusion Models [[Paper](https://arxiv.org/abs/2302.05543)] [[Code](https://github.com/lllyasviel/ControlNet)] 
       *  Editing Implicit Assumptions in Text-to-Image Diffusion Models[[Paper](https://arxiv.org/abs/2303.08084)] [[Project](https://time-diffusion.github.io/)] [[Code](https://github.com/bahjat-kawar/time-diffusion)] 
 
-## <span id="head4"> *4. Generative Applications* </span> [       «🎯Back To Top»       ](#)
+## <span id="head-4"> *4. Generative Applications* </span> [       «🎯Back To Top»       ](#)
 
-## <span id="head5"> *5. Discussion* </span> [       «🎯Back To Top»       ](#)
+### <span id="head-T2I"> 4.1 Text-to-Image </span> [       «🎯Back To Top»       ](#)
+
+![Figure from paper](pic/Survey_CVPRW/Sec4_1_T2F.png)
+
+Figure 1. **Diverse text-to-face results generated from GAN-based / Diffusion-based / Transformer-based models.** 
+>Images in orange boxes are captured from original papers (a) [[zhou2021generative](https://ieeexplore.ieee.org/document/9666791)], (b) [[pinkney2022clip2latent](https://arxiv.org/abs/2210.02347v1)] and (c) [[li2022stylet2i](https://arxiv.org/abs/2203.15799)]; others are generated by a pre-trained model [[pinkney2022clip2latent](https://arxiv.org/abs/2210.02347v1)] [(b) left bottom row], [Dreamstudio](https://beta.dreamstudio.ai/generate) [(a-c) middle row] and [DALL-E 2](https://labs.openai.com/) [(a-c) right row] online platforms from textual descriptions. 
+
+**Please refer to [Section 3 (Generative Models)](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md#-3-generative-models---------back-to-top-------) for more details about text-to-image.**
+
+### <span id="head-T2X"> 4.2 Text-to-X </span> [       «🎯Back To Top»       ](#)
+
+![Figure from paper](pic/Survey_CVPRW/Sec4_2_T2X.png)
+
+Figure 2. **Selected representative samples on Text-to-X.** 
+>Images are captured from original papers ((a) [[ho2022imagen]()], (b)-Left [[xu2022dream3d]()], (b)-Right [[cite{poole2022dreamfusion]()], (c) [[tevet2022human]()]) and remade.
+
+### <span id="head-X2I"> 4.3 X-to-Image </span> [       «🎯Back To Top»       ](#)
+
+![Figure from paper](pic/Survey_CVPRW/Sec4_3_X2I.png)
+
+Figure 3. **Selected representative samples on X-to-Image.** 
+>Images are captured from original papers and remade. 
+
+>(a) *Layered Editing* [[bar2022text2live]()] (Left), *Recontextualization* [[ruiz2023dreambooth]()] (Middle), *Image Editing* [[brooks2022instructpix2pix]()] (Right).   
+>(b) *Context-Aware Generation* [[he2021context]()] (Left),  *Model Complex Scenes* [[yang2022modeling]()] (Right).   
+>(c) *Face Reconstruction* [[dado2022hyperrealistic]()] (Left), *High-resolution Image Reconstruction* [[takagi2022high]()] (Right).   
+>(d) *Speech to Image* [[wang2021generating]()] (Left), *Sound Guided Image Manipulation* [[lee2022robust]()] (Middle), *Robotic Painting* [[misra2023robot]()] (Right).   
+>*Legend*: **X excluding “Additional Input Image”**  (Blue dotted line box, top row). **Additional Input Image**  (Green box, middle row). **Ground Truth**  (Red box, middle row). **Generated / Edited / Reconstructed Image**  (Black box, bottom row).
+
+### <span id="head-multi"> 4.4 Multi Tasks </span> [       «🎯Back To Top»       ](#)
+
+
+## <span id="head-5"> *5. Discussion* </span> [       «🎯Back To Top»       ](#)
