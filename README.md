@@ -342,6 +342,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**, Xuhui Jia et al.  [[Paper](https://arxiv.org/abs/2304.02642)] 
      * (ICML 2023) **TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation**, Zhaoyan Liu et al.  [[Paper](https://arxiv.org/abs/2304.13742)] [[Code](https://github.com/layer6ai-labs/tr0n)] [[Hugging Face](https://huggingface.co/spaces/Layer6/TR0N)]
      * (ICLR 2023) [💬3D]**DreamFusion: Text-to-3D using 2D Diffusion**, Ben Poole et al.  [[Paper (arXiv)](https://arxiv.org/abs/2209.14988)] [[Paper (OpenReview)](https://openreview.net/forum?id=FjNys5c7VyY)] [[Project](https://dreamfusion3d.github.io/)] [[Short Read](https://www.louisbouchard.ai/dreamfusion/)]
      * (ICLR 2023) **Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**, Weixi Feng et al.  [[Paper (arXiv)](https://arxiv.org/abs/2212.05032)] [[Paper (OpenReview)](https://openreview.net/forum?id=PUIqjT4rzq7)] [[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
