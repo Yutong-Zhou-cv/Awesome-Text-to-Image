@@ -548,6 +548,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
 
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * ⭐⭐(CVPR 2023) **ImageBind: One Embedding Space To Bind Them All**, Rohit Girdhar et al. [[Paper](https://arxiv.org/abs/2305.05665)] [[Project](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)] [[Code](https://github.com/facebookresearch/ImageBind)] 
+         * 📚Image-to-Audio retrieval, Audio-to-Image retrieval, Text-to-Image+Audio, Audio+Image-to-Image, Audio-to-Image generation, Zero-shot text to audio retrieval and classification... 
        * ⭐⭐(CVPR 2023) **Scaling up GANs for Text-to-Image Synthesis**, Minguk Kang et al. [[Paper](https://arxiv.org/abs/2303.05511)] [[Project](https://mingukkang.github.io/GigaGAN/)] 
          * 📚Text-to-Image, Controllable image synthesis (Style Mixing, Prompt Interpolation, Prompt Mixing), Super Resolution (Text-conditioned, Unconditional)
        * (arXiv preprint 2023) **TextIR: A Simple Framework for Text-based Editable Image Restoration**, Yunpeng Bai et al. [[Paper](https://arxiv.org/abs/2302.14736)] [[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
