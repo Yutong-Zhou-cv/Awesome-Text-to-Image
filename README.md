@@ -737,6 +737,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) **Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**, Yuyang Zhao et al. [[Paper](https://arxiv.org/abs/2305.08850)] [[Code](https://github.com/Make-A-Protagonist/Make-A-Protagonist)] [[Project](https://make-a-protagonist.github.io/)] 
+         * 📚Image Editing, Background Editing, Text-to-Video Editing with Protagonist
        * ⭐⭐(CVPR 2023) **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**, Andreas Blattmann et al. [[Paper](https://arxiv.org/abs/2304.08818)] [[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
        * (arXiv preprint 2023) [💬Music Visualization] **Generative Disco: Text-to-Video Generation for Music Visualization**, Vivian Liu et al. [[Paper](https://arxiv.org/abs/2304.08551)] 
        * (arXiv preprint 2023) **Text-To-4D Dynamic Scene Generation**, Uriel Singer et al. [[Paper](https://arxiv.org/abs/2301.11280)] [[Project](https://make-a-video3d.github.io/)]
