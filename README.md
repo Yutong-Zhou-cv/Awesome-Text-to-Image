@@ -214,6 +214,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* **StableStudio**. [[Github](https://github.com/Stability-AI/StableStudio)] 
+    * > The open-source version of [DreamStudio](https://dreamstudio.ai/).
 * ⭐⭐**Stable Diffusion XL**. [[ClipDrop](https://clipdrop.co/stable-diffusion)] [[Website](https://stability.ai/blog/stable-diffusion-xl-beta-available-for-api-customers-and-dreamstudio-users)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
     * > Next-level photorealism capabilities; Enhanced image composition and face generation; Rich visuals and jaw-dropping aesthetics; Use of shorter prompts to create descriptive imagery; Greater capability to produce legible text.
     * > SDXL also has functionality that extends beyond just text-to-image prompting, including ***image-to-image prompting*** (inputting one image to get variations of that image), ***inpainting*** (reconstructing missing parts of an image) and ***outpainting*** (constructing a seamless extension of an existing image). 
