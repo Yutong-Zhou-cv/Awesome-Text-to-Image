@@ -345,6 +345,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **P+ : Extended Textual Conditioning in Text-to-Image Generation**, Andrey Voynov et al.  [[Paper](https://arxiv.org/abs/2303.09522)] [[Project](https://prompt-plus.github.io/)] 
      * (arXiv preprint 2023) **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**, Xuhui Jia et al.  [[Paper](https://arxiv.org/abs/2304.02642)] 
      * (ICML 2023) **TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation**, Zhaoyan Liu et al.  [[Paper](https://arxiv.org/abs/2304.13742)] [[Code](https://github.com/layer6ai-labs/tr0n)] [[Hugging Face](https://huggingface.co/spaces/Layer6/TR0N)]
      * (ICLR 2023) [💬3D]**DreamFusion: Text-to-3D using 2D Diffusion**, Ben Poole et al.  [[Paper (arXiv)](https://arxiv.org/abs/2209.14988)] [[Paper (OpenReview)](https://openreview.net/forum?id=FjNys5c7VyY)] [[Project](https://dreamfusion3d.github.io/)] [[Short Read](https://www.louisbouchard.ai/dreamfusion/)]
@@ -606,6 +607,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**, Yiyang Ma et al. [[Paper](https://arxiv.org/abs/2303.09319)] 
+       * (arXiv preprint 2023) [💬Video Editing] **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**, Chenyang Qi et al. [[Paper](https://arxiv.org/abs/2303.09535)] [[Code](https://github.com/ChenyangQiQi/FateZero)] [[Project](https://fate-zero-edit.github.io/)] [Hugging Face](https://huggingface.co/spaces/chenyangqi/FateZero)] 
        * (arXiv preprint 2023) **DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation**, Hong Chen et al. [[Paper](https://arxiv.org/abs/2305.03374)] 
        * (arXiv preprint 2023) [💬Image Editing] **Guided Image Synthesis via Initial Image Editing in Diffusion Model**, Jiafeng Mao et al. [[Paper](https://arxiv.org/abs/2305.03382)] 
        * (arXiv preprint 2023) [💬Image Editing] **Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**, Wenkai Dong et al. [[Paper](https://arxiv.org/abs/2305.04441)] 
