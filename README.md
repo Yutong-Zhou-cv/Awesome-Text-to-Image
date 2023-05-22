@@ -598,6 +598,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
    * <span id="head-APP"> **🛫Applications🛫** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Text Editing] **DiffUTE: Universal Text Editing Diffusion Model**, Haoxing Chen et al. [[Paper](https://arxiv.org/abs/2305.10825)] 
        * (arXiv preprint 2023) [💬Text Character Generation] **TextDiffuser: Diffusion Models as Text Painters**, Jingye Chen et al. [[Paper](https://arxiv.org/abs/2305.10855)] 
        * (CVPR 2023) [💬Open-Vocabulary Panoptic Segmentation] **Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**, Jiarui Xu et al. [[Paper](https://arxiv.org/abs/2303.04803)] [[Code](https://github.com/NVlabs/ODISE)] [Project](https://jerryxu.net/ODISE/)] [HuggingFace](https://huggingface.co/spaces/xvjiarui/ODISE)]
        * (arXiv preprint 2023) [💬Chinese Text Character Generation] **GlyphDraw: Learning to Draw Chinese Characters in Image Synthesis Models Coherently**, Jian Ma et al. [[Paper](https://arxiv.org/abs/2303.17870)] [[Project](https://1073521013.github.io/glyph-draw.github.io/)] 
