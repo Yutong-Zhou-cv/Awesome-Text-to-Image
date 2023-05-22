@@ -553,9 +553,13 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
 
    * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2305.11846)] [[Project](https://codi-gen.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
+         * 📚[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
+         * 📚[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
+         * 📚[Multiple Conditioning] Text + Audio → Image, Text + Image → Image, Text + Audio + Image → Image, Text + Audio → Video, Text + Image → Video, Video + Audio → Text, Image + Audio → Audio, Text + Image → Audio
        * ⭐⭐(CVPR 2023) **ImageBind: One Embedding Space To Bind Them All**, Rohit Girdhar et al. [[Paper](https://arxiv.org/abs/2305.05665)] [[Project](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)] [[Code](https://github.com/facebookresearch/ImageBind)] 
          * 📚Image-to-Audio retrieval, Audio-to-Image retrieval, Text-to-Image+Audio, Audio+Image-to-Image, Audio-to-Image generation, Zero-shot text to audio retrieval and classification... 
-       * ⭐⭐(CVPR 2023) **Scaling up GANs for Text-to-Image Synthesis**, Minguk Kang et al. [[Paper](https://arxiv.org/abs/2303.05511)] [[Project](https://mingukkang.github.io/GigaGAN/)] 
+       * ⭐(CVPR 2023) **Scaling up GANs for Text-to-Image Synthesis**, Minguk Kang et al. [[Paper](https://arxiv.org/abs/2303.05511)] [[Project](https://mingukkang.github.io/GigaGAN/)] 
          * 📚Text-to-Image, Controllable image synthesis (Style Mixing, Prompt Interpolation, Prompt Mixing), Super Resolution (Text-conditioned, Unconditional)
        * (arXiv preprint 2023) **TextIR: A Simple Framework for Text-based Editable Image Restoration**, Yunpeng Bai et al. [[Paper](https://arxiv.org/abs/2302.14736)] [[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
          * 📚Image Inpainting, Image Colorization, Image Super-resolution, Image Editing via Degradation
