@@ -345,6 +345,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) [💬Evaluation] **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**, Yujie Lu et al.  [[Paper](https://arxiv.org/abs/2305.11116)] [[Code](https://github.com/YujieLu10/LLMScore)] 
      * (arXiv preprint 2023) **P+ : Extended Textual Conditioning in Text-to-Image Generation**, Andrey Voynov et al.  [[Paper](https://arxiv.org/abs/2303.09522)] [[Project](https://prompt-plus.github.io/)] 
      * (arXiv preprint 2023) **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**, Xuhui Jia et al.  [[Paper](https://arxiv.org/abs/2304.02642)] 
      * (ICML 2023) **TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation**, Zhaoyan Liu et al.  [[Paper](https://arxiv.org/abs/2304.13742)] [[Code](https://github.com/layer6ai-labs/tr0n)] [[Hugging Face](https://huggingface.co/spaces/Layer6/TR0N)]
