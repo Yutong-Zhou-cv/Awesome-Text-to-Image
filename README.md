@@ -24,10 +24,26 @@
 ![Figure from paper](pic/Overview.png)
 > *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
 -->
+<!--
+## ⭐ Citation
+
+If you find this paper and repo helpful for your research, please cite it as below:
+
+```bibtex
+
+@inproceedings{zhou2021generative,
+  title={Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model},
+  author={Zhou, Yutong and Shimada, Nobutaka},
+  booktitle={2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)},
+  pages={01--08},
+  year={2021}
+}
+
+```
+-->
 
 ## 🎑 News
-* [23/04/12] **Content** of [Best Collection] is released.
-* [23/04/11] Create [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) list.
+* [23/05/26] 🔥 Add our survey paper "[**Vision + Language Applications: A Survey**](https://arxiv.org/abs/2305.14598)" and a special [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) list!
 * [23/04/04] "**Vision + Language Applications: A Survey**" was accepted by CVPRW2023.
 * [20/10/13] **Awesome-Text-to-Image** repo is created.
 
@@ -296,15 +312,15 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 ## <span id="head5"> *5. Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
-    * **Vision + Language Applications: A Survey** [[v1 (TBD)]()(CVPRW)] (2023.04) 
-    * **A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?** [[v1](https://arxiv.org/abs/2303.11717)(arXiv)] (2023.03) 
-    * **Text-to-image Diffusion Model in Generative AI: A Survey** [[v1](https://arxiv.org/abs/2303.07909)(arXiv)] (2023.03) 
-    * **A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT** [[v1](https://arxiv.org/abs/2303.04226)(arXiv)] (2023.03) 
-    * **ChatGPT is not all you need. A State of the Art Review of large Generative AI models** [[v1](https://arxiv.org/abs/2301.04655)(arXiv)] (2023.01) 
-    * **Text-to-Image Synthesis: A Comparative Study** [[v1](https://link.springer.com/chapter/10.1007/978-981-16-2275-5_14)(Digital Transformation Technology)] (2021.08) 
-    * **A survey on generative adversarial network-based text-to-image synthesis** [[v1](https://www.sciencedirect.com/science/article/pii/S0925231221006111)(Neurocomputing)] (2021.04) 
-    * **Adversarial Text-to-Image Synthesis: A Review** [[v1](https://arxiv.org/abs/2101.09983v1)(arXiv)] (2021.01) [[v2](https://www.sciencedirect.com/science/article/pii/S0893608021002823)(Neural Networks)] (2021.08)
-    * **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)(arXiv)] (2019.10) 
+    * (CVPRW 2023) **Vision + Language Applications: A Survey** [[v1](https://arxiv.org/abs/2305.14598)] (2023.05) 
+    * (arXiv 2023) **A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?** [[v1](https://arxiv.org/abs/2303.11717)] (2023.03) 
+    * (arXiv 2023) **Text-to-image Diffusion Model in Generative AI: A Survey** [[v1](https://arxiv.org/abs/2303.07909)] (2023.03) 
+    * (arXiv 2023) **A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT** [[v1](https://arxiv.org/abs/2303.04226)] (2023.03) 
+    * (arXiv 2023) **ChatGPT is not all you need. A State of the Art Review of large Generative AI models** [[v1](https://arxiv.org/abs/2301.04655)] (2023.01) 
+    * (Digital Transformation Technology 2021) **Text-to-Image Synthesis: A Comparative Study** [[v1](https://link.springer.com/chapter/10.1007/978-981-16-2275-5_14)] (2021.08) 
+    * (Neurocomputing 2021) **A survey on generative adversarial network-based text-to-image synthesis** [[v1](https://www.sciencedirect.com/science/article/pii/S0925231221006111)] (2021.04) 
+    * (Neural Networks 2021) **Adversarial Text-to-Image Synthesis: A Review** [[v1](https://arxiv.org/abs/2101.09983v1)(arXiv)] (2021.01) [[v2](https://www.sciencedirect.com/science/article/pii/S0893608021002823)] (2021.08)
+    * (arXiv 2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)] (2019.10) 
 
 * <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
     * (CVPR 2023) [💬 3D] **High-Fidelity 3D Face Generation from Natural Language Descriptions**, Menghua Wu et al. [[Paper](https://arxiv.org/abs/2305.03302)] [[Code](https://github.com/zhuhao-nju/describe3d)] [[Project](https://mhwu2017.github.io/)]
