@@ -615,6 +615,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) **Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**, Shihao Zhao et al. [[Paper](https://arxiv.org/abs/2305.16322v1)] [[Project](https://shihaozhaozsh.github.io/unicontrolnet/)]
        * (arXiv preprint 2023) **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**, Yiyang Ma et al. [[Paper](https://arxiv.org/abs/2303.09319)] 
        * (arXiv preprint 2023) [💬Video Editing] **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**, Chenyang Qi et al. [[Paper](https://arxiv.org/abs/2303.09535)] [[Code](https://github.com/ChenyangQiQi/FateZero)] [[Project](https://fate-zero-edit.github.io/)] [Hugging Face](https://huggingface.co/spaces/chenyangqi/FateZero)] 
        * (arXiv preprint 2023) **DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation**, Hong Chen et al. [[Paper](https://arxiv.org/abs/2305.03374)] 
