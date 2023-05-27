@@ -348,7 +348,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-CI"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
-    * (arXiv preprint 2023) [💬 Prompt Log Analysis] **A Prompt Log Analysis of Text-to-Image Generation Systems**, Yutong Xie et al.  [[Paper](https://arxiv.org/abs/2303.04587)] 
+    * (arXiv preprint 2023) [💬 Adversarial Robustness Analysis] **RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation With Natural Prompts**, Han Liu et al.  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.html)] 
     * (arXiv preprint 2023) [💬 Textual Inversion] **Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**, Anton Voronov et al.  [[Paper](https://arxiv.org/abs/2302.04841)] [[Code](https://github.com/yandex-research/DVAR)]
     * (arXiv preprint 2022) [💬 Interpretable Intervention] **Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations**, Jianhao Yuan et al.  [[Paper](https://arxiv.org/abs/2212.11237)]
     * (arXiv preprint 2022) [💬 Ethical Image Manipulation] **Judge, Localize, and Edit: Ensuring Visual Commonsense Morality for Text-to-Image Generation**, Seongbeom Park et al.  [[Paper](https://arxiv.org/abs/2212.03507)]
@@ -361,6 +361,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (CVPR 2023) [💬Stable Diffusion with Brain] **High-resolution image reconstruction with latent diffusion models from human brain activity**, Yu Takagi et al. [[Paper](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v1)] 
      * (arXiv preprint 2023) **BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing**, Dongxu Li et al.  [[Paper](https://arxiv.org/abs/2305.14720)] 
      * (arXiv preprint 2023) [💬Evaluation] **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**, Yujie Lu et al.  [[Paper](https://arxiv.org/abs/2305.11116)] [[Code](https://github.com/YujieLu10/LLMScore)] 
      * (arXiv preprint 2023) **P+ : Extended Textual Conditioning in Text-to-Image Generation**, Andrey Voynov et al.  [[Paper](https://arxiv.org/abs/2303.09522)] [[Project](https://prompt-plus.github.io/)] 
@@ -631,6 +632,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2023) **Text-Guided Unsupervised Latent Transformation for Multi-Attribute Image Manipulation**, Xiwen Wei et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Text-Guided_Unsupervised_Latent_Transformation_for_Multi-Attribute_Image_Manipulation_CVPR_2023_paper.html)] 
        * (arXiv preprint 2023) **Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**, Shihao Zhao et al. [[Paper](https://arxiv.org/abs/2305.16322v1)] [[Project](https://shihaozhaozsh.github.io/unicontrolnet/)]
        * (arXiv preprint 2023) **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**, Yiyang Ma et al. [[Paper](https://arxiv.org/abs/2303.09319)] 
        * (arXiv preprint 2023) [💬Video Editing] **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**, Chenyang Qi et al. [[Paper](https://arxiv.org/abs/2303.09535)] [[Code](https://github.com/ChenyangQiQi/FateZero)] [[Project](https://fate-zero-edit.github.io/)] [Hugging Face](https://huggingface.co/spaces/chenyangqi/FateZero)] 
