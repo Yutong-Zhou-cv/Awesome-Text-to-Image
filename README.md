@@ -635,6 +635,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) **MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**, Marco Bellagente et al. [[Paper](https://arxiv.org/abs/2305.15296)]
        * (CVPR 2023) **Text-Guided Unsupervised Latent Transformation for Multi-Attribute Image Manipulation**, Xiwen Wei et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Text-Guided_Unsupervised_Latent_Transformation_for_Multi-Attribute_Image_Manipulation_CVPR_2023_paper.html)] 
        * (arXiv preprint 2023) **Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**, Shihao Zhao et al. [[Paper](https://arxiv.org/abs/2305.16322v1)] [[Project](https://shihaozhaozsh.github.io/unicontrolnet/)]
        * (arXiv preprint 2023) **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**, Yiyang Ma et al. [[Paper](https://arxiv.org/abs/2303.09319)] 
