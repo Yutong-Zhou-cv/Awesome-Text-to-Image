@@ -362,6 +362,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * ⭐(arXiv preprint 2023) **StyleDrop: Text-to-Image Generation in Any Style**, Kihyuk Sohn et al.  [[Paper](https://arxiv.org/abs/2306.00983)] [[Project](https://styledrop.github.io/)]
      * ⭐⭐(arXiv preprint 2023) **Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models**, Xingqian Xu et al.  [[Paper](https://arxiv.org/abs/2305.16223)] [[Code](https://github.com/SHI-Labs/Prompt-Free-Diffusion)] [[Hugging Face](https://huggingface.co/spaces/shi-labs/Prompt-Free-Diffusion)]
      * (SIGGRAPH 2023) **Blended Latent Diffusion**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2206.02779)] [[Code](https://github.com/omriav/blended-latent-diffusion)] [[Project](https://omriavrahami.com/blended-latent-diffusion-page/)]
      * (CVPR 2023) [💬Controllable] **SpaText: Spatio-Textual Representation for Controllable Image Generation**, Omri Avrahami et al.  [[Paper](https://arxiv.org/abs/2211.14305)] [[Project](https://omriavrahami.com/spatext/)]
