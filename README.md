@@ -24,23 +24,22 @@
 ![Figure from paper](pic/Overview.png)
 > *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
 -->
-<!--
+
 ## ⭐ Citation
 
 If you find this paper and repo helpful for your research, please cite it as below:
 
 ```bibtex
 
-@inproceedings{zhou2021generative,
-  title={Generative Adversarial Network for Text-to-Face Synthesis and Manipulation with Pretrained BERT Model},
+@inproceedings{zhou2023vision+,
+  title={Vision+ Language Applications: A Survey},
   author={Zhou, Yutong and Shimada, Nobutaka},
-  booktitle={2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)},
-  pages={01--08},
-  year={2021}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={826--842},
+  year={2023}
 }
 
 ```
--->
 
 ## 🎑 News
 * [23/05/26] 🔥 Add our survey paper "[**Vision + Language Applications: A Survey**](https://arxiv.org/abs/2305.14598)" and a special [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) list!
