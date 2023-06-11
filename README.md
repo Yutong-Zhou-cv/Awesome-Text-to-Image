@@ -76,6 +76,7 @@ If you find this paper and repo helpful for your research, please cite it as bel
   * - [x] [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
   * - [x] [ANNA](#head-ANNA)
   * - [x] [Bento800-Text](#head-Bento)
+  * - [ ] [Others](#head-others)
 
 * - [ ] [4. Project](#head4)
 
@@ -226,6 +227,9 @@ A number of studies have been conducted on the text-to-image synthesis technique
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/10.1145/3552485.3554935)] [[Website](https://github.com/Yutong-Zhou-cv/Bento800_Dataset)] [[Download](https://drive.google.com/drive/folders/1_VvAbIzeuVew4fa98CcE11mB9SoAI3q-?usp=sharing)]
     * Number of images: 800 (**Training**: 766. **Testing**: 34.)
     * Descriptions per image: 9 Captions
+
+* <span id="head-others"> **Others** </span>
+    * (arXiv preprint 2023) **AGIQA-3K** [[Paper](https://arxiv.org/abs/2306.04717)] [[Dataset](https://github.com/lcysyzxdxc/AGIQA-3k-Database/tree/main)]
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
