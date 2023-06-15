@@ -230,6 +230,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-others"> **Others** </span>
     * (arXiv preprint 2023) **AGIQA-3K** [[Paper](https://arxiv.org/abs/2306.04717)] [[Dataset](https://github.com/lcysyzxdxc/AGIQA-3k-Database/tree/main)]
+    * (CVPR 2023) [💬 Video] **CelebV-Text** [[Paper](https://arxiv.org/abs/2303.14717)] [[Github](https://github.com/celebv-text/CelebV-Text)] [[Project](https://celebv-text.github.io/)]
+    * (ECCV 2022) [💬 Video] **CelebV-HQ** [[Paper](https://arxiv.org/abs/2207.12393)] [[Github](https://github.com/celebv-hq/CelebV-HQ)] [[Project](https://celebv-hq.github.io/)]
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
