@@ -643,6 +643,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) **Controlling Text-to-Image Diffusion by Orthogonal Finetuning**, Zeju Qiu et al. [[Paper](https://arxiv.org/abs/2306.07280)] [[Project](https://oft.wyliu.com/)] [[Code](https://github.com/Zeju1997/oft)]
        * (arXiv preprint 2023) [💬Reject Human Instructions] **Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation**, Zhiwei Zhang et al. [[Paper](https://arxiv.org/abs/2303.05983)] [[Project](https://matrix-alpha.github.io/)] [[Code](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat)]
        * (arXiv preprint 2023) **MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**, Marco Bellagente et al. [[Paper](https://arxiv.org/abs/2305.15296)]
        * (CVPR 2023) **Text-Guided Unsupervised Latent Transformation for Multi-Attribute Image Manipulation**, Xiwen Wei et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Text-Guided_Unsupervised_Latent_Transformation_for_Multi-Attribute_Image_Manipulation_CVPR_2023_paper.html)] 
