@@ -367,6 +367,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**, Aishwarya Agarwal et al.  [[Paper](https://arxiv.org/abs/2306.14544)]
      * (arXiv preprint 2023) [💬3D] **DreamHuman: Animatable 3D Avatars from Text**, Nikos Kolotouros et al.  [[Paper](https://arxiv.org/abs/2306.09329)] [[Project](https://dream-human.github.io/)]
      * (arXiv preprint 2023) [💬3D] **ATT3D: Amortized Text-to-3D Object Synthesis**, Jonathan Lorraine et al.  [[Paper](https://arxiv.org/abs/2306.07349)] [[Project](https://research.nvidia.com/labs/toronto-ai/ATT3D/)]
      * (arXiv preprint 2023) [💬Evaluation] **ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models**, Maitreya Patel et al.  [[Paper](https://arxiv.org/abs/2306.04695)] [[Code](https://github.com/ConceptBed/evaluations)] [[Project](https://conceptbed.github.io/)]
