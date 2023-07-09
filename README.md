@@ -368,6 +368,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     *  (arXiv preprint 2023) **Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**, Shuyu Yang et al.  [[Paper](https://arxiv.org/abs/2306.02898)] [[Code](https://github.com/Shuyu-XJTU/APTM)] [[Project](https://www.zdzheng.xyz/publication/Towards-2023)]
      * (arXiv preprint 2023) **Synthesizing Artistic Cinemagraphs from Text**, Aniruddha Mahapatra et al.  [[Paper](https://arxiv.org/abs/2306.02236)] [[Code](https://github.com/text2cinemagraph/artistic-cinemagraph)] [[Project](https://text2cinemagraph.github.io/website/)]
      * (arXiv preprint 2023) **Detector Guidance for Multi-Object Text-to-Image Generation**, Luping Liu et al.  [[Paper](https://arxiv.org/abs/2306.02236)]
      * (arXiv preprint 2023) **A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**, Aishwarya Agarwal et al.  [[Paper](https://arxiv.org/abs/2306.14544)]
