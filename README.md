@@ -235,6 +235,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* **Stable Doodle**. [[ClipDrop](https://clipdrop.co/stable-doodle)] 
+    * > Transform your doodles into real images in seconds.
 * **StableStudio**. [[Github](https://github.com/Stability-AI/StableStudio)] 
     * > The open-source version of [DreamStudio](https://dreamstudio.ai/).
 * ⭐⭐**Stable Diffusion XL**. [[ClipDrop](https://clipdrop.co/stable-diffusion)] [[Website](https://stability.ai/blog/stable-diffusion-xl-beta-available-for-api-customers-and-dreamstudio-users)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
