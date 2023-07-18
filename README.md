@@ -63,6 +63,7 @@ If you find this paper and repo helpful for your research, please cite it as bel
   * - [x] [CLIPScore](#head-clipscore)
   * - [x] [Mutual Information Divergence (MID)](#head-MID)
   * - [x] [PickScore](#head-PickScore)
+  * - [x] [HPS v2](#head-HPSv2)
   
   
 * - [ ] [3. Datasets](#head3)  
@@ -138,6 +139,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
 
 * <span id="head-PickScore"> PickScore </span> [[Paper](https://arxiv.org/abs/2305.01569)] [[Python Code](https://huggingface.co/yuvalkirstain/PickScore_v1)]
 
+  <span id="head-HPSv2"> Human Preference Score v2 (HPS v2) </span> [[Paper](https://arxiv.org/abs/2306.09341)] [[Python Code](https://github.com/tgxs002/HPSv2)]
+
 ## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
     
 * <span id="head-Flower"> **Oxford-102 Flower** </span>
@@ -212,7 +215,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
   
   DeepFashion-MultiModal is a large-scale high-quality human dataset. Human images are annotated with **rich multi-modal labels**, including human parsing labels, keypoints, densepose, fine-grained attributes and textual descriptions.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2205.15996.pdf)] [[Website](https://github.com/yumingj/DeepFashion-MultiModal)] [[Download](https://drive.google.com/drive/folders/1An2c_ZCkeGmhJg0zUjtZF46vyJgQwIr2?usp=sharing)]
-    * Number of images: 44,096, including 12,701 full body images
+    * Number of images: 44,096, including 12,701 full-body images
     * Descriptions per image: 1 Caption
 
 * <span id="head-ANNA"> **ANNA** </span>
@@ -371,7 +374,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
-     *  (arXiv preprint 2023) **Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**, Shuyu Yang et al.  [[Paper](https://arxiv.org/abs/2306.02898)] [[Code](https://github.com/Shuyu-XJTU/APTM)] [[Project](https://www.zdzheng.xyz/publication/Towards-2023)]
+     * (arXiv preprint 2023) [💬Human Preference Evaluation] **Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis**, Xiaoshi Wu et al. [[Paper](https://arxiv.org/abs/2306.09341)] [[Code](https://github.com/tgxs002/HPSv2)]
+     * (arXiv preprint 2023) **Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**, Shuyu Yang et al.  [[Paper](https://arxiv.org/abs/2306.02898)] [[Code](https://github.com/Shuyu-XJTU/APTM)] [[Project](https://www.zdzheng.xyz/publication/Towards-2023)]
      * (arXiv preprint 2023) **Synthesizing Artistic Cinemagraphs from Text**, Aniruddha Mahapatra et al.  [[Paper](https://arxiv.org/abs/2306.02236)] [[Code](https://github.com/text2cinemagraph/artistic-cinemagraph)] [[Project](https://text2cinemagraph.github.io/website/)]
      * (arXiv preprint 2023) **Detector Guidance for Multi-Object Text-to-Image Generation**, Luping Liu et al.  [[Paper](https://arxiv.org/abs/2306.02236)]
      * (arXiv preprint 2023) **A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**, Aishwarya Agarwal et al.  [[Paper](https://arxiv.org/abs/2306.14544)]
