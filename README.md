@@ -657,6 +657,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (ACM Transactions on Graphics 2023) **CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**, Ahmet Canberk Baykal et al. [[Paper](https://arxiv.org/abs/2307.08397)] 
        * (arXiv preprint 2023) ⭐⭐**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**, Yuwei Guo et al. [[Paper](https://arxiv.org/abs/2307.04725)] [[Project](https://animatediff.github.io/)] [[Code](https://github.com/guoyww/animatediff/)]
        * (ICLR 2023) **DiffEdit: Diffusion-based semantic image editing with mask guidance**, Guillaume Couairon et al. [[Paper](https://arxiv.org/abs/2210.11427v1)] 
        * (arXiv preprint 2023) **Controlling Text-to-Image Diffusion by Orthogonal Finetuning**, Zeju Qiu et al. [[Paper](https://arxiv.org/abs/2306.07280)] [[Project](https://oft.wyliu.com/)] [[Code](https://github.com/Zeju1997/oft)]
