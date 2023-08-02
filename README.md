@@ -785,6 +785,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
    * <span id="head-T2M"> **Text → 3D/Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Text → 3D] **HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation**, Jinbo Wu et al.  [[Paper](https://arxiv.org/abs/2307.16183)] 
        * (arXiv preprint 2023) [💬Text → 3D] **T2TD: Text-3D Generation Model based on Prior Knowledge Guidance**, Weizhi Nie et al.  [[Paper](https://arxiv.org/abs/2305.15753)] 
        * (arXiv preprint 2023) [💬Text → 3D] **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**, Zhengyi Wang et al.  [[Paper](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] 
        * (arXiv preprint 2023) [💬Text+Mesh → Mesh] **X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance**, Yiwei Ma et al.  [[Paper](https://arxiv.org/abs/2303.15764)] [[Project](https://xmu-xiaoma666.github.io/Projects/X-Mesh/)] [[Code](https://github.com/xmu-xiaoma666/X-Mesh)] 
