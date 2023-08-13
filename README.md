@@ -114,9 +114,9 @@ If you find this paper and repo helpful for your research, please cite it as bel
  ## <span id="head1"> *1. Description* </span>
 
 * In the last few decades, the fields of Computer Vision (CV) and Natural Language Processing (NLP) have been made several major technological breakthroughs in deep learning research. Recently, researchers appear interested in combining semantic information and visual information in these traditionally independent fields. 
-A number of studies have been conducted on the text-to-image synthesis techniques that transfer input textual description (keywords or sentences) into realistic images.
+A number of studies have been conducted on text-to-image synthesis techniques that transfer input textual descriptions (keywords or sentences) into realistic images.
 
-* Papers, codes and datasets for the text-to-image task are available here.
+* Papers, codes, and datasets for the text-to-image task are available here.
 
 >🐌 Markdown Format:
 > * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
@@ -658,6 +658,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬3D] **AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**, Huichao Zhang et al. [[Paper](https://arxiv.org/abs/2308.03610)] [[Project](https://avatarverse3d.github.io/)] 
        * (ACM Transactions on Graphics 2023) **CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**, Ahmet Canberk Baykal et al. [[Paper](https://arxiv.org/abs/2307.08397)] 
        * (arXiv preprint 2023) ⭐⭐**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**, Yuwei Guo et al. [[Paper](https://arxiv.org/abs/2307.04725)] [[Project](https://animatediff.github.io/)] [[Code](https://github.com/guoyww/animatediff/)]
        * (ICLR 2023) **DiffEdit: Diffusion-based semantic image editing with mask guidance**, Guillaume Couairon et al. [[Paper](https://arxiv.org/abs/2210.11427v1)] 
