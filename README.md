@@ -752,6 +752,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
    * <span id="head-L2I"> **Layout/Semantic Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Text→Layout→Image] **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et al. [[Paper](https://arxiv.org/abs/2302.04850)]
        * (CVPR 2023) [💬Mask+Text→Image] **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et al.  [[Paper](https://arxiv.org/abs/2211.11742)] [[Demo](https://forms.microsoft.com/pages/responsepage.aspx?id=Wht7-jR7h0OUrtLBeN7O4fEq8XkaWWJBhiLWWMELo2NUMjJYS0FDS0RISUVBUllMV0FRSzNCOTFTQy4u)]
        * (CVPR 2023) **Freestyle Layout-to-Image Synthesis**, Han Xue et al. [[Paper](https://arxiv.org/abs/2303.14412)] [[Code](https://github.com/essunny310/FreestyleNet)]
        * (CVPR 2023) **LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**, Guangcong Zheng et al. [[Paper](https://arxiv.org/abs/2303.17189)] [[Code](https://github.com/ZGCTroy/LayoutDiffusion)]
