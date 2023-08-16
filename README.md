@@ -55,36 +55,36 @@ If you find this paper and repo helpful for your research, please cite it as bel
 * - [x] [1. Description](#head1)
 
 * - [ ] [2. Quantitative Evaluation Metrics](#head2)
-  * - [x] [Inception Score (IS)](#head-IS)
-  * - [x] [Fréchet Inception Distance (FID)](#head-FID)  
-  * - [x] [R-precision](#head-R)
-  * - [x] [L₂ error](#head-L2)
-  * - [x] [Learned Perceptual Image Patch Similarity (LPIPS)](#head-LPIPS)
+  * - [x] [Inception Score (IS)](#head-is)
+  * - [x] [Fréchet Inception Distance (FID)](#head-fid)  
+  * - [x] [R-precision](#head-r)
+  * - [x] [L₂ error](#head-l2)
+  * - [x] [Learned Perceptual Image Patch Similarity (LPIPS)](#head-lpips)
   * - [x] [CLIPScore](#head-clipscore)
-  * - [x] [Mutual Information Divergence (MID)](#head-MID)
-  * - [x] [PickScore](#head-PickScore)
-  * - [x] [HPS v2](#head-HPSv2)
+  * - [x] [Mutual Information Divergence (MID)](#head-mid)
+  * - [x] [PickScore](#head-pickscore)
+  * - [x] [HPS v2](#head-hpsv2)
   
   
 * - [ ] [3. Datasets](#head3)  
-  * - [x] [Oxford-102 Flower](#head-Flower)
-  * - [x] [Caltech-UCSD Bird (CUB)](#head-CUB)
-  * - [x] [MS-COCO](#head-COCO)
-  * - [x] [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
-  * - [x] [CelebA-Dialog](#head-CelebA-Dialog)
-  * - [x] [FFHQ-Text](#head-FFHQ-Text)
-  * - [x] [CelebAText-HQ](#head-CelebAText-HQ)
-  * - [x] [DeepFashion-MultiModal](#head-DeepFashion-MultiModal)
-  * - [x] [ANNA](#head-ANNA)
-  * - [x] [Bento800-Text](#head-Bento)
+  * - [x] [Oxford-102 Flower](#head-flower)
+  * - [x] [Caltech-UCSD Bird (CUB)](#head-cub)
+  * - [x] [MS-COCO](#head-coco)
+  * - [x] [Multi-Modal-CelebA-HQ](#head-mmdata)
+  * - [x] [CelebA-Dialog](#head-celebad)
+  * - [x] [FFHQ-Text](#head-ffhqtext)
+  * - [x] [CelebAText-HQ](#head-celebatext)
+  * - [x] [DeepFashion-MultiModal](#head-deepfashion)
+  * - [x] [ANNA](#head-anna)
+  * - [x] [Bento800-Text](#head-bento)
   * - [ ] [Others](#head-others)
 
 * - [ ] [4. Project](#head4)
 
 * - [ ] [5. Paper With Code](#head5)
-  * - [ ] [Survey](#head-Survey)
-  * - [ ] [Text to Face👨🏻🧒👧🏼🧓🏽](#head-T2F)
-  * - [ ] [Compounding Issues🤔](#head-CI)
+  * - [ ] [Survey](#head-survey)
+  * - [ ] [Text to Face👨🏻🧒👧🏼🧓🏽](#head-t2f)
+  * - [ ] [Compounding Issues🤔](#head-ci)
   * - [ ] [2023](#head-2023)
   * - [x] [2022](#head-2022)
   * - [x] [2021](#head-2021)
@@ -95,19 +95,19 @@ If you find this paper and repo helpful for your research, please cite it as bel
   * - [x] [2016](#head-2016)
   
 * - [ ] [6. Other Related Works](#head6)
-  * - [ ] [📝Prompt Engineering📝](#head-PE)
-  * - [ ] [⭐Multimodality⭐](#head-MM)
-  * - [ ] [🛫Applications🛫](#head-APP)
-  * - [ ] [Text+Image/Video → Image/Video](#head-TI2I)
-  * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ATI2I)
-  * - [ ] [Layout/Semantic Mask → Image](#head-L2I)
-  * - [ ] [Label-set → Semantic maps](#head-L2S)
-  * - [ ] [Speech → Image](#head-S2I)
-  * - [ ] [Scene Graph → Image](#head-SG2I)
-  * - [ ] [Text → Visual Retrieval](#head-T2VR)
-  * - [ ] [Text → Motion/Shape/Mesh/Object...](#head-T2M)
-  * - [ ] [Text → Video](#head-T2V)
-  * - [ ] [Text → Music](#head-T2Mu)
+  * - [ ] [📝Prompt Engineering📝](#head-pe)
+  * - [ ] [⭐Multimodality⭐](#head-mm)
+  * - [ ] [🛫Applications🛫](#head-app)
+  * - [ ] [Text+Image/Video → Image/Video](#head-ti2i)
+  * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ati2i)
+  * - [ ] [Layout/Semantic Mask → Image](#head-l2i)
+  * - [ ] [Label-set → Semantic maps](#head-l2s)
+  * - [ ] [Speech → Image](#head-s2i)
+  * - [ ] [Scene Graph → Image](#head-sg2i)
+  * - [ ] [Text → Visual Retrieval](#head-t2vr)
+  * - [ ] [Text → Motion/Shape/Mesh/Object...](#head-t2m)
+  * - [ ] [Text → Video](#head-t2v)
+  * - [ ] [Text → Music](#head-t2music)
 
 * [*Contact Me*](#head7)
 
@@ -123,36 +123,36 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
  ## <span id="head2"> *2. Quantitative Evaluation Metrics* </span> [       «🎯Back To Top»       ](#)
 
-* <span id="head-IS"> Inception Score (IS) </span> [[Paper](https://arxiv.org/pdf/1606.03498.pdf)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)] [[Ref.Code(AttnGAN)](https://github.com/taoxugit/AttnGAN)]
+* <span id="head-is"> Inception Score (IS) </span> [[Paper](https://arxiv.org/pdf/1606.03498.pdf)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)] [[Ref.Code(AttnGAN)](https://github.com/taoxugit/AttnGAN)]
 
-* <span id="head-FID"> Fréchet Inception Distance (FID) </span> [[Paper](https://papers.nips.cc/paper/7240-gans-trained-by-a-two-time-scale-update-rule-converge-to-a-local-nash-equilibrium.pdf)] [[Python Code (Pytorch)](https://github.com/mseitzer/pytorch-fid)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)] [[Ref.Code(DM-GAN)](https://github.com/MinfengZhu/DM-GAN)]
+* <span id="head-fid"> Fréchet Inception Distance (FID) </span> [[Paper](https://papers.nips.cc/paper/7240-gans-trained-by-a-two-time-scale-update-rule-converge-to-a-local-nash-equilibrium.pdf)] [[Python Code (Pytorch)](https://github.com/mseitzer/pytorch-fid)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)] [[Ref.Code(DM-GAN)](https://github.com/MinfengZhu/DM-GAN)]
 
-* <span id="head-R"> R-precision </span> [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)] [[Ref.Code(CPGAN)](https://github.com/dongdongdong666/CPGAN)]
+* <span id="head-r"> R-precision </span> [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)] [[Ref.Code(CPGAN)](https://github.com/dongdongdong666/CPGAN)]
 
-* <span id="head-L2"> L<sub>2</sub> error </span> [[Paper](https://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)]
+* <span id="head-l2"> L<sub>2</sub> error </span> [[Paper](https://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)]
 
-* <span id="head-LPIPS"> Learned Perceptual Image Patch Similarity (LPIPS) </span> [[Paper](https://arxiv.org/abs/1801.03924)] [[Python Code](https://github.com/richzhang/PerceptualSimilarity)]
+* <span id="head-lpips"> Learned Perceptual Image Patch Similarity (LPIPS) </span> [[Paper](https://arxiv.org/abs/1801.03924)] [[Python Code](https://github.com/richzhang/PerceptualSimilarity)]
 
 * <span id="head-clipscore"> CLIPScore </span> [[Paper](https://arxiv.org/abs/2104.08718)] [[Python Code](https://github.com/jmhessel/clipscore)]
 
-* <span id="head-MID"> MID </span> [[Paper](https://openreview.net/forum?id=wKd2XtSRsjl)] [[Python Code](https://github.com/naver-ai/mid.metric)]
+* <span id="head-mid"> MID </span> [[Paper](https://openreview.net/forum?id=wKd2XtSRsjl)] [[Python Code](https://github.com/naver-ai/mid.metric)]
 
-* <span id="head-PickScore"> PickScore </span> [[Paper](https://arxiv.org/abs/2305.01569)] [[Python Code](https://huggingface.co/yuvalkirstain/PickScore_v1)]
+* <span id="head-pickscore"> PickScore </span> [[Paper](https://arxiv.org/abs/2305.01569)] [[Python Code](https://huggingface.co/yuvalkirstain/PickScore_v1)]
 
-  <span id="head-HPSv2"> Human Preference Score v2 (HPS v2) </span> [[Paper](https://arxiv.org/abs/2306.09341)] [[Python Code](https://github.com/tgxs002/HPSv2)]
+  <span id="head-hpsv2"> Human Preference Score v2 (HPS v2) </span> [[Paper](https://arxiv.org/abs/2306.09341)] [[Python Code](https://github.com/tgxs002/HPSv2)]
 
 ## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
     
-* <span id="head-Flower"> **Oxford-102 Flower** </span>
+* <span id="head-flower"> **Oxford-102 Flower** </span>
 
-  Oxford-102 Flower is a 102 category dataset, consisting of 102 flower categories. The flowers are chosen to be flower commonly occurring in the United Kingdom. The images have large scale, pose and light variations. 
+  Oxford-102 Flower is a 102-category dataset, consisting of 102 flower categories. The flowers are chosen to be flowers commonly occurring in the United Kingdom. The images have large scale, pose and light variations. 
   * **Detailed information (Images):**  ⇒ [[Paper](http://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/nilsback08.pdf)] [[Website](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)]
     * Number of different categories: 102 (**Training**: 82 categories. **Testing**: 20 categories.)
     * Number of flower images: 8,189
   * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Download](https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view?usp=sharing&resourcekey=0-Av8zFbeDDvNcF1sSjDR32w)]
     * Descriptions per image: 10 Captions
  
-* <span id="head-CUB"> **Caltech-UCSD Bird(CUB)** </span>
+* <span id="head-cub"> **Caltech-UCSD Bird(CUB)** </span>
 
   Caltech-UCSD Birds-200-2011 (CUB-200-2011) is an extended version of the CUB-200 dataset, with roughly double the number of images per class and new part location annotations.
   * **Detailed information (Images):**  ⇒ [[Paper](http://www.vision.caltech.edu/visipedia/papers/CUB_200_2011.pdf)] [[Website](http://www.vision.caltech.edu/datasets/cub_200_2011/)]
@@ -162,7 +162,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
   * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Website](https://drive.google.com/file/d/0B0ywwgffWnLLZW9uVHNjb2JmNlE/view)]
     * Descriptions per image: 10 Captions
 
-* <span id="head-COCO"> **MS-COCO** </span>
+* <span id="head-coco"> **MS-COCO** </span>
 
   COCO is a large-scale object detection, segmentation, and captioning dataset.
   * **Detailed information (Images):**  ⇒ [[Paper](https://arxiv.org/pdf/1405.0312.pdf)] [[Website](https://cocodataset.org/#overview)]
@@ -171,7 +171,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
   * **Detailed information (Text Descriptions):** ⇒ [[Paper](https://arxiv.org/pdf/1405.0312.pdf)] [[Download](https://drive.google.com/file/d/1GOEl9lxgSsWUWOXkZZrch08GgPADze7U/view?usp=sharing)]
     * Descriptions per image: 5 Captions
     
-* <span id="head-Multi-Modal-CelebA-HQ"> **Multi-Modal-CelebA-HQ** </span>
+* <span id="head-mmdata"> **Multi-Modal-CelebA-HQ** </span>
 
   Multi-Modal-CelebA-HQ is a large-scale face image dataset for text-to-image-generation, text-guided image manipulation, sketch-to-image generation, GANs for face generation and editing, image caption, and VQA.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2012.03308.pdf)] [[Website](https://github.com/weihaox/Multi-Modal-CelebA-HQ-Dataset)] [[Download](https://drive.google.com/drive/folders/1eVrGKfkbw7bh9xPcX8HJa-qWQTD9aWvf)]
@@ -184,7 +184,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
   * **Detailed information (Image with transparent background):** 
     * Not fully uploaded
 
-* <span id="head-CelebA-Dialog"> **CelebA-Dialog** </span>
+* <span id="head-celebad"> **CelebA-Dialog** </span>
 
   CelebA-Dialog is a large-scale visual-language face dataset. It has two properties:
 (1) Facial images are annotated with **rich fine-grained labels**, which classify one attribute into multiple degrees according to its semantic meaning.
@@ -195,7 +195,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
     * 5 fine-grained attributes annotations per image: Bangs, Eyeglasses, Beard, Smiling, and Age
 
 
-* <span id="head-FFHQ-Text"> **FFHQ-Text** </span>
+* <span id="head-ffhqtext"> **FFHQ-Text** </span>
 
   FFHQ-Text is a small-scale face image dataset with large-scale facial attributes, designed for text-to-face generation & manipulation, text-guided facial image manipulation, and other vision-related tasks.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481026)] [[Website](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)] [[Download](https://forms.gle/f7oMXD3g9BgdgEUd7)]
@@ -204,27 +204,27 @@ A number of studies have been conducted on text-to-image synthesis techniques th
     * 13 multi-valued facial element groups from coarse to fine.
   * **Detailed information (BBox):** ⇒ [[Website](https://www.robots.ox.ac.uk/~vgg/software/via/)]
 
-* <span id="head-CelebAText-HQ"> **CelebAText-HQ** </span>
+* <span id="head-celebAtext"> **CelebAText-HQ** </span>
 
   CelebAText-HQ is a large-scale face image dataset with large-scale facial attributes, designed for text-to-face generation.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475391)] [[Website](https://github.com/cripac-sjx/SEA-T2F)] [[Download](https://drive.google.com/drive/folders/1IAb_iy6-soEGQWhbgu6cQODsIUJZpahC)]
     * Number of images (from Celeba-HQ): 15010 (**Training**: 13,710. **Testing**: 1300.)
     * Descriptions per image: 10 Captions
 
-* <span id="head-DeepFashion-MultiModal"> **DeepFashion-MultiModal** </span>
+* <span id="head-deepfashion"> **DeepFashion-MultiModal** </span>
   
   DeepFashion-MultiModal is a large-scale high-quality human dataset. Human images are annotated with **rich multi-modal labels**, including human parsing labels, keypoints, densepose, fine-grained attributes and textual descriptions.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2205.15996.pdf)] [[Website](https://github.com/yumingj/DeepFashion-MultiModal)] [[Download](https://drive.google.com/drive/folders/1An2c_ZCkeGmhJg0zUjtZF46vyJgQwIr2?usp=sharing)]
     * Number of images: 44,096, including 12,701 full-body images
     * Descriptions per image: 1 Caption
 
-* <span id="head-ANNA"> **ANNA** </span>
+* <span id="head-anna"> **ANNA** </span>
 
   ANNA is an Abstractive News captioNs dAtaset extracted from online news articles in a variety of different contexts. The generated images are judged on the basis of contextual relevance, visual quality, and perceptual similarity to ground-truth image-caption pairs.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2301.02160)] [[Download](https://github.com/aashish2000/ANNA)]
     * Number of image-text pairs (from The New York Times): 29625 (**Training**: 17897. **Validation**: 1622. **Testing**: 1649.)
 
-* <span id="head-Bento"> **Bento800-Text** </span>
+* <span id="head-bento"> **Bento800-Text** </span>
 
   Bento800 is the first manually annotated synthetic box lunch presentation dataset with diverse annotations(BBox, Segmentation, Labels... ) for novel aesthetic box lunch presentation design.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/10.1145/3552485.3554935)] [[Website](https://github.com/Yutong-Zhou-cv/Bento800_Dataset)] [[Download](https://drive.google.com/drive/folders/1_VvAbIzeuVew4fa98CcE11mB9SoAI3q-?usp=sharing)]
@@ -267,7 +267,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 * **craiyon(~~DALL·E Mini~~)**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)] [[Homepage](https://www.craiyon.com/)] [[min(DALL·E)](https://github.com/kuprel/min-dalle)]
     * >A free, open-source AI that produces amazing images from text inputs. AI model drawing images from any prompt!
 * **Disco Diffusion**. [[Github](https://github.com/alembics/disco-diffusion)] [[Colab](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)]
-    * >A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
+    * >A Frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
 * **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
     * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
 * **Text2Art**. [[Try it now!](https://text2art.com/)] [[Github](https://github.com/mfrashad/text2art)] [[Blog](https://towardsdatascience.com/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f)] 
@@ -321,7 +321,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 ## <span id="head5"> *5. Paper With Code* </span>
 
-* <span id="head-Survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
+* <span id="head-survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
     * (CVPRW 2023) **Vision + Language Applications: A Survey** [[v1](https://arxiv.org/abs/2305.14598)] (2023.05) 
     * (arXiv 2023) **A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?** [[v1](https://arxiv.org/abs/2303.11717)] (2023.03) 
     * (arXiv 2023) **Text-to-image Diffusion Model in Generative AI: A Survey** [[v1](https://arxiv.org/abs/2303.07909)] (2023.03) 
@@ -332,7 +332,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (Neural Networks 2021) **Adversarial Text-to-Image Synthesis: A Review** [[v1](https://arxiv.org/abs/2101.09983v1)(arXiv)] (2021.01) [[v2](https://www.sciencedirect.com/science/article/pii/S0893608021002823)] (2021.08)
     * (arXiv 2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)] (2019.10) 
 
-* <span id="head-T2F"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
+* <span id="head-t2f"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
     * (SIGGRAPH 2023) [💬 3D] **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**, Longwen Zhang et al. [[Paper](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)] [[HuggingFace](https://huggingface.co/spaces/DEEMOSTECH/ChatAvatar)]
     * (CVPR 2023) [💬 3D] **High-Fidelity 3D Face Generation from Natural Language Descriptions**, Menghua Wu et al. [[Paper](https://arxiv.org/abs/2305.03302)] [[Code](https://github.com/zhuhao-nju/describe3d)] [[Project](https://mhwu2017.github.io/)]
     * (CVPR 2023) **Collaborative Diffusion for Multi-Modal Face Generation and Editing**, Ziqi Huang et al. [[Paper](https://arxiv.org/abs/2304.10530v1)] [[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)] [[Project](https://ziqihuangg.github.io/projects/collaborative-diffusion.html)]
@@ -358,7 +358,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (WACV 2021) **Faces a la Carte: Text-to-Face Generation via Attribute Disentanglement**, Tianren Wang et al. [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Faces_a_la_Carte_Text-to-Face_Generation_via_Attribute_Disentanglement_WACV_2021_paper.pdf)] 
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
-* <span id="head-CI"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+* <span id="head-ci"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
     * (ACL 2023) [💬 Bias] **A Multi-dimensional study on Bias in Vision-Language models**, Gabriele Ruggeri et al.  [[Paper](https://aclanthology.org/2023.findings-acl.403/)]
     * (FAACT 2023) [💬 Demographic Stereotypes] **Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale**, Federico Bianchi et al.  [[Paper](https://dl.acm.org/doi/abs/10.1145/3593013.3594095)]
     * (arXiv preprint 2023) [💬 Robustness] **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks**, Hongcheng Gao et al.  [[Paper](https://arxiv.org/abs/2306.13103)] 
@@ -591,13 +591,13 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 
 ## <span id="head6"> *6. Other Related Works* </span>
-   * <span id="head-PE"> **📝Prompt Engineering📝** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-pe"> **📝Prompt Engineering📝** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] [[Hugging Face](https://huggingface.co/spaces/microsoft/Promptist)] 
        * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
        * (arXiv preprint 2022) **A Taxonomy of Prompt Modifiers for Text-To-Image Generation**, Jonas Oppenlaender [[Paper](https://arxiv.org/abs/2204.13988)] 
        * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
 
-   * <span id="head-MM"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-mm"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
        * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2305.11846)] [[Project](https://codi-gen.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
          * 📚[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
          * 📚[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
@@ -645,8 +645,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2021) [💬Semantic Diffusion Guidance] **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et al. [[Paper](https://arxiv.org/abs/2112.05744)] [[Project](https://xh-liu.github.io/sdg/)] 
          * 📚Text-To-Image, Image-To-Image, Text+Image → Image 
 
-
-   * <span id="head-APP"> **🛫Applications🛫** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-app"> **🛫Applications🛫** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) [💬Text Editing] **DiffUTE: Universal Text Editing Diffusion Model**, Haoxing Chen et al. [[Paper](https://arxiv.org/abs/2305.10825)] 
        * (arXiv preprint 2023) [💬Text Character Generation] **TextDiffuser: Diffusion Models as Text Painters**, Jingye Chen et al. [[Paper](https://arxiv.org/abs/2305.10855)] 
        * (CVPR 2023) [💬Open-Vocabulary Panoptic Segmentation] **Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**, Jiarui Xu et al. [[Paper](https://arxiv.org/abs/2303.04803)] [[Code](https://github.com/NVlabs/ODISE)] [Project](https://jerryxu.net/ODISE/)] [HuggingFace](https://huggingface.co/spaces/xvjiarui/ODISE)]
@@ -657,7 +656,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (SIGGRAPH Asia 2022) [💬Text+Speech → Gesture] **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**, Tenglong Ao et al. [[Paper](https://arxiv.org/abs/2210.01448)] [[Code](https://github.com/Aubrey-ao/HumanBehaviorAnimation)]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
-   * <span id="head-TI2I"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) [💬3D] **AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**, Huichao Zhang et al. [[Paper](https://arxiv.org/abs/2308.03610)] [[Project](https://avatarverse3d.github.io/)] 
        * (ACM Transactions on Graphics 2023) **CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**, Ahmet Canberk Baykal et al. [[Paper](https://arxiv.org/abs/2307.08397)] 
        * (arXiv preprint 2023) ⭐⭐**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**, Yuwei Guo et al. [[Paper](https://arxiv.org/abs/2307.04725)] [[Project](https://animatediff.github.io/)] [[Code](https://github.com/guoyww/animatediff/)]
@@ -747,11 +746,11 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
        * (NeurIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
 
-   * <span id="head-ATI2I"> **Audio+Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-ati2i"> **Audio+Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) [💬Sound+Speech→Robotic Painting] **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et al. [[Paper](https://arxiv.org/abs/2302.04850)]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
-   * <span id="head-L2I"> **Layout/Semantic Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-l2i"> **Layout/Semantic Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) [💬Text→Layout→Image] **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**, Leigang Qu et al. [[Paper](https://arxiv.org/abs/2308.05095)]
        * (CVPR 2023) [💬Mask+Text→Image] **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et al.  [[Paper](https://arxiv.org/abs/2211.11742)] [[Demo](https://forms.microsoft.com/pages/responsepage.aspx?id=Wht7-jR7h0OUrtLBeN7O4fEq8XkaWWJBhiLWWMELo2NUMjJYS0FDS0RISUVBUllMV0FRSzNCOTFTQy4u)]
        * (CVPR 2023) **Freestyle Layout-to-Image Synthesis**, Han Xue et al. [[Paper](https://arxiv.org/abs/2303.14412)] [[Code](https://github.com/essunny310/FreestyleNet)]
@@ -763,19 +762,19 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CVPR 2021 [AI for Content Creation Workshop](http://visual.cs.brown.edu/workshops/aicc2021/)) **High-Resolution Complex Scene Synthesis with Transformers**, Manuel Jahn et al. [[Paper](https://arxiv.org/pdf/2105.06458.pdf)] 
        * (CVPR 2021) **Context-Aware Layout to Image Generation with Enhanced Object Appearance**, Sen He et al. [[Paper](https://arxiv.org/pdf/2103.11897.pdf)] [[Code](https://github.com/wtliao/layout2img)] 
 
-   * <span id="head-L2S"> **Label-set → Semantic maps** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-l2s"> **Label-set → Semantic maps** </span> **[       «🎯Back To Top»       ](#)**
        * (ECCV 2020) **Controllable image synthesis via SegVAE**, Yen-Chi Cheng et al. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520154.pdf)] [[Code](https://github.com/yccyenchicheng/SegVAE)]
        
-   * <span id="head-S2I"> **Speech → Image** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-s2i"> **Speech → Image** </span> **[       «🎯Back To Top»       ](#)**
        *  (IEEE/ACM Transactions on Audio, Speech and Language Processing-2021) **Generating Images From Spoken Descriptions**, Xinsheng Wang et al. [[Paper](https://dl.acm.org/doi/10.1109/TASLP.2021.3053391)] [[Code](https://github.com/xinshengwang/S2IGAN)]  [[Project](https://xinshengwang.github.io/project/s2igan/)]
        *  (INTERSPEECH 2020)**[Extent Version👆] S2IGAN: Speech-to-Image Generation via Adversarial Learning**, Xinsheng Wang et al. [[Paper](https://arxiv.org/abs/2005.06968)]
        * (IEEE Journal of Selected Topics in Signal Processing-2020) **Direct Speech-to-Image Translation**, Jiguo Li et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9067083)] [[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)] [[Project](https://smallflyingpig.github.io/speech-to-image/main)]
        
-   * <span id="head-SG2I"> **Scene Graph → Image** </span> **[       «🎯Back To Top»       ](#)**    
+   * <span id="head-sg2i"> **Scene Graph → Image** </span> **[       «🎯Back To Top»       ](#)**    
        * (arXiv preprint 2023) **Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training**, Ling Yang et al.  [[Paper](https://arxiv.org/abs/2211.11138)]
        * (CVPR 2018) **Image Generation from Scene Graphs**, Justin Johnson et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0764.pdf)] [[Code](https://github.com/google/sg2im)]
    
-   * <span id="head-T2VR"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-t2vr"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
        * (ACMMM 2022) **CAIBC: Capturing All-round Information Beyond Color for Text-based Person Retrieval**, Zijie Wang et al. [[Paper](https://arxiv.org/abs/2209.05773)] 
        * (AAAI 2022) **Cross-Modal Coherence for Text-to-Image Retrieval**, Malihe Alikhani et al. [[Paper](https://arxiv.org/abs/2109.11047)] 
        * (ECCV [RWS 2022](https://vap.aau.dk/rws-eccv2022/)) [💬Person Retrieval] **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu et al. [[Paper](https://arxiv.org/abs/2208.08608)] [[Code](https://github.com/TencentYoutuResearch/PersonRetrieval-IVT)] 
@@ -787,7 +786,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CVPR 2021) **Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**, Antoine Miech et al. [[Paper](https://arxiv.org/pdf/2103.16553.pdf)] 
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
-   * <span id="head-T2M"> **Text → 3D/Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-t2m"> **Text → 3D/Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) [💬Text → 3D] **HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation**, Jinbo Wu et al.  [[Paper](https://arxiv.org/abs/2307.16183)] 
        * (arXiv preprint 2023) [💬Text → 3D] **T2TD: Text-3D Generation Model based on Prior Knowledge Guidance**, Weizhi Nie et al.  [[Paper](https://arxiv.org/abs/2305.15753)] 
        * (arXiv preprint 2023) [💬Text → 3D] **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**, Zhengyi Wang et al.  [[Paper](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] 
@@ -810,7 +809,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CVPR 2022) [💬Shape] **CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation**, Aditya Sanghi et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sanghi_CLIP-Forge_Towards_Zero-Shot_Text-To-Shape_Generation_CVPR_2022_paper.pdf)] [[Code](https://github.com/AutodeskAILab/Clip-Forge)] 
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
-   * <span id="head-T2V"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-t2v"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) **Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**, Yuyang Zhao et al. [[Paper](https://arxiv.org/abs/2305.08850)] [[Code](https://github.com/Make-A-Protagonist/Make-A-Protagonist)] [[Project](https://make-a-protagonist.github.io/)] 
          * 📚Image Editing, Background Editing, Text-to-Video Editing with Protagonist
        * ⭐⭐(CVPR 2023) **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**, Andreas Blattmann et al. [[Paper](https://arxiv.org/abs/2304.08818)] [[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
@@ -837,7 +836,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (AAAI 2018) **Video Generation From Text**, Yitong Li et al. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12233)] 
        * (ACMMM 2017) **To create what you tell: Generating videos from captions**, Yingwei Pan et al. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3127905)] 
 
-   * <span id="head-T2Mu"> **Text → Music** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-t2music"> **Text → Music** </span> **[       «🎯Back To Top»       ](#)**
        * ⭐(arXiv preprint 2023) **MusicLM: Generating Music From Text**, Andrea Agostinelli et al. [[Paper](https://arxiv.org/abs/2301.11325)] [[Project](https://google-research.github.io/seanet/musiclm/examples/)] [[MusicCaps](https://www.kaggle.com/datasets/googleai/musiccaps)]
 
 
@@ -845,8 +844,4 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 * [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) @Ritsumeikan University. ლ(╹◡╹ლ) 
 
-* If you have any question, please feel free to contact Yutong ZHOU (E-mail: <zhou@i.ci.ritsumei.ac.jp>).
-
-<!--
-<a href='https://clustrmaps.com/site/1bpq4'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=3wemEIurL5hHYA1MNxyuQaTay2TnGf9HrAqmu53SPco'/></a>
--->
+* If you have any questions, please feel free to contact Yutong ZHOU (E-mail: <zhou@i.ci.ritsumei.ac.jp>).
