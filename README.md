@@ -657,6 +657,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Colorization] **DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models**, Jianxin Lin et al. [[Paper](https://arxiv.org/abs/2308.01655)] 
        * (ICCV 2023) [💬Video Editing] **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**, Chenyang Qi et al. [[Paper](https://arxiv.org/abs/2303.09535)] [[Code](https://github.com/ChenyangQiQi/FateZero)] [[Project](https://fate-zero-edit.github.io/)] [Hugging Face](https://huggingface.co/spaces/chenyangqi/FateZero)] 
        * (arXiv preprint 2023) [💬3D] **AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**, Huichao Zhang et al. [[Paper](https://arxiv.org/abs/2308.03610)] [[Project](https://avatarverse3d.github.io/)] 
        * (ACM Transactions on Graphics 2023) **CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**, Ahmet Canberk Baykal et al. [[Paper](https://arxiv.org/abs/2307.08397)] 
