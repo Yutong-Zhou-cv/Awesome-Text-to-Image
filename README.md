@@ -776,6 +776,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CVPR 2018) **Image Generation from Scene Graphs**, Justin Johnson et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0764.pdf)] [[Code](https://github.com/google/sg2im)]
    
    * <span id="head-t2vr"> **Text → Visual Retrieval** </span> **[       «🎯Back To Top»       ](#)**
+       * (ECIR 2023) **Scene-Centric vs. Object-Centric Image-Text Cross-Modal Retrieval: A Reproducibility Study**, Mariya Hendriksen et al. [[Paper](https://arxiv.org/abs/2301.05174)]
+       * (ECIR 2022) **Extending CLIP for Category-to-image Retrieval in E-commerce**, Mariya Hendriksen et al. [[Paper](https://arxiv.org/abs/2112.11294)] 
        * (ACMMM 2022) **CAIBC: Capturing All-round Information Beyond Color for Text-based Person Retrieval**, Zijie Wang et al. [[Paper](https://arxiv.org/abs/2209.05773)] 
        * (AAAI 2022) **Cross-Modal Coherence for Text-to-Image Retrieval**, Malihe Alikhani et al. [[Paper](https://arxiv.org/abs/2109.11047)] 
        * (ECCV [RWS 2022](https://vap.aau.dk/rws-eccv2022/)) [💬Person Retrieval] **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu et al. [[Paper](https://arxiv.org/abs/2208.08608)] [[Code](https://github.com/TencentYoutuResearch/PersonRetrieval-IVT)] 
