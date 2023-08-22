@@ -42,7 +42,7 @@ If you find this paper and repo helpful for your research, please cite it as bel
 ```
 
 ## 🎑 News
-* [23/05/26] 🔥 Add our survey paper "[**Vision + Language Applications: A Survey**](https://arxiv.org/abs/2305.14598)" and a special [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) list!
+* [23/05/26] 🔥 Add our survey paper "[**Vision + Language Applications: A Survey**](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.html)" and a special [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) list!
 * [23/04/04] "**Vision + Language Applications: A Survey**" was accepted by CVPRW2023.
 * [20/10/13] **Awesome-Text-to-Image** repo is created.
 
@@ -322,7 +322,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 ## <span id="head5"> *5. Paper With Code* </span>
 
 * <span id="head-survey"> **Survey**  </span> **[       «🎯Back To Top»       ](#)**
-    * (CVPRW 2023) **Vision + Language Applications: A Survey** [[v1](https://arxiv.org/abs/2305.14598)] (2023.05) 
+    * (TPAMI 2023) **Multimodal Image Synthesis and Editing: A Survey and Taxonomy** [[v1](https://arxiv.org/abs/2112.13592v1)(arXiv)](2021.12) ... [[v5](https://arxiv.org/abs/2112.13592v5)](2023.08)
+    * (CVPRW 2023) **Vision + Language Applications: A Survey** [[v1](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.html)] (2023.06) 
     * (arXiv 2023) **A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?** [[v1](https://arxiv.org/abs/2303.11717)] (2023.03) 
     * (arXiv 2023) **Text-to-image Diffusion Model in Generative AI: A Survey** [[v1](https://arxiv.org/abs/2303.07909)] (2023.03) 
     * (arXiv 2023) **A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT** [[v1](https://arxiv.org/abs/2303.04226)] (2023.03) 
