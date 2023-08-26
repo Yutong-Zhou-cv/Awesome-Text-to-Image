@@ -375,6 +375,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (ICCV 2023) **DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**, Xujie Zhang et al.  [[Paper](https://arxiv.org/abs/2308.11206)] 
      * (ICCV 2023) **Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models**, Nan Liu et al.  [[Paper](https://arxiv.org/abs/2306.05357)] [[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)] [[Project](https://energy-based-model.github.io/unsupervised-concept-discovery/)] 
      * (arXiv preprint 2023) **T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**, Kaiyi Huang et al.  [[Paper](https://arxiv.org/abs/2307.06350)] [[Code](https://github.com/Karine-Huang/T2I-CompBench)] [[Project](https://karine-h.github.io/T2I-CompBench/)] 
      * (arXiv preprint 2023) [💬Human Preference Evaluation] **Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis**, Xiaoshi Wu et al. [[Paper](https://arxiv.org/abs/2306.09341)] [[Code](https://github.com/tgxs002/HPSv2)]
