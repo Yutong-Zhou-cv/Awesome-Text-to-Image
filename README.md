@@ -100,7 +100,7 @@ If you find this paper and repo helpful for your research, please cite it as bel
   * - [ ] [🛫Applications🛫](#head-app)
   * - [ ] [Text+Image/Video → Image/Video](#head-ti2i)
   * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ati2i)
-  * - [ ] [Layout/Semantic Mask → Image](#head-l2i)
+  * - [ ] [Layout/Mask → Image](#head-l2i)
   * - [ ] [Label-set → Semantic maps](#head-l2s)
   * - [ ] [Speech → Image](#head-s2i)
   * - [ ] [Scene Graph → Image](#head-sg2i)
@@ -753,7 +753,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2023) [💬Sound+Speech→Robotic Painting] **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et al. [[Paper](https://arxiv.org/abs/2302.04850)]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
-   * <span id="head-l2i"> **Layout/Semantic Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
+   * <span id="head-l2i"> **Layout/Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (ICCV 2023) [💬Layout+Text→Image] **Dense Text-to-Image Generation with Attention Modulation**, Yunji Kim et al. [[Paper](https://arxiv.org/abs/2308.12964)] [[Code](https://github.com/naver-ai/DenseDiffusion)]
        * (arXiv preprint 2023) [💬Text→Layout→Image] **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**, Leigang Qu et al. [[Paper](https://arxiv.org/abs/2308.05095)]
        * (CVPR 2023) [💬Mask+Text→Image] **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et al.  [[Paper](https://arxiv.org/abs/2211.11742)] [[Demo](https://forms.microsoft.com/pages/responsepage.aspx?id=Wht7-jR7h0OUrtLBeN7O4fEq8XkaWWJBhiLWWMELo2NUMjJYS0FDS0RISUVBUllMV0FRSzNCOTFTQy4u)]
        * (CVPR 2023) **Freestyle Layout-to-Image Synthesis**, Han Xue et al. [[Paper](https://arxiv.org/abs/2303.14412)] [[Code](https://github.com/essunny310/FreestyleNet)]
