@@ -660,6 +660,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (SIGGRAPH Asia 2023) **Break-A-Scene: Extracting Multiple Concepts from a Single Image
+**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2305.16311)] [[Project](https://omriavrahami.com/break-a-scene/)] [[Code](https://github.com/google/break-a-scene)]
        * (arXiv preprint 2023) **Visual Instruction Inversion: Image Editing via Visual Prompting**, Thao Nguyen et al. [[Paper](https://arxiv.org/abs/2307.14331)] [[Project](https://thaoshibe.github.io/visii/)]
        * (CVPR 2023) [💬3D Shape Editing] **ShapeTalk: A Language Dataset and Framework for 3D Shape Edits and Deformations**, Panos Achlioptas et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Achlioptas_ShapeTalk_A_Language_Dataset_and_Framework_for_3D_Shape_Edits_CVPR_2023_paper.pdf)] [[Code](https://github.com/optas/changeit3d)] [[Project](https://changeit3d.github.io/)] 
        * (arXiv preprint 2023) [💬Colorization] **DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models**, Jianxin Lin et al. [[Paper](https://arxiv.org/abs/2308.01655)] 
