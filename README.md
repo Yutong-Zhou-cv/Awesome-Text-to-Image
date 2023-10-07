@@ -376,6 +376,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * ⭐(arXiv preprint 2023) **Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**, Anton Razzhigaev et al.  [[Paper](https://arxiv.org/abs/2310.03502)] [[Code](https://github.com/ai-forever/Kandinsky-2)] [[Demo](https://fusionbrain.ai/en/editor/)] [[Demo Video](https://www.youtube.com/watch?v=c7zHPc59cWU)] [[Hugging Face](https://huggingface.co/kandinsky-community)]
      * ⭐⭐(ICCV 2023) **Adding Conditional Control to Text-to-Image Diffusion Models**, Lvmin Zhang et al. [[Paper](https://arxiv.org/abs/2302.05543)] [[Code](https://github.com/lllyasviel/ControlNet)] 
      * (ICCV 2023) **DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**, Xujie Zhang et al.  [[Paper](https://arxiv.org/abs/2308.11206)] 
      * (ICCV 2023) **Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models**, Nan Liu et al.  [[Paper](https://arxiv.org/abs/2306.05357)] [[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)] [[Project](https://energy-based-model.github.io/unsupervised-concept-discovery/)] 
