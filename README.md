@@ -139,7 +139,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 * <span id="head-pickscore"> PickScore </span> [[Paper](https://arxiv.org/abs/2305.01569)] [[Python Code](https://huggingface.co/yuvalkirstain/PickScore_v1)]
 
-  <span id="head-hpsv2"> Human Preference Score v2 (HPS v2) </span> [[Paper](https://arxiv.org/abs/2306.09341)] [[Python Code](https://github.com/tgxs002/HPSv2)]
+* <span id="head-hpsv2"> Human Preference Score v2 (HPS v2) </span> [[Paper](https://arxiv.org/abs/2306.09341)] [[Python Code](https://github.com/tgxs002/HPSv2)]
 
 ## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
     
@@ -377,6 +377,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) [💬Evaluation] **GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**, Dhruba Ghosh et al.  [[Paper](https://arxiv.org/abs/2310.11513v1)] [[Code](https://github.com/djghosh13/geneval)] 
      * ⭐(arXiv preprint 2023) **Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**, Anton Razzhigaev et al.  [[Paper](https://arxiv.org/abs/2310.03502)] [[Code](https://github.com/ai-forever/Kandinsky-2)] [[Demo](https://fusionbrain.ai/en/editor/)] [[Demo Video](https://www.youtube.com/watch?v=c7zHPc59cWU)] [[Hugging Face](https://huggingface.co/kandinsky-community)]
      * ⭐⭐(ICCV 2023) **Adding Conditional Control to Text-to-Image Diffusion Models**, Lvmin Zhang et al. [[Paper](https://arxiv.org/abs/2302.05543)] [[Code](https://github.com/lllyasviel/ControlNet)] 
      * (ICCV 2023) **DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**, Xujie Zhang et al.  [[Paper](https://arxiv.org/abs/2308.11206)] 
