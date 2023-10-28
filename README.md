@@ -238,6 +238,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* **Mini-DALL•E 3**. [[Demo](http://139.224.23.16:10085/)] 
+    * > Interactive text to image (iT2I)
 * **Stable Doodle**. [[ClipDrop](https://clipdrop.co/stable-doodle)] 
     * > Transform your doodles into real images in seconds.
 * **StableStudio**. [[Github](https://github.com/Stability-AI/StableStudio)] 
@@ -377,6 +379,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**, Zeqiang Lai et al.  [[Paper](https://arxiv.org/abs/2310.07653)] [[Code](https://github.com/Zeqiang-Lai/Mini-DALLE3)] [[Demo](http://139.224.23.16:10085/)] [[Project](https://minidalle3.github.io/)] 
      * (arXiv preprint 2023) [💬Evaluation] **GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**, Dhruba Ghosh et al.  [[Paper](https://arxiv.org/abs/2310.11513v1)] [[Code](https://github.com/djghosh13/geneval)] 
      * ⭐(arXiv preprint 2023) **Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**, Anton Razzhigaev et al.  [[Paper](https://arxiv.org/abs/2310.03502)] [[Code](https://github.com/ai-forever/Kandinsky-2)] [[Demo](https://fusionbrain.ai/en/editor/)] [[Demo Video](https://www.youtube.com/watch?v=c7zHPc59cWU)] [[Hugging Face](https://huggingface.co/kandinsky-community)]
      * ⭐⭐(ICCV 2023) **Adding Conditional Control to Text-to-Image Diffusion Models**, Lvmin Zhang et al. [[Paper](https://arxiv.org/abs/2302.05543)] [[Code](https://github.com/lllyasviel/ControlNet)] 
