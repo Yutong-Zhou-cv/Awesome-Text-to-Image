@@ -238,6 +238,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* **LLaVA-Interactive**. [[Paper](https://arxiv.org/abs/2311.00571v1)] [[Project](https://llava-vl.github.io/llava-interactive/)] [[Demo](https://llavainteractive.ngrok.io/)] 
+    * > Image Chat, Segmentation and Generation/Editing -- All-in-one demo
 * **Mini-DALL•E 3**. [[Demo](http://139.224.23.16:10085/)] 
     * > Interactive text to image (iT2I)
 * **Stable Doodle**. [[ClipDrop](https://clipdrop.co/stable-doodle)] 
