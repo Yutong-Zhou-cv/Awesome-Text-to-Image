@@ -667,6 +667,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Multi-Subject Generation] **VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning**, Hong Chen et al. [[Paper](https://arxiv.org/abs/2311.00990v1)] [[Project](https://videodreamer23.github.io/)] [[Code](https://github.com/videodreamer23/videodreamer23.github.io)]
        * (arXiv preprint 2023) [💬Video Editing] **CCEdit: Creative and Controllable Video Editing via Diffusion Models**, Ruoyu Feng et al. [[Paper](https://arxiv.org/abs/2309.16496)] [[Demo video](https://www.youtube.com/watch?v=UQw4jq-igN4)] 
        * ⭐⭐ (SIGGRAPH Asia 2023) **Break-A-Scene: Extracting Multiple Concepts from a Single Image**, Omri Avrahami et al. [[Paper](https://arxiv.org/abs/2305.16311)] [[Project](https://omriavrahami.com/break-a-scene/)] [[Code](https://github.com/google/break-a-scene)]
        * (arXiv preprint 2023) **Visual Instruction Inversion: Image Editing via Visual Prompting**, Thao Nguyen et al. [[Paper](https://arxiv.org/abs/2307.14331)] [[Project](https://thaoshibe.github.io/visii/)]
