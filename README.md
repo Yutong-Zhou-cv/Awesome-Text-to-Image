@@ -835,6 +835,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Motion] **TEMOS: Generating diverse human motions from textual descriptions**, Mathis Petrovich et al. [[Paper](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.petrovich.fr/temos/)] [[Code](https://github.com/Mathux/TEMOS)] 
    
    * <span id="head-t2v"> **Text → Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (ICCV 2023) **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**, Levon Khachatryan et al. [[Paper](https://arxiv.org/abs/2303.13439)] [[Project](https://text2video-zero.github.io/)] [[Video](https://www.dropbox.com/s/uv90mi2z598olsq/Text2Video-Zero.MP4?dl=0)] [[Code](https://github.com/Picsart-AI-Research/Text2Video-Zero)] [[Hugging Face](https://huggingface.co/spaces/PAIR/Text2Video-Zero)]
        * (NeurIPS 2023 Datasets and Benchmarks) **FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation**, Yuanxin Liu et al. [[Paper](https://arxiv.org/abs/2311.01813v1)] [[Project](https://github.com/llyx97/FETV)]
        * (arXiv preprint 2023) **Optimal Noise pursuit for Augmenting Text-to-Video Generation**, Shijie Ma et al. [[Paper](https://arxiv.org/abs/2311.00949v1)] 
        * (arXiv preprint 2023) **Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**, Jiaxi Gu et al. [[Paper](https://arxiv.org/abs/2309.03549)] [[Project](https://anonymous0x233.github.io/ReuseAndDiffuse/)] 
