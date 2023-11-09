@@ -278,7 +278,6 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * >Text2Art is an AI-powered art generator based on VQGAN+CLIP that can generate all kinds of art such as pixel art, drawing, and painting from just text input. 
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
-
 <!--
 ### <p align=center> **🍃Update History**</p>
 *(2023.03.04 Update)*
@@ -364,6 +363,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-ci"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+    * ⭐⭐(NeurIPS 2023) [💬 Holistic Evaluation] **Holistic Evaluation of Text-To-Image Models**, Tony Lee et al.  [[Paper](https://arxiv.org/abs/2311.04287)] [[Code](https://github.com/stanford-crfm/helm)] [[Project](https://crfm.stanford.edu/heim/v1.1.0/)]
     * (ICCV 2023) [💬 Safety] **Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2211.02408)] [[Code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
     * (arXiv preprint 2023) [💬 Natural Attack Capability] **Intriguing Properties of Diffusion Models: A Large-Scale Dataset for Evaluating Natural Attack Capability in Text-to-Image Generative Models**, Takami Sato et al.  [[Paper](https://arxiv.org/abs/2308.15692)]
     * (ACL 2023) [💬 Bias] **A Multi-dimensional study on Bias in Vision-Language models**, Gabriele Ruggeri et al.  [[Paper](https://aclanthology.org/2023.findings-acl.403/)]
