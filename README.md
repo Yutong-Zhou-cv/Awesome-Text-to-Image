@@ -812,7 +812,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
  
    * <span id="head-t2m"> **Text → 3D/Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) [💬Text → 3D] **One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**, Minghua Liu et al.  [[Paper](https://arxiv.org/abs/2311.07885)] [[Project](https://sudo-ai-3d.github.io/One2345plus_page/)]
-       * (arXiv preprint 2023) [💬Text → 3D] **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**, Minghua Liu et al.  [[Paper](https://arxiv.org/abs/2306.16928)] [[Project](https://one-2-3-45.github.io/)] [[Code](https://github.com/One-2-3-45/One-2-3-45)] 
+       * (NeurIPS 2023) [💬Text → 3D] **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**, Minghua Liu et al.  [[Paper](https://arxiv.org/abs/2306.16928)] [[Project](https://one-2-3-45.github.io/)] [[Code](https://github.com/One-2-3-45/One-2-3-45)] 
        * (ACMMM 2023) [💬Text+Sketch → 3D] **Control3D: Towards Controllable Text-to-3D Generation**, Yang Chen et al.  [[Paper](https://arxiv.org/abs/2311.05461)] 
        * (SIGGRAPH Asia 2023 & TOG) [💬Text → 3D] **EXIM: A Hybrid Explicit-Implicit Representation for Text-Guided 3D Shape Generation**, Zhengzhe Liu et al.  [[Paper](https://arxiv.org/abs/2311.01714v1)] [[Code](https://github.com/liuzhengzhe/EXIM)] 
        * (arXiv preprint 2023) [💬Text → 3D] **PaintHuman: Towards High-fidelity Text-to-3D Human Texturing via Denoised Score Distillation**, Jianhui Yu et al.  [[Paper](https://arxiv.org/abs/2310.09458v1)] 
