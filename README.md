@@ -879,6 +879,4 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 ## <span id="head7"> *Contact Me* </span>
 
-* [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) @Ritsumeikan University. ლ(╹◡╹ლ) 
-
-* If you have any questions, please feel free to contact Yutong ZHOU (E-mail: <zhou@i.ci.ritsumei.ac.jp>).
+* If you have any questions, please feel free to contact [Yutong ZHOU](https://elizazhou96.github.io/) ლ(╹◡╹ლ)
