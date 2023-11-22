@@ -604,6 +604,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
 
 ## <span id="head6"> *6. Other Related Works* </span>
    * <span id="head-pe"> **📝Prompt Engineering📝** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Optimizing Prompts] **NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**, Shachar Rosenman et al. [[Paper](https://arxiv.org/abs/2311.12229)] [[Video Demo](https://www.youtube.com/watch?v=Cmca_RWYn2g)] 
        * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] [[Hugging Face](https://huggingface.co/spaces/microsoft/Promptist)] 
        * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
        * (arXiv preprint 2022) **A Taxonomy of Prompt Modifiers for Text-To-Image Generation**, Jonas Oppenlaender [[Paper](https://arxiv.org/abs/2204.13988)] 
