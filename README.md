@@ -816,6 +816,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (IEEE Access 2019) **Query is GAN: Scene Retrieval With Attentional Text-to-Image Generative Adversarial Network**, RINTARO YANAGI et al. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8868179)]
  
    * <span id="head-t2m"> **Text → 3D/Motion/Shape/Mesh/Object...** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Text → 4D] **4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling**, Sherwin Bahmani et al.  [[Paper](https://arxiv.org/abs/2311.17984)] [[Project](https://sherwinbahmani.github.io/4dfy/)] [[Project](https://github.com/sherwinbahmani/4dfy)]
        * (arXiv preprint 2023) [💬Text → 3D] **MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture**, Lincong Feng et al.  [[Paper](https://arxiv.org/abs/2311.10123)] [[Project](https://metadreamer3d.github.io/)]
        * (arXiv preprint 2023) [💬Text → 3D] **One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**, Minghua Liu et al.  [[Paper](https://arxiv.org/abs/2311.07885)] [[Project](https://sudo-ai-3d.github.io/One2345plus_page/)]
        * (NeurIPS 2023) [💬Text → 3D] **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**, Minghua Liu et al.  [[Paper](https://arxiv.org/abs/2306.16928)] [[Project](https://one-2-3-45.github.io/)] [[Code](https://github.com/One-2-3-45/One-2-3-45)] 
