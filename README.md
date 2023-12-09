@@ -633,6 +633,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2023) [💬Video Editing] **MagicStick: Controllable Video Editing via Control Handle Transformations**, Yue Ma et al. [[Paper](https://arxiv.org/abs/2312.03047v1)] [[Project](https://magic-stick-edit.github.io/)] [[Code](https://github.com/mayuelala/MagicStick)]
        * (arXiv preprint 2023) **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models**, Chen Henry Wu et al. [[Paper](https://arxiv.org/abs/2311.13833)] 
        * (ACMMM 2023) [💬Style Transfer] **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors**, Jingwen Chen et al. [[Paper](https://arxiv.org/abs/2311.05463)] 
        * (ICCV 2023) **A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance**, Chen Henry Wu et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)] [[Arxiv](https://arxiv.org/abs/2210.05559)] [[Code](https://github.com/chenwu98/cycle-diffusion)]
