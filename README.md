@@ -26,7 +26,7 @@
 
 ## ⭐ Citation
 
-If you find this paper and repo helpful for your research, please cite it as below:
+If you find this paper and repo helpful for your research, please cite it below:
 
 ```bibtex
 
@@ -237,6 +237,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* **Hotpot-AI Art Generator**. [[Project](https://hotpot.ai/art-generator?s=stable-diffusion#)] 
+    * > Our AI image generator brings imagination to life, producing stunning art, illustrations, and photos in seconds. Unleash creativity and express yourself in new ways with the power of AI. 
 * **Generative Fill**. [[Project](https://www.adobe.com/products/photoshop/generative-fill.html)] 
     * > Add, remove, or expand content in images right in Adobe Photoshop with simple text prompts powered by Adobe Firefly generative AI.
 * **LLaVA-Interactive**. [[Paper](https://arxiv.org/abs/2311.00571v1)] [[Project](https://llava-vl.github.io/llava-interactive/)] [[Demo](https://llavainteractive.ngrok.io/)] 
