@@ -342,6 +342,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **Late-Constraint Diffusion Guidance for Controllable Image Synthesis**, Chang Liu et al.  [[Paper](https://arxiv.org/abs/2305.11520)] [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
      * (arXiv preprint 2023) **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**, Aishwarya Agarwal et al.  [[Paper](https://arxiv.org/abs/2311.11919)] 
      * ⭐(arXiv preprint 2023) **UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**, Yanwu Xu et al.  [[Paper](https://arxiv.org/abs/2311.09257)] 
      * (ICCV 2023) **ITI-GEN: Inclusive Text-to-Image Generation**, Cheng Zhang et al. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_ITI-GEN_Inclusive_Text-to-Image_Generation_ICCV_2023_paper.html)] [[Code](https://github.com/humansensinglab/ITI-GEN)] [[Project](https://czhang0528.github.io/iti-gen)] 
