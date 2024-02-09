@@ -644,6 +644,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) [💬Text+Image+Shape → Image] **Shape-Guided Diffusion with Inside-Outside Attention**, Dong Huk Park et al. [[Paper](https://arxiv.org/abs/2212.00210v1)] [[Project](https://shape-guided-diffusion.github.io/)]
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2024) [💬NERF] **InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**, Mohamad Shahbazi et al. [[Paper](https://arxiv.org/abs/2401.05335)] [[Project](https://mohamad-shahbazi.github.io/inserf/)]
        * (arXiv preprint 2023) **ViCo: Plug-and-play Visual Condition for Personalized Text-to-image Generation**, Shaozhe Hao et al. [[Paper](https://arxiv.org/abs/2306.00971)] [[Code](https://github.com/haoosz/ViCo)]
        * (arXiv preprint 2023) [💬Video Editing] **MagicStick: Controllable Video Editing via Control Handle Transformations**, Yue Ma et al. [[Paper](https://arxiv.org/abs/2312.03047v1)] [[Project](https://magic-stick-edit.github.io/)] [[Code](https://github.com/mayuelala/MagicStick)]
        * (arXiv preprint 2023) **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models**, Chen Henry Wu et al. [[Paper](https://arxiv.org/abs/2311.13833)] 
