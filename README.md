@@ -343,6 +343,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2024"> **2024**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2024) **Learning Continuous 3D Words for Text-to-Image Generation**, Ta-Ying Cheng et al.  [[Paper](https://arxiv.org/abs/2402.08654)] [[Project](https://ttchengab.github.io/continuous_3d_words/)] [[Code](https://github.com/ttchengab/continuous_3d_words_code/)]
      * (arXiv preprint 2024) **DressCode: Autoregressively Sewing and Generating Garments from Text Guidance**, Kai He et al.  [[Paper](https://arxiv.org/abs/2401.16465)] [[Project](https://sites.google.com/view/projectpage-dresscode)]
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
