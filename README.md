@@ -238,6 +238,10 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 
 ## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
+* ⭐⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
+    * > A new text-to-image model building upon the [Würstchen](https://openreview.net/pdf?id=gU58d5QeGv) architecture. 
+    * > This model is being released under a non-commercial license that permits non-commercial use only.
+    * > Stable Cascade is exceptionally easy to train and finetune on consumer hardware thanks to its three-stage approach.
 * **Hotpot-AI Art Generator**. [[Project](https://hotpot.ai/art-generator?s=stable-diffusion#)] 
     * > Our AI image generator brings imagination to life, producing stunning art, illustrations, and photos in seconds. Unleash creativity and express yourself in new ways with the power of AI. 
 * **Generative Fill**. [[Project](https://www.adobe.com/products/photoshop/generative-fill.html)] 
@@ -250,10 +254,10 @@ A number of studies have been conducted on text-to-image synthesis techniques th
     * > Transform your doodles into real images in seconds.
 * **StableStudio**. [[Github](https://github.com/Stability-AI/StableStudio)] 
     * > The open-source version of [DreamStudio](https://dreamstudio.ai/).
-* ⭐⭐**Stable Diffusion XL**. [[ClipDrop](https://clipdrop.co/stable-diffusion)] [[Website](https://stability.ai/blog/stable-diffusion-xl-beta-available-for-api-customers-and-dreamstudio-users)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
+* ⭐**Stable Diffusion XL**. [[ClipDrop](https://clipdrop.co/stable-diffusion)] [[Website](https://stability.ai/blog/stable-diffusion-xl-beta-available-for-api-customers-and-dreamstudio-users)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
     * > Next-level photorealism capabilities; Enhanced image composition and face generation; Rich visuals and jaw-dropping aesthetics; Use of shorter prompts to create descriptive imagery; Greater capability to produce legible text.
     * > SDXL also has functionality that extends beyond just text-to-image prompting, including ***image-to-image prompting*** (inputting one image to get variations of that image), ***inpainting*** (reconstructing missing parts of an image) and ***outpainting*** (constructing a seamless extension of an existing image). 
-* ⭐⭐**Image2Paragraph**. [[Github](https://github.com/showlab/Image2Paragraph)] [[Hugging Face](https://huggingface.co/spaces/Awiny/Image2Paragraph)]
+* ⭐**Image2Paragraph**. [[Github](https://github.com/showlab/Image2Paragraph)] [[Hugging Face](https://huggingface.co/spaces/Awiny/Image2Paragraph)]
     * From ***One-to-many*** to ***One-to-one***
 * **2022 Top Papers in AI — A Year of Generative Models**. [[Medium](https://chuanenlin.medium.com/2022-top-ai-papers-a-year-of-generative-models-a7dcd9109e39)] 
 * **Whisper-to-stable-diffusion**. [[Hugging Face](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion)] 
