@@ -301,6 +301,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv 2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis** [[v1](https://arxiv.org/pdf/1910.09399.pdf)] (2019.10) 
 
 * <span id="head-t2f"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> **[       «🎯Back To Top»       ](#)**
+    * (IJACSA 2023) **Mukh-Oboyob: Stable Diffusion and BanglaBERT enhanced Bangla Text-to-Face Synthesis**, Aloke Kumar Saha et al. [[Paper](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=11&Code=IJACSA&SerialNo=142)] [[Code](https://github.com/Codernob/Mukh-Oboyob)]
     * (SIGGRAPH 2023) [💬 3D] **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**, Longwen Zhang et al. [[Paper](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)] [[HuggingFace](https://huggingface.co/spaces/DEEMOSTECH/ChatAvatar)]
     * (CVPR 2023) [💬 3D] **High-Fidelity 3D Face Generation from Natural Language Descriptions**, Menghua Wu et al. [[Paper](https://arxiv.org/abs/2305.03302)] [[Code](https://github.com/zhuhao-nju/describe3d)] [[Project](https://mhwu2017.github.io/)]
     * (CVPR 2023) **Collaborative Diffusion for Multi-Modal Face Generation and Editing**, Ziqi Huang et al. [[Paper](https://arxiv.org/abs/2304.10530v1)] [[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)] [[Project](https://ziqihuangg.github.io/projects/collaborative-diffusion.html)]
