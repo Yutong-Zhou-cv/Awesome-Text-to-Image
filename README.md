@@ -83,7 +83,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 * - [ ] [5. Paper With Code](#head5)
   * - [ ] [Survey](#head-survey)
   * - [ ] [Text to Face👨🏻🧒👧🏼🧓🏽](#head-t2f)
-  * - [ ] [Compounding Issues🤔](#head-ci)
+  * - [ ] [Complex Issues🤔](#head-ci)
   * - [ ] [2024](#head-2024)
   * - [ ] [2023](#head-2023)
   * - [x] [2022](#head-2022)
@@ -327,7 +327,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (WACV 2021) **Faces a la Carte: Text-to-Face Generation via Attribute Disentanglement**, Tianren Wang et al. [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Faces_a_la_Carte_Text-to-Face_Generation_via_Attribute_Disentanglement_WACV_2021_paper.pdf)] 
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
-* <span id="head-ci"> **Compounding Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+* <span id="head-ci"> **Complex Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+    * (EMNLP 2023) [💬 Text Visualness] **Learning the Visualness of Text Using Large Vision-Language Models**, Gaurav Verma et al.  [[Paper](https://arxiv.org/abs/2305.10434)] [[Project](https://gaurav22verma.github.io/text-visualness/)]
     * (arXiv preprint 2023) [💬 Against Malicious Adaptation] **IMMA: Immunizing text-to-image Models against Malicious Adaptation**, Yijia Zheng et al.  [[Paper](https://arxiv.org/abs/2311.18815)] [[Project](https://zhengyjzoe.github.io/imma/)]
     * (arXiv preprint 2023) [💬 Principled Recaptioning] **A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**, Eyal Segalis et al.  [[Paper](https://arxiv.org/abs/2310.16656)]
     * ⭐⭐(NeurIPS 2023) [💬 Holistic Evaluation] **Holistic Evaluation of Text-To-Image Models**, Tony Lee et al.  [[Paper](https://arxiv.org/abs/2311.04287)] [[Code](https://github.com/stanford-crfm/helm)] [[Project](https://crfm.stanford.edu/heim/v1.1.0/)]
