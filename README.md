@@ -760,6 +760,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
    * <span id="head-l2i"> **Layout/Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2024) [💬Instance information +Text→Image] **InstanceDiffusion: Instance-level Control for Image Generation**, XuDong Wang et al. [[Paper](https://arxiv.org/abs/2402.03290)] [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] [[Code](https://github.com/frank-xwang/InstanceDiffusion)]
        * (ICLR 2024) [💬Layout+Text→Image] **Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**, Yumeng Li et al. [[Paper](https://arxiv.org/abs/2401.08815)] [[Project](https://yumengli007.github.io/ALDM/)] [[Code](https://github.com/boschresearch/ALDM)]
        * (ICCV 2023) [💬Layout+Text→Image] **Dense Text-to-Image Generation with Attention Modulation**, Yunji Kim et al. [[Paper](https://arxiv.org/abs/2308.12964)] [[Code](https://github.com/naver-ai/DenseDiffusion)]
        * (arXiv preprint 2023) [💬Text→Layout→Image] **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**, Leigang Qu et al. [[Paper](https://arxiv.org/abs/2308.05095)]
