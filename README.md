@@ -352,6 +352,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
      * ⭐(arXiv preprint 2024) **SDXL-Lightning: Progressive Adversarial Diffusion Distillation**, Shanchuan Lin et al.  [[Paper](https://arxiv.org/abs/2402.13929)] [[HuggingFace](https://huggingface.co/ByteDance/SDXL-Lightning)] [[Demo](https://fastsdxl.ai/)]
      * ⭐(arXiv preprint 2024) **RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**, Xinchen Zhang et al.  [[Paper](https://arxiv.org/abs/2402.12908)] [[Code](https://github.com/YangLing0818/RealCompo)] 
      * (arXiv preprint 2024) **Learning Continuous 3D Words for Text-to-Image Generation**, Ta-Ying Cheng et al.  [[Paper](https://arxiv.org/abs/2402.08654)] [[Project](https://ttchengab.github.io/continuous_3d_words/)] [[Code](https://github.com/ttchengab/continuous_3d_words_code/)]
+     * (arXiv preprint 2024) **DiffusionGPT: LLM-Driven Text-to-Image Generation System**, Jie Qin et al.  [[Paper](https://arxiv.org/abs/2401.10061)] [[Project](https://diffusiongpt.github.io/)] [[Code](https://github.com/DiffusionGPT/DiffusionGPT)]
      * (arXiv preprint 2024) **DressCode: Autoregressively Sewing and Generating Garments from Text Guidance**, Kai He et al.  [[Paper](https://arxiv.org/abs/2401.16465)] [[Project](https://sites.google.com/view/projectpage-dresscode)]
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
