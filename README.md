@@ -590,6 +590,8 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
        * (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
 
    * <span id="head-mm"> **⭐Multimodality⭐** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2024) **TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages**, Minsu Kim et al. [[Paper](https://arxiv.org/abs/2402.16021v1)] 
+         * 📚 Image → Text, Image → Speech, Text → Image, Speech → Image, Speech → Text, Text → Speech
        * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2305.11846)] [[Project](https://codi-gen.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
          * 📚[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
          * 📚[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
