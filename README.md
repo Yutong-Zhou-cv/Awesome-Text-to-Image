@@ -354,6 +354,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
      * (arXiv preprint 2024) **DressCode: Autoregressively Sewing and Generating Garments from Text Guidance**, Kai He et al.  [[Paper](https://arxiv.org/abs/2401.16465)] [[Project](https://sites.google.com/view/projectpage-dresscode)]
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (ICCV 2023) **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**, Jinheng Xie et al. [[Paper](https://arxiv.org/abs/2307.10816)] [[Code](https://github.com/showlab/BoxDiff)] 
      * (arXiv preprint 2023) **Late-Constraint Diffusion Guidance for Controllable Image Synthesis**, Chang Liu et al.  [[Paper](https://arxiv.org/abs/2305.11520)] [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
      * (arXiv preprint 2023) **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**, Aishwarya Agarwal et al.  [[Paper](https://arxiv.org/abs/2311.11919)] 
      * ⭐(arXiv preprint 2023) **UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**, Yanwu Xu et al.  [[Paper](https://arxiv.org/abs/2311.09257)] 
