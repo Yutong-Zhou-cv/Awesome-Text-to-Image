@@ -328,6 +328,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
     * (arXiv preprint 2019) **FTGAN: A Fully-trained Generative Adversarial Networks for Text to Face Generation**, Xiang Chen et al. [[Paper](https://arxiv.org/abs/1904.05729)]
 
 * <span id="head-ci"> **Complex Issues🤔**  </span> **[       «🎯Back To Top»       ](#)**
+    * (arXiv preprint 2024) [💬 Aesthetic] **Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation**, Daiqing Li et al.  [[Paper](https://arxiv.org/abs/2402.17245)] [[Project](https://blog.playgroundai.com/playground-v2-5/)] [[HuggingFace](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)]
     * (EMNLP 2023) [💬 Text Visualness] **Learning the Visualness of Text Using Large Vision-Language Models**, Gaurav Verma et al.  [[Paper](https://arxiv.org/abs/2305.10434)] [[Project](https://gaurav22verma.github.io/text-visualness/)]
     * (arXiv preprint 2023) [💬 Against Malicious Adaptation] **IMMA: Immunizing text-to-image Models against Malicious Adaptation**, Yijia Zheng et al.  [[Paper](https://arxiv.org/abs/2311.18815)] [[Project](https://zhengyjzoe.github.io/imma/)]
     * (arXiv preprint 2023) [💬 Principled Recaptioning] **A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**, Eyal Segalis et al.  [[Paper](https://arxiv.org/abs/2310.16656)]
