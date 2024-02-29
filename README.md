@@ -41,6 +41,9 @@ If you find this paper and repo helpful for your research, please cite it below:
 ```
 
 ## 🎑 News
+> [!TIP]
+> **Version 1.0** (All-in-one version) can be found [here](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/tree/2024-Version-1.0) and will be **stop updating from 24/02/29**.
+* [24/02/29] Update **"Awesome Text to Image" Version 2.0**! *Paper With Code* and *Other Related Works* will also be gradually updated in March.
 * [23/05/26] 🔥 Add our survey paper "[**Vision + Language Applications: A Survey**](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.html)" and a special [**Best Collection**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%5BCVPRW%202023%F0%9F%8E%88%5D%20%20Best%20Collection.md) list!
 * [23/04/04] "**Vision + Language Applications: A Survey**" was accepted by CVPRW2023.
 * [20/10/13] **Awesome-Text-to-Image** repo is created.
@@ -51,34 +54,13 @@ If you find this paper and repo helpful for your research, please cite it below:
 * - [x] Create [**⏳Recently Focused Papers**](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/main/%E2%8F%B3Recently%20Focused%20Papers.md)
 
 ## <span id="head-content"> *Content* </span>
-* - [x] [1. Description](#head1)
+* - [ ] [1. Description](#head1)
 
-* - [ ] [2. Quantitative Evaluation Metrics](#head2)
-  * - [x] [Inception Score (IS)](#head-is)
-  * - [x] [Fréchet Inception Distance (FID)](#head-fid)  
-  * - [x] [R-precision](#head-r)
-  * - [x] [L₂ error](#head-l2)
-  * - [x] [Learned Perceptual Image Patch Similarity (LPIPS)](#head-lpips)
-  * - [x] [CLIPScore](#head-clipscore)
-  * - [x] [Mutual Information Divergence (MID)](#head-mid)
-  * - [x] [PickScore](#head-pickscore)
-  * - [x] [HPS v2](#head-hpsv2)
-  
-  
-* - [ ] [3. Datasets](#head3)  
-  * - [x] [Oxford-102 Flower](#head-flower)
-  * - [x] [Caltech-UCSD Bird (CUB)](#head-cub)
-  * - [x] [MS-COCO](#head-coco)
-  * - [x] [Multi-Modal-CelebA-HQ](#head-mmdata)
-  * - [x] [CelebA-Dialog](#head-celebad)
-  * - [x] [FFHQ-Text](#head-ffhqtext)
-  * - [x] [CelebAText-HQ](#head-celebatext)
-  * - [x] [DeepFashion-MultiModal](#head-deepfashion)
-  * - [x] [ANNA](#head-anna)
-  * - [x] [Bento800-Text](#head-bento)
-  * - [ ] [Others](#head-others)
+* - [ ] [2. Quantitative Evaluation Metrics](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/2024-Version-2.0/Lists/2-Quantitative%20Evaluation%20Metrics.md)
+ 
+* - [ ] [3. Datasets](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/2024-Version-2.0/Lists/3-Datasets.md)  
 
-* - [ ] [4. Project](#head4)
+* - [ ] [4. Project](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image/blob/2024-Version-2.0/Lists/4-Project.md)
 
 * - [ ] [5. Paper With Code](#head5)
   * - [ ] [Survey](#head-survey)
@@ -111,7 +93,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 
 * [*Contact Me*](#head7)
 
- ## <span id="head1"> *1. Description* </span>
+ ## <span id="head1"> *Description* </span>
 
 * In the last few decades, the fields of Computer Vision (CV) and Natural Language Processing (NLP) have been made several major technological breakthroughs in deep learning research. Recently, researchers appear interested in combining semantic information and visual information in these traditionally independent fields. 
 A number of studies have been conducted on text-to-image synthesis techniques that transfer input textual descriptions (keywords or sentences) into realistic images.
@@ -120,171 +102,6 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 >🐌 Markdown Format:
 > * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
-
- ## <span id="head2"> *2. Quantitative Evaluation Metrics* </span> [       «🎯Back To Top»       ](#)
-
-* <span id="head-is"> Inception Score (IS) </span> [[Paper](https://arxiv.org/pdf/1606.03498.pdf)] [[Python Code (Pytorch)](https://github.com/sbarratt/inception-score-pytorch)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)] [[Ref.Code(AttnGAN)](https://github.com/taoxugit/AttnGAN)]
-
-* <span id="head-fid"> Fréchet Inception Distance (FID) </span> [[Paper](https://papers.nips.cc/paper/7240-gans-trained-by-a-two-time-scale-update-rule-converge-to-a-local-nash-equilibrium.pdf)] [[Python Code (Pytorch)](https://github.com/mseitzer/pytorch-fid)] [(New!)[Python Code (Tensorflow)](https://github.com/senmaoy/Inception-Score-FID-on-CUB-and-OXford)] [[Python Code (Tensorflow)](https://github.com/taki0112/GAN_Metrics-Tensorflow)] [[Ref.Code(DM-GAN)](https://github.com/MinfengZhu/DM-GAN)]
-
-* <span id="head-r"> R-precision </span> [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)] [[Ref.Code(CPGAN)](https://github.com/dongdongdong666/CPGAN)]
-
-* <span id="head-l2"> L<sub>2</sub> error </span> [[Paper](https://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)]
-
-* <span id="head-lpips"> Learned Perceptual Image Patch Similarity (LPIPS) </span> [[Paper](https://arxiv.org/abs/1801.03924)] [[Python Code](https://github.com/richzhang/PerceptualSimilarity)]
-
-* <span id="head-clipscore"> CLIPScore </span> [[Paper](https://arxiv.org/abs/2104.08718)] [[Python Code](https://github.com/jmhessel/clipscore)]
-
-* <span id="head-mid"> MID </span> [[Paper](https://openreview.net/forum?id=wKd2XtSRsjl)] [[Python Code](https://github.com/naver-ai/mid.metric)]
-
-* <span id="head-pickscore"> PickScore </span> [[Paper](https://arxiv.org/abs/2305.01569)] [[Python Code](https://huggingface.co/yuvalkirstain/PickScore_v1)]
-
-* <span id="head-hpsv2"> Human Preference Score v2 (HPS v2) </span> [[Paper](https://arxiv.org/abs/2306.09341)] [[Python Code](https://github.com/tgxs002/HPSv2)]
-
-## <span id="head3"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
-    
-* <span id="head-flower"> **Oxford-102 Flower** </span>
-
-  Oxford-102 Flower is a 102-category dataset, consisting of 102 flower categories. The flowers are chosen to be flowers commonly occurring in the United Kingdom. The images have large scale, pose and light variations. 
-  * **Detailed information (Images):**  ⇒ [[Paper](http://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/nilsback08.pdf)] [[Website](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)]
-    * Number of different categories: 102 (**Training**: 82 categories. **Testing**: 20 categories.)
-    * Number of flower images: 8,189
-  * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Download](https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view?usp=sharing&resourcekey=0-Av8zFbeDDvNcF1sSjDR32w)]
-    * Descriptions per image: 10 Captions
- 
-* <span id="head-cub"> **Caltech-UCSD Bird(CUB)** </span>
-
-  Caltech-UCSD Birds-200-2011 (CUB-200-2011) is an extended version of the CUB-200 dataset, with roughly double the number of images per class and new part location annotations.
-  * **Detailed information (Images):**  ⇒ [[Paper](http://www.vision.caltech.edu/visipedia/papers/CUB_200_2011.pdf)] [[Website](http://www.vision.caltech.edu/datasets/cub_200_2011/)]
-    * Number of different categories: 200 (**Training**: 150 categories. **Testing**: 50 categories.)
-    * Number of bird images: 11,788
-    * Annotations per image: 15 Part Locations, 312 Binary Attributes, 1 Bounding Box, Ground-truth Segmentation
-  * **Detailed information (Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)] [[Website](https://drive.google.com/file/d/0B0ywwgffWnLLZW9uVHNjb2JmNlE/view)]
-    * Descriptions per image: 10 Captions
-
-* <span id="head-coco"> **MS-COCO** </span>
-
-  COCO is a large-scale object detection, segmentation, and captioning dataset.
-  * **Detailed information (Images):**  ⇒ [[Paper](https://arxiv.org/pdf/1405.0312.pdf)] [[Website](https://cocodataset.org/#overview)]
-    * Number of different categories: 91
-    * Number of images: 120k (**Training**: 80k. **Testing**: 40k.)
-  * **Detailed information (Text Descriptions):** ⇒ [[Paper](https://arxiv.org/pdf/1405.0312.pdf)] [[Download](https://drive.google.com/file/d/1GOEl9lxgSsWUWOXkZZrch08GgPADze7U/view?usp=sharing)]
-    * Descriptions per image: 5 Captions
-    
-* <span id="head-mmdata"> **Multi-Modal-CelebA-HQ** </span>
-
-  Multi-Modal-CelebA-HQ is a large-scale face image dataset for text-to-image-generation, text-guided image manipulation, sketch-to-image generation, GANs for face generation and editing, image caption, and VQA.
-  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2012.03308.pdf)] [[Website](https://github.com/weihaox/Multi-Modal-CelebA-HQ-Dataset)] [[Download](https://drive.google.com/drive/folders/1eVrGKfkbw7bh9xPcX8HJa-qWQTD9aWvf)]
-    * Number of images (from Celeba-HQ): 30,000 (**Training**: 24,000. **Testing**: 6,000.)
-    * Descriptions per image: 10 Captions
-  * **Detailed information (Masks):** 
-    * Number of masks (from Celeba-Mask-HQ): 30,000 (512 x 512)
-  * **Detailed information (Sketches):** 
-    * Number of Sketches: 30,000 (512 x 512)
-  * **Detailed information (Image with transparent background):** 
-    * Not fully uploaded
-
-* <span id="head-celebad"> **CelebA-Dialog** </span>
-
-  CelebA-Dialog is a large-scale visual-language face dataset. It has two properties:
-(1) Facial images are annotated with **rich fine-grained labels**, which classify one attribute into multiple degrees according to its semantic meaning.
-(2) Accompanied with each image, there are **captions describing** the attributes and a **user request sample**.
-  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)] [[Website](http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html)] [[Download](https://github.com/yumingj/Talk-to-Edit)]
-    * Number of identities: 10,177
-    * Number of images: 202,599 
-    * 5 fine-grained attributes annotations per image: Bangs, Eyeglasses, Beard, Smiling, and Age
-
-
-* <span id="head-ffhqtext"> **FFHQ-Text** </span>
-
-  FFHQ-Text is a small-scale face image dataset with large-scale facial attributes, designed for text-to-face generation & manipulation, text-guided facial image manipulation, and other vision-related tasks.
-  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481026)] [[Website](https://github.com/Yutong-Zhou-cv/FFHQ-Text_Dataset)] [[Download](https://forms.gle/f7oMXD3g9BgdgEUd7)]
-    * Number of images (from FFHQ): 760 (**Training**: 500. **Testing**: 260.)
-    * Descriptions per image: 9 Captions
-    * 13 multi-valued facial element groups from coarse to fine.
-  * **Detailed information (BBox):** ⇒ [[Website](https://www.robots.ox.ac.uk/~vgg/software/via/)]
-
-* <span id="head-celebAtext"> **CelebAText-HQ** </span>
-
-  CelebAText-HQ is a large-scale face image dataset with large-scale facial attributes, designed for text-to-face generation.
-  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475391)] [[Website](https://github.com/cripac-sjx/SEA-T2F)] [[Download](https://drive.google.com/drive/folders/1IAb_iy6-soEGQWhbgu6cQODsIUJZpahC)]
-    * Number of images (from Celeba-HQ): 15010 (**Training**: 13,710. **Testing**: 1300.)
-    * Descriptions per image: 10 Captions
-
-* <span id="head-deepfashion"> **DeepFashion-MultiModal** </span>
-  
-  DeepFashion-MultiModal is a large-scale high-quality human dataset. Human images are annotated with **rich multi-modal labels**, including human parsing labels, keypoints, densepose, fine-grained attributes and textual descriptions.
-  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/pdf/2205.15996.pdf)] [[Website](https://github.com/yumingj/DeepFashion-MultiModal)] [[Download](https://drive.google.com/drive/folders/1An2c_ZCkeGmhJg0zUjtZF46vyJgQwIr2?usp=sharing)]
-    * Number of images: 44,096, including 12,701 full-body images
-    * Descriptions per image: 1 Caption
-
-* <span id="head-anna"> **ANNA** </span>
-
-  ANNA is an Abstractive News captioNs dAtaset extracted from online news articles in a variety of different contexts. The generated images are judged on the basis of contextual relevance, visual quality, and perceptual similarity to ground-truth image-caption pairs.
-  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2301.02160)] [[Download](https://github.com/aashish2000/ANNA)]
-    * Number of image-text pairs (from The New York Times): 29625 (**Training**: 17897. **Validation**: 1622. **Testing**: 1649.)
-
-* <span id="head-bento"> **Bento800-Text** </span>
-
-  Bento800 is the first manually annotated synthetic box lunch presentation dataset with diverse annotations(BBox, Segmentation, Labels... ) for novel aesthetic box lunch presentation design.
-  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/10.1145/3552485.3554935)] [[Website](https://github.com/Yutong-Zhou-cv/Bento800_Dataset)] [[Download](https://drive.google.com/drive/folders/1_VvAbIzeuVew4fa98CcE11mB9SoAI3q-?usp=sharing)]
-    * Number of images: 800 (**Training**: 766. **Testing**: 34.)
-    * Descriptions per image: 9 Captions
-
-* <span id="head-others"> **Others** </span>
-    * (arXiv preprint 2023) **AGIQA-3K** [[Paper](https://arxiv.org/abs/2306.04717)] [[Dataset](https://github.com/lcysyzxdxc/AGIQA-3k-Database/tree/main)]
-    * (CVPR 2023) [💬 Video] **CelebV-Text** [[Paper](https://arxiv.org/abs/2303.14717)] [[Github](https://github.com/celebv-text/CelebV-Text)] [[Project](https://celebv-text.github.io/)]
-    * (ECCV 2022) [💬 Video] **CelebV-HQ** [[Paper](https://arxiv.org/abs/2207.12393)] [[Github](https://github.com/celebv-hq/CelebV-HQ)] [[Project](https://celebv-hq.github.io/)]
-
-
-## <span id="head4"> *4. Project* </span> **[       «🎯Back To Top»       ](#)**
-* ⭐⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
-    * > A new text-to-image model building upon the [Würstchen](https://openreview.net/pdf?id=gU58d5QeGv) architecture. 
-    * > This model is being released under a non-commercial license that permits non-commercial use only.
-    * > Stable Cascade is exceptionally easy to train and finetune on consumer hardware thanks to its three-stage approach.
-* **Hotpot-AI Art Generator**. [[Project](https://hotpot.ai/art-generator?s=stable-diffusion#)] 
-    * > Our AI image generator brings imagination to life, producing stunning art, illustrations, and photos in seconds. Unleash creativity and express yourself in new ways with the power of AI. 
-* **Generative Fill**. [[Project](https://www.adobe.com/products/photoshop/generative-fill.html)] 
-    * > Add, remove, or expand content in images right in Adobe Photoshop with simple text prompts powered by Adobe Firefly generative AI.
-* **LLaVA-Interactive**. [[Paper](https://arxiv.org/abs/2311.00571v1)] [[Project](https://llava-vl.github.io/llava-interactive/)] [[Demo](https://llavainteractive.ngrok.io/)] 
-    * > Image Chat, Segmentation, and Generation/Editing -- All-in-one demo
-* **Mini-DALL•E 3**. [[Demo](http://139.224.23.16:10085/)] 
-    * > Interactive text to image (iT2I)
-* **Stable Doodle**. [[ClipDrop](https://clipdrop.co/stable-doodle)] 
-    * > Transform your doodles into real images in seconds.
-* **StableStudio**. [[Github](https://github.com/Stability-AI/StableStudio)] 
-    * > The open-source version of [DreamStudio](https://dreamstudio.ai/).
-* ⭐**Stable Diffusion XL**. [[ClipDrop](https://clipdrop.co/stable-diffusion)] [[Website](https://stability.ai/blog/stable-diffusion-xl-beta-available-for-api-customers-and-dreamstudio-users)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
-    * > Next-level photorealism capabilities; Enhanced image composition and face generation; Rich visuals and jaw-dropping aesthetics; Use of shorter prompts to create descriptive imagery; Greater capability to produce legible text.
-    * > SDXL also has functionality that extends beyond just text-to-image prompting, including ***image-to-image prompting*** (inputting one image to get variations of that image), ***inpainting*** (reconstructing missing parts of an image) and ***outpainting*** (constructing a seamless extension of an existing image). 
-* ⭐**Image2Paragraph**. [[Github](https://github.com/showlab/Image2Paragraph)] [[Hugging Face](https://huggingface.co/spaces/Awiny/Image2Paragraph)]
-    * From ***One-to-many*** to ***One-to-one***
-* **2022 Top Papers in AI — A Year of Generative Models**. [[Medium](https://chuanenlin.medium.com/2022-top-ai-papers-a-year-of-generative-models-a7dcd9109e39)] 
-* **Whisper-to-stable-diffusion**. [[Hugging Face](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion)] 
-    * >***Whisper*** is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio. It is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
-    * >***Stable Diffusion*** is a state-of-the-art text-to-image model that generates images from text.
-* ⭐⭐**Stable Diffusion 2.0**. [[Github](https://github.com/Stability-AI/stablediffusion)] [[Website](https://stability.ai/blog/stable-diffusion-v2-release)] [[Stability AI API Platform](https://platform.stability.ai/)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
-    * >***New Text-to-Image Diffusion Model:*** Generates images with default resolutions of both 512x512 pixels and 768x768 pixels and remove adult content using LAION’s NSFW filter.
-    * >***Super-resolution Upscaler Diffusion Model:*** Enhances the resolution of images by a factor of 4.
-    * >***Depth-to-Image Diffusion Model:*** Depth2img infers the depth of an input image (using [an existing model](https://github.com/isl-org/MiDaS)), and then generates new images using both the text and depth information. New images look radically different from the original but still preserve the coherence and depth of that image.
-    * >***Updated Inpainting Diffusion Model:*** A new text-guided inpainting model, fine-tuned on the new Stable Diffusion 2.0 base text-to-image, which makes it super easy to switch out parts of an image intelligently and quickly.
- 
-* ⭐**Stable Diffusion**. [[**Awesome Stable-Diffusion**](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)] [[Researcher Access Form](https://stability.ai/research-access-form)] [[Github](https://github.com/CompVis/stable-diffusion)] [[Web UI](https://github.com/sd-webui/stable-diffusion-webui)] [[WebUI Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)] [[Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)] [[DreamStudio Beta](https://beta.dreamstudio.ai/dream)]
-    * >Stable Diffusion is a text-to-image model that will empower billions of people to create stunning art within seconds. It is a breakthrough in speed and quality meaning that it can run on consumer GPUs.
-* **Midjourney**. [[Documentation](https://midjourney.gitbook.io/docs/)] [[Homepage](https://www.midjourney.com/home/)] 
-    * >Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
-There are two ways to experience the tools: the Midjourney Bot and the [Web App](https://www.midjourney.com/).
-* **Artflowq**. [[Start Creating!](https://artflow.ai/)] 
-    * >Artflow lets users generate visual content with the help of AI. Create unique avatars with ease and turn any description into a portrait.
-* **craiyon(~~DALL·E Mini~~)**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)] [[Homepage](https://www.craiyon.com/)] [[min(DALL·E)](https://github.com/kuprel/min-dalle)]
-    * >A free, open-source AI that produces amazing images from text inputs. AI model drawing images from any prompt!
-* **Disco Diffusion**. [[Github](https://github.com/alembics/disco-diffusion)] [[Colab](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)]
-    * >A Frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations.
-* **Aphantasia**. [[Github](https://github.com/eps696/aphantasia)] 
-    * >This is a text-to-image tool, part of the [artwork](https://computervisionart.com/pieces2021/aphantasia/) of the same name. ([Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) is the inability to visualize mental images, the deprivation of visual dreams.)
-* **Text2Art**. [[Try it now!](https://text2art.com/)] [[Github](https://github.com/mfrashad/text2art)] [[Blog](https://towardsdatascience.com/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f)] 
-    * >Text2Art is an AI-powered art generator based on VQGAN+CLIP that can generate all kinds of art such as pixel art, drawing, and painting from just text input. 
-* **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 ## <span id="head5"> *5. Paper With Code* </span>
 
