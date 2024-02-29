@@ -644,6 +644,7 @@ There are two ways to experience the tools: the Midjourney Bot and the [Web App]
          * 📚Text-To-Image, Image-To-Image, Text+Image → Image 
 
    * <span id="head-app"> **🛫Applications🛫** </span> **[       «🎯Back To Top»       ](#)**
+       * (arXiv preprint 2024) [💬Multi-Concept Composition] **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**, Chun-Hsiao Yeh et al. [[Paper](https://arxiv.org/abs/2402.15504)] [[Project](https://danielchyeh.github.io/Gen4Gen/)] [[Code](https://github.com/louisYen/Gen4Gen)]
        * (arXiv preprint 2023) [💬3D Hairstyle Generation] **HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**, Vanessa Sklyarova et al. [[Paper](https://arxiv.org/abs/2312.11666)] [[Project](https://haar.is.tue.mpg.de/)] 
        * (arXiv preprint 2023) [💬Image Super-Resolution] **Image Super-Resolution with Text Prompt Diffusion**, Zheng Chen et al. [[Paper](https://arxiv.org/abs/2311.14282)] [[Code](https://github.com/zhengchen1999/PromptSR)] 
        * (2023) [💬Image Editing] **Generative Fill**. [[Project](https://www.adobe.com/products/photoshop/generative-fill.html)] 
