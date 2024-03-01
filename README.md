@@ -170,6 +170,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
      * (arXiv preprint 2024) **DressCode: Autoregressively Sewing and Generating Garments from Text Guidance**, Kai He et al.  [[Paper](https://arxiv.org/abs/2401.16465)] [[Project](https://sites.google.com/view/projectpage-dresscode)]
 
 * <span id="head-2023"> **2023**  </span> **[       «🎯Back To Top»       ](#)**
+     * (arXiv preprint 2023) **ElasticDiffusion: Training-free Arbitrary Size Image Generation**, Moayed Haji-Ali et al.  [[Paper](https://arxiv.org/abs/2311.18822)] [[Project](https://elasticdiffusion.github.io/)] [[Code](https://github.com/moayedhajiali/elasticdiffusion-official)] [[Demo](https://replicate.com/moayedhajiali/elasticdiffusion)]
      * (ICCV 2023) **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**, Jinheng Xie et al. [[Paper](https://arxiv.org/abs/2307.10816)] [[Code](https://github.com/showlab/BoxDiff)] 
      * (arXiv preprint 2023) **Late-Constraint Diffusion Guidance for Controllable Image Synthesis**, Chang Liu et al.  [[Paper](https://arxiv.org/abs/2305.11520)] [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
      * (arXiv preprint 2023) **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**, Aishwarya Agarwal et al.  [[Paper](https://arxiv.org/abs/2311.11919)] 
