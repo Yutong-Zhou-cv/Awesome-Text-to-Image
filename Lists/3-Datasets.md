@@ -1,4 +1,4 @@
-# 🧸Datasets
+# <p align=center>🧸Datasets</p>
 
   * - [x] [Oxford-102 Flower](#head-flower)
   * - [x] [Caltech-UCSD Bird (CUB)](#head-cub)
@@ -13,7 +13,7 @@
   * - [ ] [Others](#head-others)
 
 
-## Content
+## Details
 * <span id="head-flower"> **Oxford-102 Flower** </span>
 
   Oxford-102 Flower is a 102-category dataset, consisting of 102 flower categories. The flowers are chosen to be flowers commonly occurring in the United Kingdom. The images have large scale, pose and light variations. 
