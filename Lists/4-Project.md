@@ -1,4 +1,4 @@
-# 🔮Project
+# <p align=center>🔮Project</p>
 
 * ⭐⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
     * > A new text-to-image model building upon the [Würstchen](https://openreview.net/pdf?id=gU58d5QeGv) architecture. 
@@ -35,7 +35,7 @@
     * >Stable Diffusion is a text-to-image model that will empower billions of people to create stunning art within seconds. It is a breakthrough in speed and quality meaning that it can run on consumer GPUs.
 * **Midjourney**. [[Documentation](https://midjourney.gitbook.io/docs/)] [[Homepage](https://www.midjourney.com/home/)] 
     * >Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
-    >There are two ways to experience the tools: the Midjourney Bot and the [Web App](https://www.midjourney.com/).
+    * >There are two ways to experience the tools: the Midjourney Bot and the [Web App](https://www.midjourney.com/).
 * **Artflowq**. [[Start Creating!](https://artflow.ai/)] 
     * >Artflow lets users generate visual content with the help of AI. Create unique avatars with ease and turn any description into a portrait.
 * **craiyon(~~DALL·E Mini~~)**. [[Short Video Explanation](https://www.youtube.com/watch?v=qOxde_JV0vI)] [[Blog](https://www.louisbouchard.ai/dalle-mini/)] [[Github](https://github.com/borisdayma/dalle-mini)] [[Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)] [[Homepage](https://www.craiyon.com/)] [[min(DALL·E)](https://github.com/kuprel/min-dalle)]
