@@ -522,8 +522,16 @@ A number of studies have been conducted on text-to-image synthesis techniques th
        * ⭐(arXiv preprint 2023) **MusicLM: Generating Music From Text**, Andrea Agostinelli et al. [[Paper](https://arxiv.org/abs/2301.11325)] [[Project](https://google-research.github.io/seanet/musiclm/examples/)] [[MusicCaps](https://www.kaggle.com/datasets/googleai/musiccaps)]
 
 
-## <span id="head7"> *Contact Me* </span>
+## <span id="head7"> Contact Me </span>
 
  [![Star History Chart](https://api.star-history.com/svg?repos=Yutong-Zhou-cv/Awesome-Text-to-Image&type=Date)](https://star-history.com/#Yutong-Zhou-cv/Awesome-Text-to-Image&Date)
 
 If you have any questions or comments, please feel free to contact [**Yutong**](https://elizazhou96.github.io/) ლ(╹◡╹ლ)
+
+## Contributors
+
+<a href="https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Yutong-Zhou-cv/awesome-Text-to-Image" />
+</a>
+
+> Made with [contrib.rocks](https://contrib.rocks).
