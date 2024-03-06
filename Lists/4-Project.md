@@ -1,5 +1,7 @@
 # <p align=center>🔮Project</p>
 
+* **Lore Machine**. [[Website](https://www.loremachine.world/login)] 
+    * > An Al-collaborative story visualization system that transforms story text into multimedia.
 * ⭐⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
     * > A new text-to-image model building upon the [Würstchen](https://openreview.net/pdf?id=gU58d5QeGv) architecture. 
     * > This model is being released under a non-commercial license that permits non-commercial use only.
