@@ -530,6 +530,8 @@ If you have any questions or comments, please feel free to contact [**Yutong**](
 
 ## Contributors
 
+![Alt](https://repobeats.axiom.co/api/embed/2a1ae2aebaa287bfbf50a9aafdfde0406c1b0cfe.svg "Repobeats analytics image")
+
 <a href="https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Yutong-Zhou-cv/awesome-Text-to-Image" />
 </a>
