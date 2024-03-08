@@ -150,6 +150,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2024"> **2024**  </span> **[       «🎯Back To Top»       ](#)**
+     * (CVPR 2024) **Discriminative Probing and Tuning for Text-to-Image Generation**, Leigang Qu et al.  [[Paper](https://arxiv.org/abs/2403.04321)] [[Project](https://dpt-t2i.github.io/)] 
      * (CVPR 2024) **RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization**, Mengqi Huang et al.  [[Paper](https://arxiv.org/abs/2403.00483)] [[Project](https://corleone-huang.github.io/realcustom/)] 
      * ⭐(arXiv preprint 2024) **SDXL-Lightning: Progressive Adversarial Diffusion Distillation**, Shanchuan Lin et al.  [[Paper](https://arxiv.org/abs/2402.13929)] [[HuggingFace](https://huggingface.co/ByteDance/SDXL-Lightning)] [[Demo](https://fastsdxl.ai/)]
      * ⭐(arXiv preprint 2024) **RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**, Xinchen Zhang et al.  [[Paper](https://arxiv.org/abs/2402.12908)] [[Code](https://github.com/YangLing0818/RealCompo)] 
