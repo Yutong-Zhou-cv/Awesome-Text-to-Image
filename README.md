@@ -76,6 +76,7 @@ If you find this paper and repo helpful for your research, please cite it below:
   * - [ ] [⭐Multimodality⭐](#head-mm)
   * - [ ] [🛫Applications🛫](#head-app)
   * - [ ] [Text+Image/Video → Image/Video](#head-ti2i)
+  * - [ ] [Text+Layout → Image](#head-tl2i)
   * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ati2i)
   * - [ ] [Layout/Mask → Image](#head-l2i)
   * - [ ] [Label-set → Semantic maps](#head-l2s)
@@ -403,19 +404,22 @@ A number of studies have been conducted on text-to-image synthesis techniques th
        * (ACMMM 2020) **Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach**, Yahui Liu et al. [[Paper](https://arxiv.org/pdf/2008.04200.pdf)]
        * (NeurIPS 2018) **Text-adaptive generative adversarial networks: Manipulating images with natural language**, Seonghyeon Nam et al. [[Paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language.pdf)] [[Code](https://github.com/woozzu/tagan)]
 
+   * <span id="head-tl2i"> **Text+Layout → Image** </span> **[       «🎯Back To Top»       ](#)**
+       * (CVPR 2024) **MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**, Dewei Zhou et al. [[Paper](https://arxiv.org/abs/2402.05408)] [[Project](https://migcproject.github.io/)] [[Code](https://github.com/limuloo/MIGC)]
+       * (ICLR 2024) **Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**, Yumeng Li et al. [[Paper](https://arxiv.org/abs/2401.08815)] [[Project](https://yumengli007.github.io/ALDM/)] [[Code](https://github.com/boschresearch/ALDM)]
+       * (ICCV 2023) **Dense Text-to-Image Generation with Attention Modulation**, Yunji Kim et al. [[Paper](https://arxiv.org/abs/2308.12964)] [[Code](https://github.com/naver-ai/DenseDiffusion)]
+       * (arXiv preprint 2023) **Training-Free Layout Control with Cross-Attention Guidance**, Minghao Chen et al.  [[Paper](https://arxiv.org/abs/2304.03373)] [[Code](https://github.com/silent-chen/layout-guidance)] [[Project](https://silent-chen.github.io/layout-guidance/)]
+
    * <span id="head-ati2i"> **Audio+Text+Image/Video → Image/Video** </span> **[       «🎯Back To Top»       ](#)**
        * (arXiv preprint 2023) [💬Sound+Speech→Robotic Painting] **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et al. [[Paper](https://arxiv.org/abs/2302.04850)]
        * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
        
    * <span id="head-l2i"> **Layout/Mask → Image** </span> **[       «🎯Back To Top»       ](#)**
        * (CVPR 2024) [💬Instance information +Text→Image] **InstanceDiffusion: Instance-level Control for Image Generation**, XuDong Wang et al. [[Paper](https://arxiv.org/abs/2402.03290)] [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] [[Code](https://github.com/frank-xwang/InstanceDiffusion)]
-       * (ICLR 2024) [💬Layout+Text→Image] **Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**, Yumeng Li et al. [[Paper](https://arxiv.org/abs/2401.08815)] [[Project](https://yumengli007.github.io/ALDM/)] [[Code](https://github.com/boschresearch/ALDM)]
-       * (ICCV 2023) [💬Layout+Text→Image] **Dense Text-to-Image Generation with Attention Modulation**, Yunji Kim et al. [[Paper](https://arxiv.org/abs/2308.12964)] [[Code](https://github.com/naver-ai/DenseDiffusion)]
        * (arXiv preprint 2023) [💬Text→Layout→Image] **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**, Leigang Qu et al. [[Paper](https://arxiv.org/abs/2308.05095)]
        * (CVPR 2023) [💬Mask+Text→Image] **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et al.  [[Paper](https://arxiv.org/abs/2211.11742)] [[Demo](https://forms.microsoft.com/pages/responsepage.aspx?id=Wht7-jR7h0OUrtLBeN7O4fEq8XkaWWJBhiLWWMELo2NUMjJYS0FDS0RISUVBUllMV0FRSzNCOTFTQy4u)]
        * (CVPR 2023) **Freestyle Layout-to-Image Synthesis**, Han Xue et al. [[Paper](https://arxiv.org/abs/2303.14412)] [[Code](https://github.com/essunny310/FreestyleNet)]
        * (CVPR 2023) **LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**, Guangcong Zheng et al. [[Paper](https://arxiv.org/abs/2303.17189)] [[Code](https://github.com/ZGCTroy/LayoutDiffusion)]
-       * (arXiv preprint 2023) [💬Layout+Text→Image] **Training-Free Layout Control with Cross-Attention Guidance**, Minghao Chen et al.  [[Paper](https://arxiv.org/abs/2304.03373)] [[Code](https://github.com/silent-chen/layout-guidance)] [[Project](https://silent-chen.github.io/layout-guidance/)]
        * (Journal of King Saud University - Computer and Information Sciences) [Survey] **Image Generation Models from Scene Graphs and Layouts: A Comparative Analysis**, Muhammad Umair Hassan et al. [[Paper](https://www.sciencedirect.com/science/article/pii/S1319157823000897)] 
        * (CVPR 2022) **Modeling Image Composition for Complex Scene Generation**, Zuopeng Yang et al. [[Paper](https://arxiv.org/abs/2206.00923)] [[Code](https://github.com/JohnDreamer/TwFA)]
        * (CVPR 2022) **Interactive Image Synthesis with Panoptic Layout Generation**, Bo Wang et al. [[Paper](https://arxiv.org/abs/2203.02104)] 
