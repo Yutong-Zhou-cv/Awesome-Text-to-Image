@@ -152,6 +152,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
     * (arXiv preprint 2022) [💬 Cultural Bias] **The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**, Lukas Struppek et al.  [[Paper](https://arxiv.org/abs/2209.08891)] 
 
 * <span id="head-2024"> **2024**  </span> **[       «🎯Back To Top»       ](#)**
+     * (ICLR 2024) **PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis**, Junsong Chen et al.  [[Paper](https://arxiv.org/abs/2310.00426)] [[Project](https://pixart-alpha.github.io/)] [[Code](https://github.com/PixArt-alpha/PixArt-alpha)] [[Hugging Face](https://huggingface.co/spaces/PixArt-alpha/PixArt-LCM)]
+     * (arXiv preprint 2024) **PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**, Junsong Chen et al.  [[Paper](https://arxiv.org/abs/2401.05252)] 
      * (CVPR 2024) **Discriminative Probing and Tuning for Text-to-Image Generation**, Leigang Qu et al.  [[Paper](https://arxiv.org/abs/2403.04321)] [[Project](https://dpt-t2i.github.io/)] 
      * (CVPR 2024) **RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization**, Mengqi Huang et al.  [[Paper](https://arxiv.org/abs/2403.00483)] [[Project](https://corleone-huang.github.io/realcustom/)] 
      * ⭐(arXiv preprint 2024) **SDXL-Lightning: Progressive Adversarial Diffusion Distillation**, Shanchuan Lin et al.  [[Paper](https://arxiv.org/abs/2402.13929)] [[HuggingFace](https://huggingface.co/ByteDance/SDXL-Lightning)] [[Demo](https://fastsdxl.ai/)]
