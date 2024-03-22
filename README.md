@@ -158,6 +158,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
+     * (CVPR 2024) **ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations**, Maitreya Patel et al.  [[Paper](https://arxiv.org/abs/2312.04655)] [[Project](https://eclipse-t2i.vercel.app/)] [[Code](https://github.com/eclipse-t2i/eclipse-inference)] [[Hugging Face](https://huggingface.co/spaces/ECLIPSE-Community/ECLIPSE-Kandinsky-v2.2)]
      * (arXiv preprint 2024) **SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**, Jialu Li et al.  [[Paper](https://arxiv.org/abs/2403.06952)] [[Project](https://selma-t2i.github.io/)] [[Code](https://github.com/jialuli-luka/SELMA)]
      * (ICLR 2024) **PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis**, Junsong Chen et al.  [[Paper](https://arxiv.org/abs/2310.00426)] [[Project](https://pixart-alpha.github.io/)] [[Code](https://github.com/PixArt-alpha/PixArt-alpha)] [[Hugging Face](https://huggingface.co/spaces/PixArt-alpha/PixArt-LCM)]
      * (arXiv preprint 2024) **PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**, Junsong Chen et al.  [[Paper](https://arxiv.org/abs/2401.05252)] 
