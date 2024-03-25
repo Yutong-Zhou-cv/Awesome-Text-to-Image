@@ -490,6 +490,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
  
    * <span id="head-t2m"> **Text → 3D/Motion/Shape/Mesh/Object...** </span> 
+       * (arXiv preprint 2024) [💬Text → 3D] **LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**, Kevin Xie et al. [[Paper](https://arxiv.org/abs/2403.15385)] [[Project](https://research.nvidia.com/labs/toronto-ai/LATTE3D/)]
        * (IEEE Transactions on Visualization and Computer Graphics) [💬Text → Motion] **GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**, Xuehao Gao et al. [[Paper](https://arxiv.org/abs/2401.02142v1)]
        * (arXiv preprint 2023) [💬Text → 4D] **4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling**, Sherwin Bahmani et al. [[Paper](https://arxiv.org/abs/2311.17984)] [[Project](https://sherwinbahmani.github.io/4dfy/)] [[Code](https://github.com/sherwinbahmani/4dfy)]
        * (arXiv preprint 2023) [💬Text → 3D] **MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture**, Lincong Feng et al. [[Paper](https://arxiv.org/abs/2311.10123)] [[Project](https://metadreamer3d.github.io/)]
