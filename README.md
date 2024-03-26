@@ -323,6 +323,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> 
+       * (arXiv preprint 2024) **MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration**, Zhichao Wei et al. [[Paper](https://arxiv.org/abs/2403.15059)] 
        * (CVPR 2024) **Instruct-Imagen: Image Generation with Multi-modal Instruction**, Hexiang Hu et al. [[Paper](https://arxiv.org/abs/2401.01952)] [[Project](https://instruct-imagen.github.io/)]
        * (arXiv preprint 2024) [💬NERF] **InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**, Mohamad Shahbazi et al. [[Paper](https://arxiv.org/abs/2401.05335)] [[Project](https://mohamad-shahbazi.github.io/inserf/)]
        * (arXiv preprint 2023) **ViCo: Plug-and-play Visual Condition for Personalized Text-to-image Generation**, Shaozhe Hao et al. [[Paper](https://arxiv.org/abs/2306.00971)] [[Code](https://github.com/haoosz/ViCo)]
