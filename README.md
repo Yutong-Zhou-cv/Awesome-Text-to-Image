@@ -172,7 +172,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 [<u><🎯Back to Top></u>](#head-content)
 
-* <span id="head-2023"> **2023**  </span> 
+* <span id="head-2023"> **2023**  </span>
+     * (arXiv preprint 2023) **DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models**, Sungnyun Kim et al. [[Paper](https://arxiv.org/abs/2305.15194)] [[Code](https://github.com/sungnyun/diffblender)] [[Project](https://sungnyun.github.io/diffblender/)] 
      * (arXiv preprint 2023) **ElasticDiffusion: Training-free Arbitrary Size Image Generation**, Moayed Haji-Ali et al.  [[Paper](https://arxiv.org/abs/2311.18822)] [[Project](https://elasticdiffusion.github.io/)] [[Code](https://github.com/moayedhajiali/elasticdiffusion-official)] [[Demo](https://replicate.com/moayedhajiali/elasticdiffusion)]
      * (ICCV 2023) **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**, Jinheng Xie et al. [[Paper](https://arxiv.org/abs/2307.10816)] [[Code](https://github.com/showlab/BoxDiff)] 
      * (arXiv preprint 2023) **Late-Constraint Diffusion Guidance for Controllable Image Synthesis**, Chang Liu et al.  [[Paper](https://arxiv.org/abs/2305.11520)] [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
@@ -260,6 +261,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
          * 📚Image-to-Audio retrieval, Audio-to-Image retrieval, Text-to-Image+Audio, Audio+Image-to-Image, Audio-to-Image generation, Zero-shot text to audio retrieval and classification... 
        * ⭐(CVPR 2023) **Scaling up GANs for Text-to-Image Synthesis**, Minguk Kang et al. [[Paper](https://arxiv.org/abs/2303.05511)] [[Project](https://mingukkang.github.io/GigaGAN/)] 
          * 📚Text-to-Image, Controllable image synthesis (Style Mixing, Prompt Interpolation, Prompt Mixing), Super Resolution (Text-conditioned, Unconditional)
+       * (arXiv preprint 2023) **DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models**, Sungnyun Kim et al. [[Paper](https://arxiv.org/abs/2305.15194)] [[Code](https://github.com/sungnyun/diffblender)] [[Project](https://sungnyun.github.io/diffblender/)]
+         * 📚Text-to-Image, Multimodal controllable image synthesis, Text + Image + Spatial/Non-spatial Tokens → Image
        * (arXiv preprint 2023) **TextIR: A Simple Framework for Text-based Editable Image Restoration**, Yunpeng Bai et al. [[Paper](https://arxiv.org/abs/2302.14736)] [[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
          * 📚Image Inpainting, Image Colorization, Image Super-resolution, Image Editing via Degradation
        * (arXiv preprint 2023) **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**, Cusuh Ham et al. [[Paper](https://arxiv.org/abs/2302.12764)]
