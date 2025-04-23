@@ -350,6 +350,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-app"> **🛫Applications🛫** </span> 
+       * (CVPR 2025) [💬Image Restoration] **Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**, Junyuan Deng et al. [[Paper](https://arxiv.org/abs/2504.15159)]
        * (arXiv preprint 2024) [💬Multi-Concept Composition] **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**, Chun-Hsiao Yeh et al. [[Paper](https://arxiv.org/abs/2402.15504)] [[Project](https://danielchyeh.github.io/Gen4Gen/)] [[Code](https://github.com/louisYen/Gen4Gen)]
        * (arXiv preprint 2023) [💬3D Hairstyle Generation] **HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**, Vanessa Sklyarova et al. [[Paper](https://arxiv.org/abs/2312.11666)] [[Project](https://haar.is.tue.mpg.de/)] 
        * (arXiv preprint 2023) [💬Image Super-Resolution] **Image Super-Resolution with Text Prompt Diffusion**, Zheng Chen et al. [[Paper](https://arxiv.org/abs/2311.14282)] [[Code](https://github.com/zhengchen1999/PromptSR)] 
