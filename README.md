@@ -372,6 +372,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> 
+       * (arXiv preprint 2025) **In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**, Zechuan Zhang et al. [[Paper](https://arxiv.org/abs/2504.20690)] [[Project](https://river-zhang.github.io/ICEdit-gh-pages/)] [[Code](https://github.com/River-Zhang/ICEdit)]
        * (arXiv preprint 2025) **MAGREF: Masked Guidance for Any-Reference Video Generation**, Yufan Deng et al. [[Paper](https://arxiv.org/abs/2505.23742v1)] [[Project](https://magref-video.github.io/magref.github.io/)] [[Code](https://github.com/MAGREF-Video/MAGREF)]
        * (arXiv preprint 2025) **Generating Multi-Image Synthetic Data for Text-to-Image Customization**, Nupur Kumari et al. [[Paper](https://arxiv.org/abs/2502.01720)] [[Project](https://www.cs.cmu.edu/~syncd-project/)] [[Code](https://github.com/nupurkmr9/syncd)]
        * (arXiv preprint 2024) [💬Style Transfer] **StyleShot: A Snapshot on Any Style**, Junyao Gao et al. [[Paper](https://arxiv.org/abs/2407.01414)] [[Project](https://github.com/open-mmlab/StyleShot)]
