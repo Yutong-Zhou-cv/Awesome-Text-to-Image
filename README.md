@@ -172,6 +172,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2025"> **2025**  </span> 
+     * (arXiv preprint 2025) **GenExam: A Multidisciplinary Text-to-Image Exam**, Zhaokai Wang et al. [[Paper](https://arxiv.org/abs/2509.14232)]
      * (arXiv preprint 2025) **RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image Generation**, Aviv Slobodkin et al. [[Paper](https://arxiv.org/abs/2504.17502)]
      * (arXiv preprint 2025) **An Empirical Study of GPT-4o Image Generation Capabilities**, Sixiang Chen et al. [[Paper](https://arxiv.org/abs/2504.05979)]
 
