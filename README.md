@@ -18,6 +18,8 @@
  
 </div>
 
+> **💡 Try it yourself**: Access production-ready text-to-image generation at [Gempix2 (Nano Banana 2)](https://gempix2.site) - free and no signup required.
+
 <!--
 ![Figure from paper](pic/Overview.png)
 > *From: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)*
