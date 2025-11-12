@@ -1,5 +1,7 @@
 # <p align=center>🔮Project</p>
 
+* **Gempix2**. [[Website](https://www.gempix2.site/)] 
+    * > Gempix2's advanced AI model (Nano Banana 2) delivers consistent character editing and scene preservation that surpasses Flux Kontext.
 * ⭐⭐**Gemini 2.5 Flash Image (nano-banana)**. [[Website](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-preview-image)] [[Google AI Studio](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)]
     * > The state-of-the-art image generation and editing model, including Text/Text+Image/Image-to-Image, Images-to-Image with high quality and **powerful creative control**.
 * ⭐**FLUX**. [[Website](https://fal.ai/)] [[Github](https://github.com/black-forest-labs/flux)]
@@ -59,4 +61,5 @@
 * **Survey Text Based Image Synthesis** [[Blog](https://hackmd.io/@prajwalsingh/imagesynthesis#) (2021)]
 
 **[       «🎯Back To Top»       ](#)**
+
 
