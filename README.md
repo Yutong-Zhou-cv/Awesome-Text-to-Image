@@ -139,7 +139,9 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 [<u><🎯Back to Top></u>](#head-content)
 
-* <span id="head-si"> **Specific Issues🤔**  </span> 
+* <span id="head-si"> **Specific Issues🤔**  </span>
+    * (arXiv preprint 2026) [🖼️ Aesthetic Dataset] **Moonworks Lunara Aesthetic Dataset**, Yan Wang et al. [[Paper](https://arxiv.org/abs/2601.07941)] [[Dataset](https://huggingface.co/datasets/moonworks/lunara-aesthetic)] 
+    * (arXiv preprint 2026) [📸 Variation Dataset] **Moonworks Lunara Aesthetic II: An Image Variation Dataset** Yan Wang et al. [[Paper](https://arxiv.org/abs/2602.01666)] [[Dataset](https://huggingface.co/datasets/moonworks/lunara-aesthetic-image-variations)] 
     * (arXiv preprint 2025) [💬 Differentiable Object Counting] **YOLO-Count: Differentiable Object Counting for Text-to-Image Generation**, Guanning Zeng et al.  [[Paper](https://arxiv.org/abs/2508.00728)] 
     * (arXiv preprint 2024) [💬 Gender Bias Alignment] **PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**, Shufan Li et al.  [[Paper](https://arxiv.org/abs/2406.19668)] [[Code](https://github.com/jacklishufan/PopAlignSDXL)]
     * (arXiv preprint 2024) [💬 Fine-Grained Feedback] **Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**, Katherine M. Collins et al.  [[Paper](https://arxiv.org/abs/2406.16807)] 
