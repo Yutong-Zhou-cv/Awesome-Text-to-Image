@@ -658,4 +658,5 @@ If you have any questions or comments, please feel free to contact [**Yutong**](
   <img src="https://contrib.rocks/image?repo=Yutong-Zhou-cv/awesome-Text-to-Image" />
 </a>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for text-to-image workflow orchestration, automated generation pipeline management, and multi-agent coordination. MIT licensed.
 > Made with [contrib.rocks](https://contrib.rocks).
