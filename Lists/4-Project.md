@@ -6,6 +6,8 @@
     * > The state-of-the-art image generation and editing model, including Text/Text+Image/Image-to-Image, Images-to-Image with high quality and **powerful creative control**.
 * ⭐**FLUX**. [[Website](https://fal.ai/)] [[Github](https://github.com/black-forest-labs/flux)]
     * > The most capable generative media models, including multiple model categories: Text/Image-to-Image, Text/Image/Video-to-Video, etc.
+* **ImageBench**. [[Website](https://imagebench.ai/)]
+    * > A benchmark and comparison site for text-to-image models with side-by-side outputs, pass-rate summaries, and methodology pages.
 * **Luma AI**. [[Website](https://lumalabs.ai/dream-machine)] 
     * > Dream Machine is an AI model that makes high-quality, realistic videos fast from text and images. It is a highly scalable and efficient transformer model trained directly on videos making it capable of generating physically accurate, consistent, and eventful shots. 
 * **Imagen 3**. [[Website](https://deepmind.google/technologies/imagen-3/)] 
