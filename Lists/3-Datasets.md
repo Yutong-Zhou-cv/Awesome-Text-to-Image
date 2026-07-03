@@ -12,6 +12,7 @@
   * - [x] [Bento800-Text](#head-bento)
   * - [x] [FaceCaption-15M](#head-face15m)
   * - [x] [TextAtlas5M](#head-TextAtlas5M)
+  * - [x] [DisciplineGen-1M](#head-DisciplineGen1M)
   * - [ ] [Others](#head-others)
 
 
@@ -108,13 +109,19 @@
 
   FaceCaption-15M is the largest facial image-caption dataset.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2407.08515)] [[Website](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)] 
-    * Number of images-text pair: over 15 million 
+    * Number of image-text pairs: over 15 million 
 
 * <span id="head-TextAtlas5M"> **TextAtlas5M** </span>
 
   TextAtlas5M focus on generating dense-text images and stands out in several key ways compared to previous text-rich datasets. 
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2502.07870)] [[Website](https://textatlas5m.github.io/)] 
-    * Number of images-text pair: ～ 5M 
+    * Number of image-text pairs: ～ 5M
+
+* <span id="head-DisciplineGen1M"> **DisciplineGen-1M** </span>
+
+  DisciplineGen-1M, a million-scale multidisciplinary dataset that supports text-to-image generation and image editing. 
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2607.02290)] [[Website](https://disciplinegen.github.io/)] 
+    * Number of image-text pairs: 1.2M samples spanning mathematics, physics, chemistry, biology, geography, computer science, economics, history, music, and sports. 
 
 * <span id="head-others"> **Others** </span>
     * (arXiv preprint 2023) **AGIQA-3K** [[Paper](https://arxiv.org/abs/2306.04717)] [[Dataset](https://github.com/lcysyzxdxc/AGIQA-3k-Database/tree/main)]
