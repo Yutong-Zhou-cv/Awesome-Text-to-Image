@@ -646,7 +646,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 ## <span id="head7"> Contact Me </span>
 
- [![Star History](https://star-history.deno.page/svg?repos=Yutong-Zhou-cv/Awesome-Text-to-Image&type=Date)](https://star-history.deno.page/#Yutong-Zhou-cv/Awesome-Text-to-Image&Date)
+ [![Star History](https://star-history.dera.page/svg?repos=Yutong-Zhou-cv/Awesome-Text-to-Image&type=Date)](https://star-history.dera.page/#Yutong-Zhou-cv/Awesome-Text-to-Image&Date)
 
 If you have any questions or comments, please feel free to contact [**Yutong**](https://elizazhou96.github.io/) ლ(╹◡╹ლ)
 
